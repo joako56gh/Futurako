@@ -1432,3 +1432,68 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [28Jun2025 22:08:18.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
 [28Jun2025 22:08:18.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [28Jun2025 22:08:18.601] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[28Jun2025 22:12:00.284] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-675, y=-20, z=2212}
+[28Jun2025 22:12:12.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Knowledge of Death]
+[28Jun2025 22:12:12.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Your First Receptacle]
+[28Jun2025 22:12:12.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Funeral Theft]
+[28Jun2025 22:12:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Not Today, Thank You]
+[28Jun2025 22:13:47.237] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[28Jun2025 22:14:40.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [A Strange Grave Dust]
+[28Jun2025 22:19:29.045] [Ice and Fire Pathfinding Worker #0/WARN] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding Exception
+java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ropelogged, clazz=class java.lang.Boolean, values=[true, false]} as it does not exist in Block{minecraft:air}
+	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23349!/:?]
+	at vectorwing.farmersdelight.common.block.TomatoVineBlock.isLadder(TomatoVineBlock.java:157) ~[FarmersDelight-1.20.1-1.2.7.jar%23270!/:1.20.1-1.2.7]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isLadder(AbstractPathJob.java:1469) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isPassable(AbstractPathJob.java:1305) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isFlyable(AbstractPathJob.java:1424) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.getGroundHeight(AbstractPathJob.java:1020) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walk(AbstractPathJob.java:877) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walkCurrentNode(AbstractPathJob.java:667) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.search(AbstractPathJob.java:596) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.PathJobMoveToLocation.search(PathJobMoveToLocation.java:62) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:541) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:46) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[28Jun2025 22:19:31.340] [Ice and Fire Pathfinding Worker #0/WARN] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding Exception
+java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ropelogged, clazz=class java.lang.Boolean, values=[true, false]} as it does not exist in Block{minecraft:air}
+	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23349!/:?]
+	at vectorwing.farmersdelight.common.block.TomatoVineBlock.isLadder(TomatoVineBlock.java:157) ~[FarmersDelight-1.20.1-1.2.7.jar%23270!/:1.20.1-1.2.7]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isLadder(AbstractPathJob.java:1469) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isPassable(AbstractPathJob.java:1305) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isFlyable(AbstractPathJob.java:1424) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.getGroundHeight(AbstractPathJob.java:1020) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walk(AbstractPathJob.java:877) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walkCurrentNode(AbstractPathJob.java:667) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.search(AbstractPathJob.java:596) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.PathJobMoveToLocation.search(PathJobMoveToLocation.java:62) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:541) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:46) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[28Jun2025 22:19:40.040] [Ice and Fire Pathfinding Worker #0/WARN] [com.github.alexthe666.iceandfire.IceAndFire/]: Pathfinding Exception
+java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ropelogged, clazz=class java.lang.Boolean, values=[true, false]} as it does not exist in Block{minecraft:air}
+	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23349!/:?]
+	at vectorwing.farmersdelight.common.block.TomatoVineBlock.isLadder(TomatoVineBlock.java:157) ~[FarmersDelight-1.20.1-1.2.7.jar%23270!/:1.20.1-1.2.7]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isLadder(AbstractPathJob.java:1469) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isPassable(AbstractPathJob.java:1305) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.isFlyable(AbstractPathJob.java:1424) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.getGroundHeight(AbstractPathJob.java:1020) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walk(AbstractPathJob.java:877) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.walkCurrentNode(AbstractPathJob.java:667) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.search(AbstractPathJob.java:596) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.PathJobMoveToLocation.search(PathJobMoveToLocation.java:62) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:541) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at com.github.alexthe666.iceandfire.pathfinding.raycoms.pathjobs.AbstractPathJob.call(AbstractPathJob.java:46) ~[iceandfire-2.1.13-1.20.1-beta-5.jar%23284!/:2.1.13-1.20.1]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[28Jun2025 22:20:27.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[28Jun2025 22:21:05.684] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lori'/12384, l='ServerLevel[world]', x=-511.46, y=74.00, z=2144.46] died, message: 'Lori burned to death'
+[28Jun2025 22:21:05.687] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[28Jun2025 22:21:05.691] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
