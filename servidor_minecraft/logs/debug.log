@@ -9339,3 +9339,77 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [28Jun2025 22:01:21.457] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_canopy_1
 [28Jun2025 22:01:21.624] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-860, y=-19, z=2534}
 [28Jun2025 22:01:21.624] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-861, y=-19, z=2534}
+[28Jun2025 22:02:35.036] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[28Jun2025 22:02:39.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Acquire Hardware]
+[28Jun2025 22:02:42.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Suit Up]
+[28Jun2025 22:03:10.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:03:10.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:03:21.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Isn't It Iron Pick]
+[28Jun2025 22:04:27.232] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[28Jun2025 22:04:27.483] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[28Jun2025 22:04:48.458] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-956, y=18, z=2650}
+[28Jun2025 22:04:52.470] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_trunk_1
+[28Jun2025 22:04:52.470] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_canopy_1
+[28Jun2025 22:04:56.802] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[28Jun2025 22:05:09.615] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/jacaranda/jacaranda_trunk_4 is being run through DFU (hash 1891e83d03767c73f4b29ddbc03027ceab9c13616cb4a9801110a6527dacb6bf), this will cause launch time delays
+[28Jun2025 22:05:09.778] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/jacaranda/jacaranda_canopy_4 is being run through DFU (hash e7078df42a5a0144dff749e0860e81649bbf62035b386e3d70e64e4713929e57), this will cause launch time delays
+[28Jun2025 22:05:09.833] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_trunk_3
+[28Jun2025 22:05:09.834] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_canopy_3
+[28Jun2025 22:05:14.480] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[28Jun2025 22:05:16.133] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ironwood/ironwood_trunk1 is being run through DFU (hash a01812ec26f760aee4219889370c26088cfa984e6f774e4e4d5d2eefea884a98), this will cause launch time delays
+[28Jun2025 22:05:16.135] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ironwood/ironwood_canopy1 is being run through DFU (hash 01a241cb97f958d07de900db358e1c712a65c2bb6f0dd1285bab02b2bf7a5c9f), this will cause launch time delays
+[28Jun2025 22:05:16.145] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_trunk4
+[28Jun2025 22:05:16.147] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_canopy4
+[28Jun2025 22:05:16.231] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:05:16.233] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:05:16.234] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:05:16.234] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:05:16.960] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[28Jun2025 22:05:16.975] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:savanna_village_horned_statue
+[28Jun2025 22:05:16.995] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/savanna/houses/hunter_trainer
+[28Jun2025 22:05:17.014] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/totem
+[28Jun2025 22:05:17.018] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/savanna/houses/savanna_temple_1
+[28Jun2025 22:05:17.047] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:rito_village_goddess_statue
+[28Jun2025 22:05:17.075] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/savanna/houses/savanna_temple_2
+[28Jun2025 22:05:21.330] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ebony/ebony_bush_trunk is being run through DFU (hash e723034a7bd9d8a92474048cad7d618c319075bd8cdbb4665be5c467f84bd1bd), this will cause launch time delays
+[28Jun2025 22:05:21.332] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ebony/ebony_canopy2 is being run through DFU (hash d2eb59930c104668f4adb268e200281e206e1db10f62aa508a73545f5048e93a), this will cause launch time delays
+[28Jun2025 22:05:22.270] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ironwood/ironwood_trunk3 is being run through DFU (hash a960e10f501b10d2baeb08ef4b5704b8d3238b77b46bf238eae09a9d656c1e3c), this will cause launch time delays
+[28Jun2025 22:05:22.271] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ironwood/ironwood_canopy3 is being run through DFU (hash bac3eaec779fd646a22522a29a75607b3183122deaa2dbb784ecbc6d68708935), this will cause launch time delays
+[28Jun2025 22:05:23.324] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ebony/ebony_trunk1 is being run through DFU (hash 48b1d9c4ae7b9458530f0701ab897e00a4376f37f97cb06094674ab0d6bf7e7a), this will cause launch time delays
+[28Jun2025 22:05:23.326] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ebony/ebony_canopy1 is being run through DFU (hash 80ae0246b49f0dfa76c52323901b881f1506a092ff52c3736794df19399d32fa), this will cause launch time delays
+[28Jun2025 22:05:23.342] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ebony/ebony_trunk2 is being run through DFU (hash 974e3fa9bb80a30b38a7b2bd2b31df59adcf295229d86d16fd6c3ce359ac14d4), this will cause launch time delays
+[28Jun2025 22:05:23.691] [Worker-Main-4/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ironwood/ironwood_trunk2 is being run through DFU (hash a960e10f501b10d2baeb08ef4b5704b8d3238b77b46bf238eae09a9d656c1e3c), this will cause launch time delays
+[28Jun2025 22:05:23.693] [Worker-Main-4/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ironwood/ironwood_canopy2 is being run through DFU (hash af96b778e6b696d4a03babe01fd2c0afd088fdcb97931fea68fcb06a337fffc9), this will cause launch time delays
+[28Jun2025 22:05:27.497] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_trunk_2
+[28Jun2025 22:05:27.498] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_canopy_2
+[28Jun2025 22:05:30.080] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[28Jun2025 22:05:30.182] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[28Jun2025 22:05:30.731] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[28Jun2025 22:05:51.392] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[28Jun2025 22:05:51.410] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[28Jun2025 22:05:51.414] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 22:06:04.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Ghost
+[28Jun2025 22:06:04.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[28Jun2025 22:06:04.111] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:-796, y:64, z:2445, dim:minecraft:overworld]
+[28Jun2025 22:06:04.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Your First Grave]
+[28Jun2025 22:06:05.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[28Jun2025 22:06:05.428] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 22:06:08.587] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1280, y=-2, z=2609}
+[28Jun2025 22:06:08.588] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1283, y=-2, z=2611}
+[28Jun2025 22:06:38.319] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:06:38.320] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:06:38.320] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:06:38.320] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:07:22.207] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-923, y=-18, z=2654}
+[28Jun2025 22:07:41.482] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[28Jun2025 22:07:41.832] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[28Jun2025 22:07:50.081] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[28Jun2025 22:07:54.933] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[28Jun2025 22:07:58.229] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-593, y=-53, z=2646}
+[28Jun2025 22:07:58.232] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-591, y=-53, z=2646}
+[28Jun2025 22:08:10.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:08:10.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:08:18.277] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[28Jun2025 22:08:18.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[28Jun2025 22:08:18.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[28Jun2025 22:08:18.601] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
