@@ -1,0 +1,108 @@
+{
+  "tcp_alloc": {
+    "allowed": 6,
+    "claimed": 1,
+    "desired": 1
+  },
+  "tunnels": [
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "up-questions.gl.joinmc.link",
+          "assigned_srv": "up-questions.gl.joinmc.link",
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "bcfe2b5f-be35-443a-8154-1b34ad7e779d",
+          "ip_hostname": "29.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 45990,
+          "port_start": 45989,
+          "region": "global",
+          "static_ip4": "147.185.221.29",
+          "static_ip6": "2602:fbaf:0:1::1d",
+          "tunnel_ip": "2602:fbaf:0:1::1d"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2025-06-28T21:07:33.074511Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "ebb54b2f-5707-4c09-a1a3-2b9486d47dd1",
+      "name": "Minecraft Java",
+      "origin": {
+        "data": {
+          "agent_id": "e0de507d-acd2-490e-8907-17e464a94cae",
+          "agent_name": "futurako",
+          "local_ip": "127.0.0.1",
+          "local_port": 25565
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "tcp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-java"
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "texas-jail.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "10514cc5-e8dd-4cdf-b4da-b9077f9421f9",
+          "ip_hostname": "29.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 3557,
+          "port_start": 3556,
+          "region": "global",
+          "static_ip4": "147.185.221.29",
+          "static_ip6": "2602:fbaf:0:1::1d",
+          "tunnel_ip": "2602:fbaf:0:1::1d"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2025-06-28T21:08:44.619928Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "3c7929ce-e3c0-4152-92cd-e5fb42c60fcf",
+      "name": "unnamed",
+      "origin": {
+        "data": {
+          "agent_id": "e0de507d-acd2-490e-8907-17e464a94cae",
+          "agent_name": "futurako",
+          "local_ip": "127.0.0.1",
+          "local_port": 3565
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "udp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": null
+    }
+  ],
+  "udp_alloc": {
+    "allowed": 6,
+    "claimed": 1,
+    "desired": 1
+  }
+}
