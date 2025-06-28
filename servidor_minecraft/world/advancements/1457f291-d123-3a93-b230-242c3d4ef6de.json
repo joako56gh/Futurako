@@ -905,6 +905,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-06-28 21:28:02 +0000",
+      "minecraft:wooded_badlands": "2025-06-28 23:43:23 +0000",
       "minecraft:badlands": "2025-06-28 21:54:59 +0000",
       "minecraft:sparse_jungle": "2025-06-28 21:43:35 +0000",
       "minecraft:river": "2025-06-28 21:47:51 +0000",
@@ -2594,10 +2595,13 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:atacama_outback": "2025-06-28 23:45:13 +0000",
       "biomeswevegone:windswept_desert": "2025-06-28 21:59:20 +0000",
       "biomeswevegone:crag_gardens": "2025-06-28 22:09:12 +0000",
       "biomeswevegone:mojave_desert": "2025-06-28 22:29:32 +0000",
       "biomeswevegone:enchanted_tangle": "2025-06-28 21:47:59 +0000",
+      "biomeswevegone:red_rock_valley": "2025-06-28 23:43:10 +0000",
+      "biomeswevegone:sierra_badlands": "2025-06-28 23:42:54 +0000",
       "biomeswevegone:ironwood_gour": "2025-06-28 22:13:58 +0000",
       "biomeswevegone:amaranth_grassland": "2025-06-28 22:11:58 +0000"
     },
@@ -5242,6 +5246,12 @@
   "minecraft:recipes/building_blocks/cut_windswept_sandstone_from_windswept_sandstone_stonecutting": {
     "criteria": {
       "has_windswept_sandstone": "2025-06-28 23:25:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-06-28 23:44:46 +0000"
     },
     "done": true
   },

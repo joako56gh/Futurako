@@ -1519,3 +1519,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [28Jun2025 23:40:47.968] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
 [28Jun2025 23:40:49.252] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [28Jun2025 23:44:46.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Rigged from the Start]
+[28Jun2025 23:49:51.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 lost connection: Disconnected
+[28Jun2025 23:49:51.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 left the game
+[28Jun2025 23:49:51.507] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO7
