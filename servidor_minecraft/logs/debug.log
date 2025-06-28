@@ -8856,3 +8856,135 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [28Jun2025 22:46:38.870] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
 [28Jun2025 22:46:38.887] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [28Jun2025 22:46:38.891] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 22:47:38.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was incinerated by a dragon
+[28Jun2025 22:47:38.816] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[28Jun2025 22:47:38.821] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:-261, y:9, z:2023, dim:minecraft:overworld]
+[28Jun2025 22:47:40.031] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[28Jun2025 22:47:40.034] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 22:47:40.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [The Most Useful Key]
+[28Jun2025 22:47:40.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/hunter_trainer
+[28Jun2025 22:47:40.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[28Jun2025 22:47:40.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[28Jun2025 22:47:40.583] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/straight_02
+[28Jun2025 22:47:40.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/entities/hunter_trainer
+[28Jun2025 22:47:40.628] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/plains_temple_4
+[28Jun2025 22:47:40.641] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[28Jun2025 22:47:40.816] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[28Jun2025 22:47:40.961] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:crow
+[28Jun2025 22:47:40.964] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[28Jun2025 22:47:40.966] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[28Jun2025 22:47:40.966] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[28Jun2025 22:47:40.967] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[28Jun2025 22:47:40.967] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[28Jun2025 22:47:41.127] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[28Jun2025 22:47:44.685] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/rainbow-eucalyptus/rainbow_eucalyptus_tree_large_trunk1
+[28Jun2025 22:47:44.688] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/rainbow-eucalyptus/rainbow_eucalyptus_tree_large_canopy1
+[28Jun2025 22:47:44.694] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_trunk4
+[28Jun2025 22:47:44.699] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy4
+[28Jun2025 22:47:44.701] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_trunk1
+[28Jun2025 22:47:44.703] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy3
+[28Jun2025 22:47:44.705] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/rainbow-eucalyptus/rainbow_eucalyptus_tree_canopy1
+[28Jun2025 22:47:44.855] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1280, y=-2, z=2609}
+[28Jun2025 22:47:44.871] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1283, y=-2, z=2610}
+[28Jun2025 22:47:44.877] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy1
+[28Jun2025 22:47:44.880] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy2
+[28Jun2025 22:47:45.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [A Fast Comeback]
+[28Jun2025 22:47:54.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:47:54.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:48:02.317] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[28Jun2025 22:48:02.323] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 22:48:14.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Chain Death]
+[28Jun2025 22:48:14.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 burned to death
+[28Jun2025 22:48:14.214] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:-259, y:9, z:2018, dim:minecraft:overworld]
+[28Jun2025 22:48:14.216] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 22:48:15.461] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 22:48:19.882] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1280, y=-2, z=2609}
+[28Jun2025 22:48:19.883] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1283, y=-2, z=2610}
+[28Jun2025 22:48:20.659] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.04 and blood value 0 for entity alexsmobs:fly
+[28Jun2025 22:48:49.162] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
+[28Jun2025 22:49:15.666] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[28Jun2025 22:49:15.671] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[28Jun2025 22:49:15.697] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[28Jun2025 22:49:15.713] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[28Jun2025 22:49:15.718] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[28Jun2025 22:49:15.722] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[28Jun2025 22:49:15.761] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[28Jun2025 22:49:15.768] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[28Jun2025 22:49:15.770] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_6_stairway
+[28Jun2025 22:49:15.773] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad
+[28Jun2025 22:49:15.775] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[28Jun2025 22:49:15.792] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[28Jun2025 22:49:15.798] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_5_straight_debris
+[28Jun2025 22:49:15.799] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[28Jun2025 22:49:15.803] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway
+[28Jun2025 22:49:15.806] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[28Jun2025 22:49:15.808] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[28Jun2025 22:49:15.827] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[28Jun2025 22:49:15.848] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[28Jun2025 22:49:15.851] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[28Jun2025 22:49:15.851] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[28Jun2025 22:49:15.852] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[28Jun2025 22:49:15.852] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[28Jun2025 22:49:15.852] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[28Jun2025 22:49:15.853] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[28Jun2025 22:49:15.853] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[28Jun2025 22:49:15.886] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[28Jun2025 22:49:15.895] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_terminator
+[28Jun2025 22:49:15.897] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_4_terminator
+[28Jun2025 22:49:15.899] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[28Jun2025 22:49:15.900] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[28Jun2025 22:49:15.901] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[28Jun2025 22:49:15.901] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[28Jun2025 22:49:15.902] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[28Jun2025 22:49:15.902] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[28Jun2025 22:49:15.932] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[28Jun2025 22:49:15.955] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[28Jun2025 22:49:15.976] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_lava_pit_0
+[28Jun2025 22:49:15.995] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[28Jun2025 22:49:16.016] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_1
+[28Jun2025 22:49:16.035] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_0
+[28Jun2025 22:49:16.058] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_2_stairway
+[28Jun2025 22:49:16.063] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[28Jun2025 22:49:16.064] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[28Jun2025 22:49:16.064] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[28Jun2025 22:49:16.065] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[28Jun2025 22:49:16.065] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[28Jun2025 22:49:16.066] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[28Jun2025 22:49:16.069] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[28Jun2025 22:49:16.073] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[28Jun2025 22:49:16.075] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[28Jun2025 22:49:16.100] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:49:16.101] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:49:16.102] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:49:16.102] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:49:16.788] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[28Jun2025 22:49:18.310] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1033, y=-1, z=2095}
+[28Jun2025 22:49:18.310] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1031, y=-1, z=2095}
+[28Jun2025 22:49:23.007] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[28Jun2025 22:49:24.785] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-947, y=-28, z=2098}
+[28Jun2025 22:49:28.809] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jun2025 22:49:30.108] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jun2025 22:49:30.708] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jun2025 22:49:30.807] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jun2025 22:49:31.056] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jun2025 22:49:39.308] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[28Jun2025 22:49:47.108] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.7 and blood value 0 for entity alexsmobs:rhinoceros
+[28Jun2025 22:49:56.208] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jun2025 22:49:56.309] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jun2025 22:49:56.610] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jun2025 22:49:57.109] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jun2025 22:49:57.909] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[28Jun2025 22:50:34.615] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[28Jun2025 22:50:50.925] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 53.801s
+[28Jun2025 22:50:55.614] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[28Jun2025 22:51:51.012] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[28Jun2025 22:52:35.658] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[28Jun2025 22:52:54.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:52:54.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:54:22.110] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[28Jun2025 22:54:22.113] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 22:54:57.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 suffocated in a wall whilst fighting Fire Dragon
+[28Jun2025 22:54:57.064] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:-275, y:23, z:2022, dim:minecraft:overworld]
+[28Jun2025 22:54:57.069] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 22:54:58.602] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 22:55:03.703] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1280, y=-2, z=2609}

@@ -1345,3 +1345,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [28Jun2025 22:46:38.870] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
 [28Jun2025 22:46:38.887] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [28Jun2025 22:46:38.891] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 22:47:38.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was incinerated by a dragon
+[28Jun2025 22:47:38.816] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[28Jun2025 22:47:40.031] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[28Jun2025 22:47:40.034] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 22:47:40.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [The Most Useful Key]
+[28Jun2025 22:47:40.816] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[28Jun2025 22:47:41.127] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[28Jun2025 22:47:44.855] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1280, y=-2, z=2609}
+[28Jun2025 22:47:44.871] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1283, y=-2, z=2610}
+[28Jun2025 22:47:45.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [A Fast Comeback]
+[28Jun2025 22:48:02.317] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[28Jun2025 22:48:02.323] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 22:48:14.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Chain Death]
+[28Jun2025 22:48:14.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 burned to death
+[28Jun2025 22:48:14.216] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 22:48:15.461] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 22:48:19.882] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1280, y=-2, z=2609}
+[28Jun2025 22:48:19.883] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1283, y=-2, z=2610}
+[28Jun2025 22:49:16.100] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:49:16.101] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:49:16.102] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:49:16.102] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[28Jun2025 22:49:18.310] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1033, y=-1, z=2095}
+[28Jun2025 22:49:18.310] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1031, y=-1, z=2095}
+[28Jun2025 22:49:24.785] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-947, y=-28, z=2098}
+[28Jun2025 22:49:39.308] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[28Jun2025 22:50:34.615] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[28Jun2025 22:50:55.614] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[28Jun2025 22:51:51.012] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[28Jun2025 22:54:22.110] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[28Jun2025 22:54:22.113] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 22:54:57.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 suffocated in a wall whilst fighting Fire Dragon
+[28Jun2025 22:54:57.069] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 22:54:58.602] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 22:55:03.703] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1280, y=-2, z=2609}
