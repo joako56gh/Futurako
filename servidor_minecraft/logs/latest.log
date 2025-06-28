@@ -1380,3 +1380,40 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [28Jun2025 22:54:57.069] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
 [28Jun2025 22:54:58.602] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [28Jun2025 22:55:03.703] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1280, y=-2, z=2609}
+[28Jun2025 22:56:52.613] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-878, y=-31, z=2013}
+[28Jun2025 22:58:01.066] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Caiden'/12932, l='ServerLevel[world]', x=-520.97, y=66.21, z=2186.30] died, message: 'Caiden was shot by Martin'
+[28Jun2025 22:58:01.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Caiden'/12932, l='ServerLevel[world]', x=-520.97, y=66.21, z=2186.30] died: Caiden was shot by Martin
+[28Jun2025 22:58:01.071] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[28Jun2025 22:58:01.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[28Jun2025 23:01:00.363] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[28Jun2025 23:01:00.366] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 23:01:10.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Fire Dragon
+[28Jun2025 23:01:11.797] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 23:01:13.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Here They Come]
+[28Jun2025 23:01:42.911] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[28Jun2025 23:01:42.918] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 23:01:48.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Fire Dragon
+[28Jun2025 23:01:50.214] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 23:04:28.663] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[28Jun2025 23:04:28.668] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 23:04:38.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 burned to death
+[28Jun2025 23:04:38.765] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 23:04:39.907] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 23:04:47.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 was kicked for floating too long!
+[28Jun2025 23:04:47.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 lost connection: Flying is not enabled on this server
+[28Jun2025 23:04:47.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 left the game
+[28Jun2025 23:04:47.364] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO7
+[28Jun2025 23:04:47.438] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jun2025 23:04:56.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOA_KINGSITO7[/127.37.118.126:57257] logged in with entity id 20874 at (-308.36859598639944, 51.27610442970682, 2024.2547470657657)
+[28Jun2025 23:04:56.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 joined the game
+[28Jun2025 23:04:56.965] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'JOA_KINGSITO7'
+[28Jun2025 23:04:56.965] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'JOA_KINGSITO7'
+[28Jun2025 23:04:56.975] [Server thread/INFO] [Jade/]: Syncing config to JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de)
+[28Jun2025 23:04:57.279] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JOA_KINGSITO7 (18)
+[28Jun2025 23:04:57.282] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7
+[28Jun2025 23:04:57.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jun2025 23:04:57.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaa<--[HERE]
+[28Jun2025 23:05:07.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1457f291-d123-3a93-b230-242c3d4ef6de
+[28Jun2025 23:05:08.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1457f291-d123-3a93-b230-242c3d4ef6de
+[28Jun2025 23:05:08.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat
+[28Jun2025 23:05:25.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Ashes 'n Bones]
