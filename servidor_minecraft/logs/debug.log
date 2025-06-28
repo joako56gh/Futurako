@@ -10644,3 +10644,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [28Jun2025 23:35:17.614] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:-187, y:69, z:1869, dim:minecraft:overworld]
 [28Jun2025 23:35:17.615] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
 [28Jun2025 23:35:18.840] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 23:37:54.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 23:37:54.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 23:38:34.779] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[28Jun2025 23:38:34.782] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 23:38:47.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was doomed to fall by Fire Dragon
+[28Jun2025 23:38:47.920] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:-173, y:38, z:1887, dim:minecraft:overworld]
+[28Jun2025 23:38:49.065] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 23:39:07.262] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[28Jun2025 23:39:07.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[28Jun2025 23:40:37.962] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[28Jun2025 23:40:37.965] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 23:40:47.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 burned to death
+[28Jun2025 23:40:47.966] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:-161, y:34, z:1912, dim:minecraft:overworld]
+[28Jun2025 23:40:47.968] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[28Jun2025 23:40:49.252] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jun2025 23:42:54.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 23:42:54.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 23:44:46.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Rigged from the Start]
