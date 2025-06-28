@@ -1,186 +1,3750 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1751145052204 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1751145472767 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145055308 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145475869 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145058401 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145478962 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145061503 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145482062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145064597 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145485150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145067701 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145488243 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145070801 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145491332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145073894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145494418 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145076994 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145497509 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145080089 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145500601 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145083182 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145503690 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145086274 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145506778 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145089368 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145509879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145092461 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145512974 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145095561 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145516062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145098659 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145519152 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145101768 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145522238 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145104864 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145525329 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145107958 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145528419 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145111053 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145531513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145114143 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145534609 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145117240 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145537696 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145120338 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145540784 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145123436 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145543874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145126528 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145546965 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145129621 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145550062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145132824 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145553153 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145135924 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145556243 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145139017 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145559332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145142112 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145562423 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1751145145204 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751145565513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3565 (proto: Udp, port count: 1)
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145568603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145571694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145574792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145577881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145580977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145584067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145587161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145590253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145593343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145596433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145599523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145602613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145605710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145608797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145611922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145615018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145618116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145621211 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145624305 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145627399 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145630491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145633592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145636690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145639785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145642886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145645980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145649071 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145652170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145655281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145658375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145661469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145664569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145667665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145670766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145673885 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145676984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145680077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145683170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145686269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145689375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145692466 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145695565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145698674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145701773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145704882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145707978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145711076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145714170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145717269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145720368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145723467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145726563 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145729669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145732770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145735875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145738970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145742062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145745162 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145748252 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145751345 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145754438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145757534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145760639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145763734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145766841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145769932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145773031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145776124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145779216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145782315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145785418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145788519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145791614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145794713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145797813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145800911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145804015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145807113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145810204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145813298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145816390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145819483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145822572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145825665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145828765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145831873 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145834970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145838073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145841171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145844271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145847362 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145850474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145853578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145856675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145859777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145862882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145865974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145869063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145872154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145875249 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145878343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145881465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145884556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145887649 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145890756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145893852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145896945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145900038 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145903133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145906233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145909328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145912418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145915518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145918610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145921725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145924822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145927932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145931046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145934151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145937251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145940343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145943438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145946544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145949643 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145952753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145955849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145958947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145962041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145965139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145968231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145971319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145974413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145977502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145980595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145983690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145986780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145989870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145992959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145996051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751145999145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146002235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146005325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146008413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146011504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146014597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146017683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146020774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146023861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146026952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146030048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146033137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146036225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146039316 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146042413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146045504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146048592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146051679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146054773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146057878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146060969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146064063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146067152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146070244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146073334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146076428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146079517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146082612 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146085706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146088801 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146091890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146094982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146098069 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146101162 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146104250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146107340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146110428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146113522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146116611 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146119708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146122795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146125884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146128969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146132059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146135147 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146138237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146141325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146144415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146147506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146150605 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146153695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146156784 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146159885 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146162973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146166063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146169155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146172253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146175351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146178444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146181536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146184624 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146187711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146190803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146193897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146196985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146200092 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146203184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146206275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146209368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146212456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146215564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146218688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146221780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146224870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146227968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146231060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146234154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146237246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146240341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146243430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146246528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146249630 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146252727 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146255829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146258929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146262022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146265119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146268211 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146271311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146274404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146277499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146280598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146283691 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146286788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146289881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146292976 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146296078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146299174 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146302278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146305377 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146308491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146311601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146314692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146317788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146320886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146324003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146327094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146330202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146333297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146336391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146339493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146342586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146345687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146348782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146351876 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146354971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146358068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146361160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146364256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146367349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146370443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146373533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146376652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146379743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146382851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146385952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146389046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146392138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146395235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146398332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146401422 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146404526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146407616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146410710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146413802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146416894 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146419987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146423086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146426179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146429272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146432367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146435464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146438561 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146441657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146444750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146447840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146450934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146454031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146457124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146460228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146463338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146466445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146469540 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146472633 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146475726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146478817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146481910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146484999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146488088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146491182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146494272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146497367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146500459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146503552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146506651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146509743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146512833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146515929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146519018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146522115 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146525208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146528308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146531401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146534494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146537587 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146540683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146543774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146546867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146549963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146553055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146556145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146559246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146562337 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146565439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146568533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146571626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146574717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146577813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146580911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146584002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146587111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146590215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146593305 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146596395 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146599483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146602572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146605665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146608753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146611849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146614941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146618029 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146621122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146624211 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146627300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146630397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146633496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146636587 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146639683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146642772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146645862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146648958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146652047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146655139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146658237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146661328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146664424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146667515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146670605 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146673693 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146676785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146679876 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146682965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146686058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146689145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146692235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146695324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146698413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146701503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146704592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146707680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146710770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146713859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146716947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146720043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146723130 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146726239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146729331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146732423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146735515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146738609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146741700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146744792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146747882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146750976 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146754066 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146757157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146760247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146763335 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146766421 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146769516 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146772620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146775715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146778803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146781895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146784983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146788070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146791159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146794251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146797339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146800434 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146803529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146806617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146809712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146812802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146815894 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146818982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146822070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146825161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146828255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146831349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146834442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146837530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146840638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146843725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146846812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146849904 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146852998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146856101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146859196 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146862294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146865388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146868475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146871572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146874660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146877835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146880931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146884019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146887107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146890202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146893296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146896388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146899476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146902564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146905657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146908746 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146911836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146914927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146918017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146921125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146924212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146927315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146930410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146933499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146936594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146939682 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146942773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146945865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146948955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146952044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146955132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146958221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146961324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146964413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146967502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146970594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146973683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146976774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146979862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146982952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146986041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146989128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146992217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146995309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751146998406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147001493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147004582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147007669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147010758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147013850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147016940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147020032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147023119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147026210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147029297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147032385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147035476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147038564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147041654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147044743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147047831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147050922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147054016 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147057105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147060198 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147063288 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147066379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147069465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147072558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147075650 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147078741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147081827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147084916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147088007 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147091094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147094185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147097276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147100367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147103458 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147106546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147109635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147112721 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147115811 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147118901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147121989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147125094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147128187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147131274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147134363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147137453 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147140547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147143634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147146721 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147149817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147152912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147155999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147159085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147162175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147165262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147168355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147171445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147174533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147177629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147180735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147183829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147186920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147190021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147193110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147196199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147199298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147202386 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147205482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147208572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147211662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147214749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147217844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147220934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147224025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147227117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147230207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147233293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147236385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147239481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147242573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147245664 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147248754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147251842 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147254932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147258020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147261111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147264198 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147267287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147270381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147273468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147276557 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147279646 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147282736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147285833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147288933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147292020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147295110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147298197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147301285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147304381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147307468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147310558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147313656 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147316748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147319840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147322928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147326025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147329117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147332220 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147335317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147338410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147341506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147344602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147347691 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147350786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147353881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147356968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147360055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147363155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147366245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147369339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147372430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147375519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147378608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147381697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147384785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147387875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147390967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147394061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147397155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147400251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
+up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1751147403339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+texas-jail.gl.at.ply.gg:3556 => 127.0.0.1:3556 (proto: Udp, port count: 1)
 up-questions.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)

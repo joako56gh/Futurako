@@ -85,7 +85,7 @@
           "agent_id": "e0de507d-acd2-490e-8907-17e464a94cae",
           "agent_name": "futurako",
           "local_ip": "127.0.0.1",
-          "local_port": 3565
+          "local_port": 3556
         },
         "type": "agent"
       },
