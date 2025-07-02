@@ -1,0 +1,937 @@
+{
+  "mcwfencesbyg:recipes/dacite_bricks": {
+    "criteria": {
+      "has_sand": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/mahogany": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/yellow_sakura_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/heavy_hook": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/ebony": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/purple_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/cika_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/ebony_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/aspen_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/blue_spruce_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/ironwood_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/white_mangrove_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/pine_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/orange_oak_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/cypress": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/flowering_skyris_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:grant_book_on_first_join_adv": {
+    "criteria": {
+      "grant_book_on_first_join_adv": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/witch_hazel_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/red_oak_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/orange_spruce_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/sakura": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/white_mangrove": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/blue_enchanted": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/white_sakura_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/acacia_fish_mount": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/light_hook": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/skyris_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/flowering_ironwood_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/cypress_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/fir_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/oak_fish_mount": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/palm": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/red_rock_bricks": {
+    "criteria": {
+      "has_sand": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "toolleveling:recipes/tool_leveling_table": {
+    "criteria": {
+      "has_enchanting_table": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/zelkova_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/florus": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/double_hook": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/fishing_line": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/flowering_orchard_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/yellow_spruce_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/witch_hazel": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/willow_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/flowering_palo_verde_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/cika": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/holly_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/yellow_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/baobab_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/blue_enchanted_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:root": {
+    "criteria": {
+      "root": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/flowering_jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "cosmeticarmoursmod:cosmetic_armours_achievement": {
+    "criteria": {
+      "cosmetic_armours_achievement_0": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/windswept_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/blooming_witch_hazel_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/jacaranda": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/zelkova": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/birch_fish_mount": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/red_spruce_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/willow": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/black_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/rainbow_eucalyptus_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/aspen": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-02 02:34:26 +0000",
+      "has_fillet_knife": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-02 02:34:26 +0000",
+      "has_fillet_knife": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/ironwood": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/fir": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/araucaria_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/brown_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_leggings": "2025-07-02 02:34:26 +0000",
+      "has_axe": "2025-07-02 02:34:26 +0000",
+      "has_helmet": "2025-07-02 02:34:26 +0000",
+      "has_fishing_rod": "2025-07-02 02:34:26 +0000",
+      "has_bow": "2025-07-02 02:34:26 +0000",
+      "has_chestplate": "2025-07-02 02:34:26 +0000",
+      "has_sword": "2025-07-02 02:34:26 +0000",
+      "has_fillet_knife": "2025-07-02 02:34:26 +0000",
+      "has_shovel": "2025-07-02 02:34:26 +0000",
+      "has_hoe": "2025-07-02 02:34:26 +0000",
+      "has_boots": "2025-07-02 02:34:26 +0000",
+      "has_pickaxe": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/brown_oak_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/redwood": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/blue_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/diamond_hook": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/holly": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/white_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2025-07-02 02:34:26 +0000",
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/green_enchanted": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/rainbow_eucalyptus": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/red_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/building_blocks/planks_from_driftwood": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/worm_farm": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/palm_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/skyris": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/pine": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/note_hook": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "cosmeticarmoursmod:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/flowering_indigo_jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/gold_hook": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/flowering_yucca_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/spruce_fish_mount": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/maple": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/red_maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/orange_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/redstone_hook": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/baobab": {
+    "criteria": {
+      "has_acacia": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-02 02:34:26 +0000",
+      "has_fillet_knife": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/bobber": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/redwood_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/pink_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/red_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbyg:recipes/green_enchanted_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_savanna": "2025-07-02 02:34:27 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbyg:recipes/brown_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-02 02:34:26 +0000",
+      "has_fillet_knife": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/jungle_fish_mount": {
+    "criteria": {
+      "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
