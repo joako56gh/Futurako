@@ -29,6 +29,18 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-07-02 03:05:02 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbyg:recipes/yellow_sakura_hedge": {
     "criteria": {
       "has_birch": "2025-07-02 02:48:48 +0000"
@@ -275,6 +287,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/yellow_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbyg:recipes/white_mangrove_hedge": {
     "criteria": {
       "has_birch": "2025-07-02 02:48:48 +0000"
@@ -317,6 +335,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/pink_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_the_recipe": "2025-07-02 02:50:37 +0000"
@@ -347,6 +371,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-02 03:05:02 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2025-07-02 02:50:57 +0000",
@@ -357,6 +387,12 @@
   "vampirism:recipes/decorations/general/tombstone2": {
     "criteria": {
       "has_stone": "2025-07-02 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-02 03:10:24 +0000"
     },
     "done": true
   },
@@ -384,6 +420,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/acacia_drawer": {
     "criteria": {
       "has_planks": "2025-07-02 02:55:09 +0000"
@@ -408,9 +450,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2025-07-02 03:05:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-07-02 02:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -438,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-02 03:10:29 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-07-02 02:50:37 +0000"
@@ -453,6 +513,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-02 02:50:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-07-02 03:05:01 +0000"
     },
     "done": true
   },
@@ -492,6 +558,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2025-07-02 03:05:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-02 02:50:37 +0000"
@@ -525,6 +597,12 @@
   "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
     "criteria": {
       "has_gold_ingot": "2025-07-02 02:58:26 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -882,6 +960,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-07-02 03:08:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-07-02 02:55:09 +0000"
@@ -891,6 +975,12 @@
   "biomeswevegone:recipes/transportation/holly_boat": {
     "criteria": {
       "in_water": "2025-07-02 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-02 03:08:25 +0000"
     },
     "done": true
   },
@@ -948,6 +1038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-02 03:08:25 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-07-02 02:50:37 +0000"
@@ -957,6 +1053,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-07-02 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -1020,6 +1122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-07-02 02:53:55 +0000"
@@ -1062,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-02 03:10:24 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-07-02 02:48:48 +0000"
@@ -1098,6 +1212,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2025-07-02 03:05:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-07-02 02:50:57 +0000"
@@ -1122,6 +1242,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2025-07-02 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-02 03:10:24 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-02 02:55:05 +0000"
@@ -1131,6 +1263,12 @@
   "mcwfencesbyg:recipes/zelkova_hedge": {
     "criteria": {
       "has_birch": "2025-07-02 02:48:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -1188,6 +1326,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2025-07-02 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-07-02 02:55:09 +0000"
@@ -1230,6 +1380,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-02 03:10:24 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/fishing_line": {
     "criteria": {
       "has_items": "2025-07-02 02:48:48 +0000"
@@ -1239,6 +1395,12 @@
   "vampirism:recipes/transportation/cursed_spruce_boat": {
     "criteria": {
       "in_water": "2025-07-02 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -1257,6 +1419,12 @@
   "mcwwindows:recipes/shutters": {
     "criteria": {
       "has_wood": "2025-07-02 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -1431,6 +1599,12 @@
   "mcwwindows:recipes/granite": {
     "criteria": {
       "has_the_recipe": "2025-07-02 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -1620,6 +1794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/alchemy_table": {
     "criteria": {
       "has_planks": "2025-07-02 02:50:57 +0000"
@@ -1680,6 +1860,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-07-02 03:05:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-02 03:08:39 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/cobblestone": {
     "criteria": {
       "has_wood": "2025-07-02 02:55:30 +0000"
@@ -1691,6 +1883,13 @@
       "has_gold_ingot": "2025-07-02 02:58:26 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-07-02 03:08:39 +0000",
+      "apple": "2025-07-02 03:11:59 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/gold_door": {
     "criteria": {
@@ -1872,6 +2071,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-07-02 02:58:26 +0000"
@@ -1929,6 +2134,12 @@
   "decorative_blocks:recipes/building_blocks/oak_palisade": {
     "criteria": {
       "has_log": "2025-07-02 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -2007,6 +2218,12 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-07-02 02:48:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-02 03:05:01 +0000"
     },
     "done": true
   },
@@ -2127,6 +2344,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/red_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2025-07-02 02:53:55 +0000"
@@ -2151,6 +2374,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire/blood_infused_iron_ingot": {
     "criteria": {
       "has_iron": "2025-07-02 02:53:55 +0000"
@@ -2172,6 +2401,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-07-02 02:48:48 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_table": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -2229,6 +2464,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-07-02 03:05:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-02 02:50:57 +0000"
@@ -2265,9 +2518,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/blood_container": {
     "criteria": {
       "has_iron": "2025-07-02 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-02 03:08:25 +0000"
     },
     "done": true
   },
@@ -2313,9 +2578,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-02 03:10:29 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
     "criteria": {
       "has_pure_blood": "2025-07-02 02:58:26 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -2346,6 +2623,12 @@
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-07-02 02:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -2474,11 +2757,29 @@
     },
     "done": true
   },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-02 03:05:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2025-07-02 02:55:09 +0000"
     },
     "done": true
+  },
+  "mca:recipes/decorations/blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-07-02 03:05:02 +0000"
+    },
+    "done": false
   },
   "mca:recipes/decorations/white_oak_crib": {
     "criteria": {
@@ -2519,6 +2820,12 @@
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-02 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -2606,9 +2913,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-02 03:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-07-02 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-07-02 03:05:01 +0000"
     },
     "done": true
   },
@@ -2679,6 +2998,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-07-02 03:10:24 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-07-02 02:48:48 +0000"
@@ -2739,6 +3064,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2025-07-02 03:05:03 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
     "criteria": {
       "has_pure_blood": "2025-07-02 02:58:26 +0000"
@@ -2754,6 +3085,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-02 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/item_tent": {
+    "criteria": {
+      "has_bed": "2025-07-02 03:05:21 +0000"
     },
     "done": true
   },
@@ -2775,9 +3112,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-07-02 03:05:01 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbyg:recipes/palm_hedge": {
     "criteria": {
       "has_birch": "2025-07-02 02:48:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-02 03:10:24 +0000"
     },
     "done": true
   },
@@ -2790,6 +3145,12 @@
   "mcwfencesbyg:recipes/pine": {
     "criteria": {
       "has_acacia": "2025-07-02 02:48:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -2847,6 +3208,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-07-02 02:54:24 +0000"
@@ -2877,9 +3244,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-07-02 02:53:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-07-02 03:05:02 +0000"
     },
     "done": true
   },
@@ -2903,6 +3282,8 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:cypress_swamplands": "2025-07-02 03:05:54 +0000",
+      "biomeswevegone:orchard": "2025-07-02 03:04:00 +0000",
       "biomeswevegone:prairie": "2025-07-02 02:58:02 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-02 02:51:25 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 02:51:09 +0000"
@@ -3011,6 +3392,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-02 03:10:24 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/dark_stone_brick_slab": {
     "criteria": {
       "has_dark_stone_bricks": "2025-07-02 02:58:28 +0000"
@@ -3044,6 +3431,12 @@
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-07-02 02:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-02 03:08:39 +0000"
     },
     "done": true
   },
@@ -3086,6 +3479,12 @@
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2025-07-02 02:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -3146,6 +3545,12 @@
   "biomeswevegone:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-07-02 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-02 03:11:12 +0000"
     },
     "done": true
   },
@@ -3213,6 +3618,12 @@
     "criteria": {
       "has_fishing_rod": "2025-07-02 02:48:48 +0000",
       "has_fillet_knife": "2025-07-02 02:48:48 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -3300,6 +3711,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2025-07-02 03:05:02 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_items": "2025-07-02 02:48:48 +0000"
@@ -3360,6 +3777,24 @@
     },
     "done": true
   },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2025-07-02 03:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-02 02:53:55 +0000"
@@ -3375,6 +3810,12 @@
   "mcwfencesbyg:recipes/pink_sandstone": {
     "criteria": {
       "has_sand": "2025-07-02 02:48:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
     },
     "done": true
   },
@@ -3426,6 +3867,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/lime_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbyg:recipes/green_enchanted_hedge": {
     "criteria": {
       "has_birch": "2025-07-02 02:48:48 +0000"
@@ -3440,11 +3887,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-07-02 03:10:19 +0000",
+      "minecraft:windswept_hills": "2025-07-02 03:07:08 +0000",
       "minecraft:beach": "2025-07-02 02:58:03 +0000",
+      "minecraft:river": "2025-07-02 03:04:11 +0000",
       "minecraft:ocean": "2025-07-02 02:54:26 +0000",
       "minecraft:windswept_savanna": "2025-07-02 02:48:49 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-02 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-02 03:05:01 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/pulley": {
     "criteria": {
@@ -3507,6 +3969,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-07-02 03:11:18 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-02 02:55:05 +0000"
@@ -3528,6 +4002,12 @@
   "mca:recipes/decorations/gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-02 02:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-02 03:10:29 +0000"
     },
     "done": true
   },
