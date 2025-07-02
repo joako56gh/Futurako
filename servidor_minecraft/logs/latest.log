@@ -1350,3 +1350,71 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Jul2025 02:54:41.765] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [02Jul2025 02:55:30.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Stone Age]
 [02Jul2025 02:57:04.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Stone Age]
+[02Jul2025 02:57:47.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Getting an Upgrade]
+[02Jul2025 02:58:05.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Alex's Mobs]
+[02Jul2025 02:58:15.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[02Jul2025 02:58:17.441] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:31.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.15576171875
+[02Jul2025 02:58:31.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.15576171875
+[02Jul2025 02:58:31.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.15576171875
+[02Jul2025 02:58:31.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.15576171875
+[02Jul2025 02:58:31.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.1510683773085475
+[02Jul2025 02:58:31.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.1421591800825297
+[02Jul2025 02:58:46.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[02Jul2025 02:59:45.624] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[02Jul2025 02:59:45.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[02Jul2025 02:59:45.640] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[02Jul2025 02:59:55.618] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[02Jul2025 02:59:55.622] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[02Jul2025 02:59:58.404] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[02Jul2025 02:59:58.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> 354 254
+[02Jul2025 03:00:18.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was slain by Ghost
+[02Jul2025 03:00:18.831] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[02Jul2025 03:00:18.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Your First Grave]
+[02Jul2025 03:00:20.072] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[02Jul2025 03:00:20.075] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jul2025 03:00:21.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was shot by Pillager
+[02Jul2025 03:00:21.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Your First Grave]
+[02Jul2025 03:00:22.840] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jul2025 03:00:46.323] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[02Jul2025 03:00:46.327] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[02Jul2025 03:00:53.264] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[02Jul2025 03:01:12.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Monster Hunter]
+[02Jul2025 03:02:00.729] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=570, y=-7, z=213}
+[02Jul2025 03:02:00.729] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=571, y=-7, z=213}
+[02Jul2025 03:02:00.737] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=573, y=10, z=180}
+[02Jul2025 03:02:00.737] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=575, y=10, z=180}
+[02Jul2025 03:02:13.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Knowledge of Death]
+[02Jul2025 03:02:13.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Ambush]
+[02Jul2025 03:02:18.661] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[02Jul2025 03:02:28.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 0.326744343813516
+[02Jul2025 03:02:29.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 0.5702562607432924
+[02Jul2025 03:02:29.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 0.7210594621203654
+[02Jul2025 03:02:55.721] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[02Jul2025 03:02:55.727] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[02Jul2025 03:03:19.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was shot by Pillager
+[02Jul2025 03:03:21.201] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jul2025 03:03:33.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[02Jul2025 03:03:33.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[02Jul2025 03:03:33.269] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[02Jul2025 03:03:39.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$EquipmentType
+[02Jul2025 03:03:39.414] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$HatType
+[02Jul2025 03:03:40.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Here They Come]
+[02Jul2025 03:04:53.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Suit Up]
+[02Jul2025 03:05:22.515] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[02Jul2025 03:05:22.521] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[02Jul2025 03:05:31.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Vindicator
+[02Jul2025 03:05:33.069] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jul2025 03:05:49.468] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[02Jul2025 03:05:49.473] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[02Jul2025 03:05:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Chain Death]
+[02Jul2025 03:05:56.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Vindicator
+[02Jul2025 03:05:57.508] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jul2025 03:07:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> 667 130

@@ -8883,3 +8883,175 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [02Jul2025 02:54:41.765] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [02Jul2025 02:55:30.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Stone Age]
 [02Jul2025 02:57:04.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Stone Age]
+[02Jul2025 02:57:47.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Getting an Upgrade]
+[02Jul2025 02:58:02.634] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk2
+[02Jul2025 02:58:02.638] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy2
+[02Jul2025 02:58:05.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Alex's Mobs]
+[02Jul2025 02:58:14.205] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/prairie/prairie_shrub_canopy2 is being run through DFU (hash e52a05620f36896b59cc00fc0236610c0ddcfebcba5155b582cefae3fb673517), this will cause launch time delays
+[02Jul2025 02:58:15.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[02Jul2025 02:58:17.441] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[02Jul2025 02:58:21.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 02:58:21.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:22.970] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jul2025 02:58:31.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.15576171875
+[02Jul2025 02:58:31.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.15576171875
+[02Jul2025 02:58:31.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.15576171875
+[02Jul2025 02:58:31.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.15576171875
+[02Jul2025 02:58:31.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.1510683773085475
+[02Jul2025 02:58:31.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.1421591800825297
+[02Jul2025 02:58:46.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[02Jul2025 02:58:51.857] [Worker-Main-4/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/building is being run through DFU (hash bfe7777c872d0a661fb3a707949dad660d6645d311cbc093100149bfa0745998), this will cause launch time delays
+[02Jul2025 02:58:52.213] [Worker-Main-4/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/basement is being run through DFU (hash 345e3da793356688449424b08af8595766f04c7237ab62d2e3f86f6b4f7a324f), this will cause launch time delays
+[02Jul2025 02:58:52.357] [Worker-Main-4/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/gorgon is being run through DFU (hash c50421b376c509e5dbf6b684c09a3de7a2e32e3a96b4f2dfca32fe843f7c5e68), this will cause launch time delays
+[02Jul2025 02:58:55.965] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[02Jul2025 02:58:56.022] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
+[02Jul2025 02:59:06.834] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[02Jul2025 02:59:06.843] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[02Jul2025 02:59:06.861] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[02Jul2025 02:59:06.869] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[02Jul2025 02:59:06.877] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[02Jul2025 02:59:45.624] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[02Jul2025 02:59:45.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[02Jul2025 02:59:45.640] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[02Jul2025 02:59:55.618] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[02Jul2025 02:59:55.622] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[02Jul2025 02:59:58.404] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[02Jul2025 02:59:58.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> 354 254
+[02Jul2025 03:00:18.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was slain by Ghost
+[02Jul2025 03:00:18.831] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[02Jul2025 03:00:18.835] [Server thread/DEBUG] [tombstone/]: A new grave of the player Futuuuro was created at position [x:360, y:50, z:258, dim:minecraft:overworld]
+[02Jul2025 03:00:18.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Your First Grave]
+[02Jul2025 03:00:20.072] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[02Jul2025 03:00:20.075] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jul2025 03:00:21.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was shot by Pillager
+[02Jul2025 03:00:21.724] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:27, y:71, z:129, dim:minecraft:overworld]
+[02Jul2025 03:00:21.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Your First Grave]
+[02Jul2025 03:00:22.840] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jul2025 03:00:46.323] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[02Jul2025 03:00:46.327] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[02Jul2025 03:00:53.264] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[02Jul2025 03:01:12.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Monster Hunter]
+[02Jul2025 03:01:13.318] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@25e30cb5 for service interface com.blamejared.clumps.platform.IEventHelper
+[02Jul2025 03:01:13.319] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@1af2c619 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[02Jul2025 03:02:00.729] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=570, y=-7, z=213}
+[02Jul2025 03:02:00.729] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=571, y=-7, z=213}
+[02Jul2025 03:02:00.737] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=573, y=10, z=180}
+[02Jul2025 03:02:00.737] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=575, y=10, z=180}
+[02Jul2025 03:02:13.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Knowledge of Death]
+[02Jul2025 03:02:13.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Ambush]
+[02Jul2025 03:02:18.020] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.02 and blood value 7 for entity alexsmobs:alligator_snapping_turtle
+[02Jul2025 03:02:18.661] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[02Jul2025 03:02:22.440] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[02Jul2025 03:02:28.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 0.326744343813516
+[02Jul2025 03:02:29.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 0.5702562607432924
+[02Jul2025 03:02:29.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 0.7210594621203654
+[02Jul2025 03:02:46.114] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[02Jul2025 03:02:55.721] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[02Jul2025 03:02:55.727] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[02Jul2025 03:02:55.775] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ancient/ancient_tree_trunk2 is being run through DFU (hash 40b612f2bf4f14a86c15499a6c988ecfc1e5543da600f085d97403f6f17a83f6), this will cause launch time delays
+[02Jul2025 03:02:55.780] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ancient/ancient_tree_canopy2 is being run through DFU (hash 87f189186b6731bfb41d364298e413665f1e333b6babb52c48c3698d5e41c97e), this will cause launch time delays
+[02Jul2025 03:02:55.948] [Worker-Main-4/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ancient/ancient_tree_trunk3 is being run through DFU (hash e6eada726cf2ac18ce74d9f3bdc29df0d80d55a69fc2dcb5fea3b4b08cd8f88d), this will cause launch time delays
+[02Jul2025 03:02:55.985] [Worker-Main-4/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ancient/ancient_tree_canopy3 is being run through DFU (hash b938a7336135963ca7a62e82acd9af55eaf57692f3ec392e08366aa69f975cc7), this will cause launch time delays
+[02Jul2025 03:02:55.988] [Worker-Main-4/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/woodlands/woodlands_tree_trunk1 is being run through DFU (hash 350e1371ce63e9ca35727f5899710beacf898700d85e97188bc0ebc16b8e98fb), this will cause launch time delays
+[02Jul2025 03:02:55.991] [Worker-Main-4/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/woodlands/woodlands_tree_canopy1 is being run through DFU (hash 689706d65e24fd17d4febef86ad648b2324c5b5b0fdfe4944333f0e49cbce186), this will cause launch time delays
+[02Jul2025 03:03:04.114] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[02Jul2025 03:03:04.715] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[02Jul2025 03:03:04.897] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/orchard/orchard_trunk1 is being run through DFU (hash 54e93582b73fe8830c651a3c5f3112a2114c656bf8ee373f80de92bab8710bb1), this will cause launch time delays
+[02Jul2025 03:03:04.899] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/orchard/orchard_canopy1 is being run through DFU (hash d2d0404b5effcc463443e1ccb296220b518222a53167278ea9a844565755142b), this will cause launch time delays
+[02Jul2025 03:03:05.616] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[02Jul2025 03:03:05.815] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[02Jul2025 03:03:05.976] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[02Jul2025 03:03:06.962] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk1
+[02Jul2025 03:03:06.969] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy1
+[02Jul2025 03:03:13.704] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/orchard/orchard_canopy3 is being run through DFU (hash 0d8abe4215a85c7dca74b5f7ec1fa58d72f93f5018897b169015ca02d4869bb5), this will cause launch time delays
+[02Jul2025 03:03:15.374] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:cockroach
+[02Jul2025 03:03:16.275] [Worker-Main-4/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/orchard/orchard_trunk2 is being run through DFU (hash c88dd9cba31420f7f640a951590c5017be04acd29c4083925ebe744f7dd86712), this will cause launch time delays
+[02Jul2025 03:03:16.329] [Worker-Main-4/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/orchard/orchard_canopy2 is being run through DFU (hash d3b0c9f0d375b347b901b239a0bc734b1e6fbe2c96864b979bb9e0e05c770e34), this will cause launch time delays
+[02Jul2025 03:03:18.176] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[02Jul2025 03:03:18.203] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[02Jul2025 03:03:18.228] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[02Jul2025 03:03:18.234] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad
+[02Jul2025 03:03:18.237] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway
+[02Jul2025 03:03:18.240] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_6_stairway
+[02Jul2025 03:03:18.242] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[02Jul2025 03:03:18.244] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[02Jul2025 03:03:18.246] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[02Jul2025 03:03:18.248] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_5_straight_debris
+[02Jul2025 03:03:18.250] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[02Jul2025 03:03:18.252] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[02Jul2025 03:03:18.273] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[02Jul2025 03:03:18.280] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[02Jul2025 03:03:18.280] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[02Jul2025 03:03:18.301] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[02Jul2025 03:03:18.305] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[02Jul2025 03:03:18.332] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_0
+[02Jul2025 03:03:18.356] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[02Jul2025 03:03:18.383] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_2_stairway
+[02Jul2025 03:03:18.406] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[02Jul2025 03:03:18.435] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_lava_pit_0
+[02Jul2025 03:03:18.460] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[02Jul2025 03:03:18.484] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_1
+[02Jul2025 03:03:18.489] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[02Jul2025 03:03:18.492] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[02Jul2025 03:03:18.492] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[02Jul2025 03:03:18.492] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[02Jul2025 03:03:18.493] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[02Jul2025 03:03:18.493] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[02Jul2025 03:03:18.494] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[02Jul2025 03:03:18.494] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[02Jul2025 03:03:18.495] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[02Jul2025 03:03:18.495] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[02Jul2025 03:03:18.498] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_4_terminator
+[02Jul2025 03:03:18.500] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_terminator
+[02Jul2025 03:03:18.500] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[02Jul2025 03:03:18.502] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[02Jul2025 03:03:18.502] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[02Jul2025 03:03:18.508] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[02Jul2025 03:03:18.508] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[02Jul2025 03:03:18.508] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[02Jul2025 03:03:18.509] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[02Jul2025 03:03:18.511] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[02Jul2025 03:03:18.518] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[02Jul2025 03:03:19.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was shot by Pillager
+[02Jul2025 03:03:19.947] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:7, y:67, z:130, dim:minecraft:overworld]
+[02Jul2025 03:03:21.201] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jul2025 03:03:21.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 03:03:21.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 03:03:29.914] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[02Jul2025 03:03:33.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[02Jul2025 03:03:33.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[02Jul2025 03:03:33.269] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[02Jul2025 03:03:39.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$EquipmentType
+[02Jul2025 03:03:39.414] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$HatType
+[02Jul2025 03:03:40.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Here They Come]
+[02Jul2025 03:03:51.030] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/meadow/meadow_shrub_canopy2 is being run through DFU (hash 68e02ea7363255157a423ab69442e9cd0d0784e5ec0466f3acd58412b5da7804), this will cause launch time delays
+[02Jul2025 03:03:52.788] [Worker-Main-4/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/meadow/meadow_canopy2 is being run through DFU (hash 5133b8e1f6b3226bb90c0bd7823632bd5b2d957cc3405a5a55e7aa8355c8fa71), this will cause launch time delays
+[02Jul2025 03:03:53.603] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/meadow/meadow_shrub_canopy1 is being run through DFU (hash 8c1da4350c4b56f956dab0bbb30a2f5304d078c1211aa621dffc0a490c5d10ec), this will cause launch time delays
+[02Jul2025 03:03:55.634] [Worker-Main-4/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/meadow/meadow_canopy3 is being run through DFU (hash d0c8b31c8a555835a1b40f2b596fb42573a840e0299fb36d39e6ccf60db8ed5f), this will cause launch time delays
+[02Jul2025 03:03:57.127] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk3
+[02Jul2025 03:03:57.131] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy3
+[02Jul2025 03:03:58.865] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/meadow/meadow_canopy1 is being run through DFU (hash 67e15fd0183bd46565b3e218cab835c09ae1e8b0cfaaee082ca040ea63d8a6fc), this will cause launch time delays
+[02Jul2025 03:03:59.766] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
+[02Jul2025 03:04:53.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Suit Up]
+[02Jul2025 03:05:11.967] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:blue_jay
+[02Jul2025 03:05:22.515] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[02Jul2025 03:05:22.521] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[02Jul2025 03:05:31.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Vindicator
+[02Jul2025 03:05:31.804] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:7, y:67, z:130, dim:minecraft:overworld]
+[02Jul2025 03:05:33.069] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jul2025 03:05:44.623] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.96 and blood value 6 for entity alexsmobs:shoebill
+[02Jul2025 03:05:44.715] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.47 and blood value 15 for entity alexsmobs:crocodile
+[02Jul2025 03:05:49.468] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[02Jul2025 03:05:49.473] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[02Jul2025 03:05:52.705] [Worker-Main-4/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/palm/palm_canopy4 is being run through DFU (hash d8866307019ad3b0a9560da03583d618e1b16abbf24178265ade576fa35b0925), this will cause launch time delays
+[02Jul2025 03:05:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Chain Death]
+[02Jul2025 03:05:56.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Vindicator
+[02Jul2025 03:05:56.339] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:7, y:67, z:130, dim:minecraft:overworld]
+[02Jul2025 03:05:57.508] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[02Jul2025 03:07:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> 667 130
