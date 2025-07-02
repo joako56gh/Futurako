@@ -47,12 +47,6 @@
     },
     "done": true
   },
-  "simplyswords:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-07-02 02:34:27 +0000"
-    },
-    "done": true
-  },
   "mcwfencesbyg:recipes/purple_sandstone": {
     "criteria": {
       "has_sand": "2025-07-02 02:34:26 +0000"
@@ -74,12 +68,6 @@
   "mcwfencesbyg:recipes/aspen_hedge": {
     "criteria": {
       "has_birch": "2025-07-02 02:34:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-07-02 02:34:27 +0000"
     },
     "done": true
   },
@@ -140,12 +128,6 @@
   "mcwfencesbyg:recipes/flowering_skyris_hedge": {
     "criteria": {
       "has_birch": "2025-07-02 02:34:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2025-07-02 02:34:27 +0000"
     },
     "done": true
   },
@@ -407,12 +389,6 @@
     },
     "done": true
   },
-  "ice_and_fire_delight:root": {
-    "criteria": {
-      "root": "2025-07-02 02:34:27 +0000"
-    },
-    "done": true
-  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-07-02 02:34:26 +0000"
@@ -422,12 +398,6 @@
   "mcwfencesbyg:recipes/flowering_jacaranda_hedge": {
     "criteria": {
       "has_birch": "2025-07-02 02:34:26 +0000"
-    },
-    "done": true
-  },
-  "cosmeticarmoursmod:cosmetic_armours_achievement": {
-    "criteria": {
-      "cosmetic_armours_achievement_0": "2025-07-02 02:34:27 +0000"
     },
     "done": true
   },
@@ -458,12 +428,6 @@
   "mcwfencesbyg:recipes/zelkova": {
     "criteria": {
       "has_acacia": "2025-07-02 02:34:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/root": {
-    "criteria": {
-      "tick": "2025-07-02 02:34:27 +0000"
     },
     "done": true
   },
@@ -553,12 +517,6 @@
     },
     "done": true
   },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-07-02 02:34:27 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
       "has_items": "2025-07-02 02:34:26 +0000"
@@ -586,12 +544,6 @@
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-07-02 02:34:26 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-07-02 02:34:27 +0000"
     },
     "done": true
   },
@@ -697,12 +649,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-07-02 02:34:27 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/end": {
     "criteria": {
       "has_end_brick": "2025-07-02 02:34:26 +0000"
@@ -736,12 +682,6 @@
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
       "has_items": "2025-07-02 02:34:26 +0000"
-    },
-    "done": true
-  },
-  "cosmeticarmoursmod:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-07-02 02:34:27 +0000"
     },
     "done": true
   },
@@ -802,12 +742,6 @@
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2025-07-02 02:34:26 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-07-02 02:34:27 +0000"
     },
     "done": true
   },
@@ -902,12 +836,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:windswept_savanna": "2025-07-02 02:34:27 +0000"
-    },
-    "done": false
-  },
   "mcwfencesbyg:recipes/brown_birch_hedge": {
     "criteria": {
       "has_birch": "2025-07-02 02:34:26 +0000"
@@ -930,6 +858,132 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2025-07-02 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:root": {
+    "criteria": {
+      "root": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "cosmeticarmoursmod:cosmetic_armours_achievement": {
+    "criteria": {
+      "cosmetic_armours_achievement_0": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "cosmeticarmoursmod:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-07-02 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_savanna": "2025-07-02 02:34:27 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-07-02 02:51:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-07-02 02:51:16 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/soil": {
+    "criteria": {
+      "has_wood": "2025-07-02 02:51:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-02 02:51:29 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-02 02:51:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:allium_shrubland": "2025-07-02 02:51:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-07-02 02:51:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:allium_shrubland": "2025-07-02 02:51:12 +0000"
+    },
+    "done": false
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-07-02 02:51:54 +0000"
     },
     "done": true
   },

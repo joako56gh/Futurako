@@ -143,10 +143,10 @@
     "minecraft:grass_block",
     "minecraft:dirt"
   ],
-  "launchIntoDestiny": false,
-  "allowDestinyCommandOnce": false,
+  "launchIntoDestiny": true,
+  "allowDestinyCommandOnce": true,
   "allowDestinyCommandMoreThanOnce": false,
-  "allowDestinyTeleportation": false,
+  "allowDestinyTeleportation": true,
   "enablePlayerShaders": true,
   "enableVillagerPlayerModel": true,
   "forceVillagerPlayerModel": false,
