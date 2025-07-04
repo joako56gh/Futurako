@@ -938,13 +938,17 @@
       "minecraft:river": "2025-07-02 03:12:43 +0000",
       "minecraft:stony_shore": "2025-07-04 21:00:06 +0000",
       "minecraft:dripstone_caves": "2025-07-02 03:43:54 +0000",
+      "minecraft:snowy_taiga": "2025-07-04 23:26:17 +0000",
       "minecraft:cold_ocean": "2025-07-04 21:04:54 +0000",
       "minecraft:forest": "2025-07-04 21:01:35 +0000",
       "minecraft:deep_cold_ocean": "2025-07-04 21:05:04 +0000",
+      "minecraft:frozen_ocean": "2025-07-04 23:24:16 +0000",
       "minecraft:ocean": "2025-07-02 03:04:24 +0000",
       "minecraft:jungle": "2025-07-04 22:42:13 +0000",
+      "minecraft:snowy_beach": "2025-07-04 23:23:58 +0000",
       "minecraft:windswept_savanna": "2025-07-02 02:34:27 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-04 21:45:32 +0000",
+      "minecraft:meadow": "2025-07-04 23:20:42 +0000",
       "minecraft:savanna": "2025-07-04 20:06:41 +0000",
       "minecraft:plains": "2025-07-02 03:31:27 +0000"
     },
@@ -972,6 +976,7 @@
       "biomeswevegone:basalt_barrera": "2025-07-02 02:53:31 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-04 22:24:42 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-04 21:17:50 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-07-04 23:23:30 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 02:51:12 +0000",
       "biomeswevegone:pumpkin_valley": "2025-07-04 20:34:59 +0000",
       "biomeswevegone:baobab_savanna": "2025-07-04 22:48:16 +0000",
@@ -7195,6 +7200,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 23:20:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-07-04 23:09:57 +0000"
@@ -7375,6 +7386,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:22 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:21:06 +0000"
@@ -7507,6 +7524,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/black_sand": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:22 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/gray_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-04 21:21:09 +0000"
@@ -7516,6 +7539,12 @@
   "croptopia:recipes/misc/mustard_seed": {
     "criteria": {
       "has_mustard": "2025-07-04 22:32:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-04 23:18:28 +0000"
     },
     "done": true
   },
@@ -7819,6 +7848,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-04 23:18:28 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/dacite_cobblestone_stairs": {
     "criteria": {
       "has_dacite_cobblestone": "2025-07-04 23:04:13 +0000"
@@ -7849,9 +7884,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2025-07-04 23:24:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-07-04 21:20:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-07-04 23:18:28 +0000"
     },
     "done": true
   },
@@ -7894,6 +7941,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_slab_from_mossy_stone_stonecutting": {
     "criteria": {
       "has_mossy_stone": "2025-07-04 23:05:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 23:27:31 +0000"
     },
     "done": true
   },
@@ -7942,6 +7995,12 @@
   "biomeswevegone:recipes/decorations/dacite_cobblestone_wall": {
     "criteria": {
       "has_dacite_cobblestone": "2025-07-04 23:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:22 +0000"
     },
     "done": true
   },
@@ -8119,6 +8178,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/white_sand": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_brick_stairs_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
@@ -8128,6 +8193,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-04 23:18:28 +0000"
     },
     "done": true
   },
@@ -8176,6 +8247,12 @@
   "vampirism:recipes/decorations/dark_spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-04 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "axe": "2025-07-04 23:18:01 +0000"
     },
     "done": true
   },
@@ -8599,6 +8676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-04 23:22:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-07-04 23:09:57 +0000"
@@ -8683,6 +8766,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/purple_sand": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-07-04 21:17:55 +0000"
@@ -8755,6 +8844,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/blue_sand": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:22 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/cypress_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-04 22:17:18 +0000"
@@ -8776,6 +8871,12 @@
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-04 23:18:28 +0000"
     },
     "done": true
   },
@@ -8851,6 +8952,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/pink_sand": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-07-04 23:09:57 +0000"
@@ -8896,6 +9003,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-07-04 23:22:22 +0000"
     },
     "done": true
   },

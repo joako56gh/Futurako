@@ -14344,3 +14344,57 @@ java.lang.Throwable: null
 [04Jul2025 23:17:46.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
 [04Jul2025 23:18:01.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Draconic Evolution]
 [04Jul2025 23:18:43.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved wrongly!
+[04Jul2025 23:19:30.526] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[04Jul2025 23:20:06.164] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[04Jul2025 23:20:06.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Stolen Magic]
+[04Jul2025 23:20:06.168] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 23:20:16.953] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[04Jul2025 23:20:16.966] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 23:21:51.688] [Worker-Main-17/DEBUG] [ModernFix/]: Structure iceandfire:mausoleum/building is being run through DFU (hash 2334374839732f1599cf9b287f7fd21e55344822fabc0f71f67a08f4e92454ab), this will cause launch time delays
+[04Jul2025 23:22:00.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 23:22:20.885] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/conifer/conifer_trunk1
+[04Jul2025 23:22:20.889] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/conifer/conifer_canopy2
+[04Jul2025 23:22:20.964] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/conifer/conifer_canopy4
+[04Jul2025 23:22:20.966] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/conifer/conifer_canopy7 is being run through DFU (hash 6b69968360e6b786b4f0c731e94404b22b27b2b2d0a362c67e570fd7700883b5), this will cause launch time delays
+[04Jul2025 23:22:20.968] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/conifer/conifer_canopy6 is being run through DFU (hash 6b69968360e6b786b4f0c731e94404b22b27b2b2d0a362c67e570fd7700883b5), this will cause launch time delays
+[04Jul2025 23:22:21.276] [Worker-Main-8/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/conifer/conifer_canopy5 is being run through DFU (hash b8a25ce8e16f93420d3a5e050f445cdedc1ce4bd75610da483324f27f731ded9), this will cause launch time delays
+[04Jul2025 23:22:21.280] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/conifer/conifer_canopy1
+[04Jul2025 23:22:21.293] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/conifer/conifer_trunk8
+[04Jul2025 23:22:21.294] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/conifer/conifer_canopy8
+[04Jul2025 23:22:24.626] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/conifer/conifer_canopy3 is being run through DFU (hash 0129fcfb3650e0bd6e664b27b8276a3e3663ee181de454d18d53d240c296e41d), this will cause launch time delays
+[04Jul2025 23:22:35.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 23:22:35.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 23:22:38.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved wrongly!
+[04Jul2025 23:22:40.299] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[04Jul2025 23:22:43.848] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_descent_0 is being run through DFU (hash 99432fb44b076deca6e67451c1b4c80e302ce68a73538f4e9cc8f966efa0278d), this will cause launch time delays
+[04Jul2025 23:22:43.925] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_1 is being run through DFU (hash d25f5d1016e08f81f761c13842826b723a784b3ed519661d2471a6323f12ca4f), this will cause launch time delays
+[04Jul2025 23:22:43.994] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_1 is being run through DFU (hash caea454d4d20ad79fd13ad746cb244d0e797c28aabdba2f3dc7e0aa3caeddc72), this will cause launch time delays
+[04Jul2025 23:22:44.021] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_5 is being run through DFU (hash af9c19032e47a68ff8a293612456dd3f968375a67be0abd7c8d909ef8747d9fe), this will cause launch time delays
+[04Jul2025 23:22:44.030] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_7 is being run through DFU (hash ea1a84e8397cb5a6dfac88232f928f0360797410f81b961328707ef2d01126f6), this will cause launch time delays
+[04Jul2025 23:22:44.099] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_1 is being run through DFU (hash c38899ef6bf56e749fb933710eaca016c99a762549f9d4529d32842bcb01b833), this will cause launch time delays
+[04Jul2025 23:22:44.105] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_0 is being run through DFU (hash 7b3068cd39c82e1fce787e40ceeae37232a163be5ecbf7f03bf4231c097a030a), this will cause launch time delays
+[04Jul2025 23:22:44.113] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_6 is being run through DFU (hash db0036046dcbfdb2add9578cbd208e4e9cf6e9ed4f934d03eeda260588a811a2), this will cause launch time delays
+[04Jul2025 23:22:44.120] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_4 is being run through DFU (hash 6eca3bb9f7f46964786785eb87884fe9ad9e7911d774794d5752f4cd8857a522), this will cause launch time delays
+[04Jul2025 23:22:44.131] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_3 is being run through DFU (hash f011acc3853c6e3101d3c6c0c279faa1e5879f49c80aa22b64404e1fe98da263), this will cause launch time delays
+[04Jul2025 23:22:44.139] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_2 is being run through DFU (hash 42e55a1bdf37ca93966fc3333646403561a978952366bece40fb23635ecf8167), this will cause launch time delays
+[04Jul2025 23:24:16.008] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_turn_0 is being run through DFU (hash e25d526a570fcd152c18558d5226a2f763e58a6bcb4c84a917fa966e79de7140), this will cause launch time delays
+[04Jul2025 23:24:16.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 23:24:17.241] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[04Jul2025 23:25:56.412] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[04Jul2025 23:26:08.139] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:camp
+[04Jul2025 23:26:10.174] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:blank
+[04Jul2025 23:26:31.567] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 23:26:31.570] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 23:26:38.617] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 23:26:39.832] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 23:26:39.835] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 23:26:58.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Dread Knight, they gave up
+[04Jul2025 23:26:58.316] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:1363, y:64, z:-1031, dim:minecraft:overworld]
+[04Jul2025 23:26:59.420] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
+[04Jul2025 23:26:59.420] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jul2025 23:27:03.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 23:27:31.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Bone Crusher]
+[04Jul2025 23:27:31.883] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.31 and blood value 2 for entity tombstone:spectral_wolf
+[04Jul2025 23:27:35.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 23:27:35.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 23:29:30.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Suit Up]

@@ -929,8 +929,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-04 23:22:59 +0000",
       "minecraft:taiga": "2025-07-04 21:19:22 +0000",
       "minecraft:deep_ocean": "2025-07-04 19:56:25 +0000",
+      "minecraft:frozen_river": "2025-07-04 23:23:34 +0000",
       "minecraft:sunflower_plains": "2025-07-02 03:10:19 +0000",
       "minecraft:windswept_hills": "2025-07-02 03:07:08 +0000",
       "minecraft:beach": "2025-07-02 02:58:03 +0000",
@@ -939,11 +941,14 @@
       "minecraft:river": "2025-07-02 03:04:11 +0000",
       "minecraft:stony_shore": "2025-07-04 21:00:13 +0000",
       "minecraft:dripstone_caves": "2025-07-04 20:22:27 +0000",
+      "minecraft:snowy_taiga": "2025-07-04 23:24:00 +0000",
       "minecraft:cold_ocean": "2025-07-04 21:02:25 +0000",
       "minecraft:forest": "2025-07-04 21:01:23 +0000",
       "minecraft:deep_cold_ocean": "2025-07-04 21:05:04 +0000",
+      "minecraft:frozen_ocean": "2025-07-04 23:23:13 +0000",
       "minecraft:ocean": "2025-07-02 02:54:26 +0000",
       "minecraft:jungle": "2025-07-04 22:42:07 +0000",
+      "minecraft:snowy_beach": "2025-07-04 23:23:05 +0000",
       "minecraft:windswept_savanna": "2025-07-02 02:48:49 +0000",
       "minecraft:flower_forest": "2025-07-04 22:34:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-04 21:46:12 +0000",
@@ -1647,6 +1652,7 @@
       "biomeswevegone:forgotten_forest": "2025-07-04 20:34:57 +0000",
       "biomeswevegone:lush_stacks": "2025-07-04 19:43:57 +0000",
       "biomeswevegone:coconino_meadow": "2025-07-04 23:14:38 +0000",
+      "biomeswevegone:maple_taiga": "2025-07-04 23:22:41 +0000",
       "biomeswevegone:cypress_swamplands": "2025-07-02 03:05:54 +0000",
       "biomeswevegone:orchard": "2025-07-02 03:04:00 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-04 22:46:59 +0000",
@@ -1656,6 +1662,7 @@
       "biomeswevegone:basalt_barrera": "2025-07-02 02:51:25 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-04 23:01:01 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-04 21:17:40 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-07-04 23:23:47 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 02:51:09 +0000",
       "biomeswevegone:pumpkin_valley": "2025-07-04 20:34:54 +0000",
       "biomeswevegone:rainbow_beach": "2025-07-04 19:44:00 +0000",
@@ -7503,15 +7510,111 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-04 23:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-04 23:16:06 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-07-04 23:26:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/black_sand": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-04 23:18:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-07-04 23:26:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-04 23:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-04 23:27:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-04 23:18:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-07-04 23:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-04 23:27:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-04 23:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-07-04 23:26:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_sand": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-04 23:18:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-07-04 23:26:17 +0000"
     },
     "done": true
   },
@@ -7527,15 +7630,87 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-07-04 23:26:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-04 23:16:06 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-04 23:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-04 23:26:43 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_sand": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-07-04 23:16:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/blue_sand": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-04 23:27:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-04 23:18:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-07-04 23:26:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-07-04 23:26:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pink_sand": {
+    "criteria": {
+      "has_sand": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-07-04 23:22:15 +0000"
     },
     "done": true
   },
