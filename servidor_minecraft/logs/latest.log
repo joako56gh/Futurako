@@ -2007,3 +2007,14 @@ java.lang.Throwable: null
 [04Jul2025 23:36:28.414] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
 [04Jul2025 23:36:28.418] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
 [04Jul2025 23:37:53.714] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
+[04Jul2025 23:41:56.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved wrongly!
+[04Jul2025 23:43:43.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 23:45:47.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 3.2799542382326763
+[04Jul2025 23:45:47.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 2.459121269438924
+[04Jul2025 23:45:47.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 3.2709358507911475
+[04Jul2025 23:45:47.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 2.484306400892592
+[04Jul2025 23:45:47.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Futuuuro) moved wrongly! 1.7399425011617495
+[04Jul2025 23:46:32.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Where Is The Stone Pen?]
+[04Jul2025 23:47:46.816] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1568, y=56, z=-722} but found not block entity block Block{minecraft:air} at location
+[04Jul2025 23:47:46.816] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1568, y=56, z=-722}
+[04Jul2025 23:49:18.833] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/139504, l='ServerLevel[world]', x=430.50, y=50.00, z=-246.50] as it would cause deadlock

@@ -1665,6 +1665,7 @@
       "biomeswevegone:frosted_coniferous_forest": "2025-07-04 23:23:47 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 02:51:09 +0000",
       "biomeswevegone:pumpkin_valley": "2025-07-04 20:34:54 +0000",
+      "biomeswevegone:crimson_tundra": "2025-07-04 23:45:52 +0000",
       "biomeswevegone:rainbow_beach": "2025-07-04 19:44:00 +0000",
       "biomeswevegone:bayou": "2025-07-04 19:49:15 +0000"
     },
@@ -7643,6 +7644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-04 23:38:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2025-07-04 23:26:17 +0000"
@@ -7691,6 +7698,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2025-07-04 23:46:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-07-04 23:29:48 +0000"
@@ -7706,6 +7719,12 @@
   "biomeswevegone:recipes/building_blocks/purple_sand": {
     "criteria": {
       "has_sand": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-04 23:46:32 +0000"
     },
     "done": true
   },
@@ -7772,6 +7791,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-04 23:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-04 23:38:26 +0000"
     },
     "done": true
   },

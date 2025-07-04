@@ -931,6 +931,7 @@
     "criteria": {
       "minecraft:taiga": "2025-07-04 21:18:37 +0000",
       "minecraft:deep_ocean": "2025-07-04 20:28:06 +0000",
+      "minecraft:frozen_river": "2025-07-04 23:44:31 +0000",
       "minecraft:sunflower_plains": "2025-07-02 03:02:50 +0000",
       "minecraft:beach": "2025-07-02 03:12:56 +0000",
       "minecraft:mangrove_swamp": "2025-07-04 20:00:05 +0000",
@@ -7446,6 +7447,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-04 23:39:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-04 23:05:34 +0000"
@@ -8217,6 +8224,12 @@
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-07-04 23:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-04 23:39:56 +0000"
     },
     "done": true
   },
@@ -9183,6 +9196,12 @@
   "mca:recipes/decorations/yellow_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-04 23:39:56 +0000"
     },
     "done": true
   },
