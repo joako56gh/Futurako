@@ -1652,6 +1652,7 @@
       "biomeswevegone:prairie": "2025-07-02 02:58:02 +0000",
       "biomeswevegone:ebony_woods": "2025-07-04 22:42:05 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-02 02:51:25 +0000",
+      "biomeswevegone:aspen_boreal": "2025-07-04 23:01:01 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-04 21:17:40 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 02:51:09 +0000",
       "biomeswevegone:pumpkin_valley": "2025-07-04 20:34:54 +0000",
@@ -7189,6 +7190,12 @@
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-07-04 22:35:17 +0000"
+    },
+    "done": true
+  },
+  "morevanillaarmor:recipes/combat/glowstone_helmet": {
+    "criteria": {
+      "already_crafted": "2025-07-04 23:04:46 +0000"
     },
     "done": true
   },

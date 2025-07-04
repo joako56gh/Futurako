@@ -964,6 +964,7 @@
       "biomeswevegone:white_mangrove_marshes": "2025-07-02 03:30:51 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-04 20:35:00 +0000",
       "biomeswevegone:lush_stacks": "2025-07-04 20:24:53 +0000",
+      "biomeswevegone:maple_taiga": "2025-07-04 23:05:27 +0000",
       "biomeswevegone:cypress_swamplands": "2025-07-02 03:29:29 +0000",
       "biomeswevegone:orchard": "2025-07-04 21:04:09 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-04 22:46:35 +0000",
@@ -7409,6 +7410,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-04 23:05:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2025-07-04 22:21:06 +0000"
@@ -7451,6 +7458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dacite_cobblestone_wall_from_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dacite_cobblestone": "2025-07-04 23:04:13 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_blue_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-04 21:21:09 +0000"
@@ -7484,6 +7497,12 @@
   "decorative_blocks:recipes/building_blocks/dark_oak_support": {
     "criteria": {
       "has_plank": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_stairs_from_mossy_stone_stonecutting": {
+    "criteria": {
+      "has_mossy_stone": "2025-07-04 23:05:18 +0000"
     },
     "done": true
   },
@@ -7769,6 +7788,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/dacite_cobblestone_stairs": {
+    "criteria": {
+      "has_dacite_cobblestone": "2025-07-04 23:04:13 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:57 +0000"
@@ -7835,6 +7860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_slab_from_mossy_stone_stonecutting": {
+    "criteria": {
+      "has_mossy_stone": "2025-07-04 23:05:18 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
@@ -7874,6 +7905,12 @@
   "croptopia:recipes/misc/steamed_crab": {
     "criteria": {
       "has_crab": "2025-07-04 21:11:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/dacite_cobblestone_wall": {
+    "criteria": {
+      "has_dacite_cobblestone": "2025-07-04 23:04:13 +0000"
     },
     "done": true
   },
@@ -7985,6 +8022,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/mossy_stone_wall": {
+    "criteria": {
+      "has_mossy_stone": "2025-07-04 23:05:18 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-04 21:21:09 +0000"
@@ -8021,6 +8064,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/mossy_stone_stairs": {
+    "criteria": {
+      "has_mossy_stone": "2025-07-04 23:05:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-07-04 21:26:25 +0000"
@@ -8054,6 +8103,12 @@
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-07-04 21:12:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mossy_stone_slab": {
+    "criteria": {
+      "has_mossy_stone": "2025-07-04 23:05:18 +0000"
     },
     "done": true
   },
@@ -8126,6 +8181,12 @@
   "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dacite_cobblestone_slab_from_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dacite_cobblestone": "2025-07-04 23:04:13 +0000"
     },
     "done": true
   },
@@ -8231,6 +8292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_wall_from_mossy_stone_stonecutting": {
+    "criteria": {
+      "has_mossy_stone": "2025-07-04 23:05:18 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_blasting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
@@ -8333,6 +8400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dacite_cobblestone_stairs_from_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dacite_cobblestone": "2025-07-04 23:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
@@ -8354,6 +8427,12 @@
   "macawsroofsbyg:recipes/cypress_planks": {
     "criteria": {
       "has_planks": "2025-07-04 22:17:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/dacite_cobblestone_slab": {
+    "criteria": {
+      "has_dacite_cobblestone": "2025-07-04 23:04:13 +0000"
     },
     "done": true
   },
@@ -8498,6 +8577,12 @@
   "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-04 23:01:34 +0000"
     },
     "done": true
   },
@@ -8738,6 +8823,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/dacite": {
+    "criteria": {
+      "has_dacite_cobblestone": "2025-07-04 23:04:13 +0000"
     },
     "done": true
   },
