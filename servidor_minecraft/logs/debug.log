@@ -13935,3 +13935,32 @@ java.lang.Throwable: null
 [04Jul2025 22:48:50.071] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy5 is being run through DFU (hash 884577c6ce5d5124e149276c7594ead9ce30c531478247e2b969f4e08e1543f5), this will cause launch time delays
 [04Jul2025 22:48:50.080] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk6 is being run through DFU (hash 5139f830be10c1b905c15b5593dc0c58ee3ed942f92c6e6720a4d4578bcb44cd), this will cause launch time delays
 [04Jul2025 22:48:50.080] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy6 is being run through DFU (hash d8f84ed33132ceeb75cef829d03ac391c6cf23cc4a2e5775724d5d4c830a0374), this will cause launch time delays
+[04Jul2025 22:48:52.635] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk1 is being run through DFU (hash 108a933eb8a454b2aad518f7a7f9973b9ade2e987675031f73ebff8b7f963cfb), this will cause launch time delays
+[04Jul2025 22:48:52.636] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy1 is being run through DFU (hash b9a295a2858eb01b7835ab04d99173b2c4d63f1179854b61ff0e2ee1a9bf8aa2), this will cause launch time delays
+[04Jul2025 22:48:52.661] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk3 is being run through DFU (hash bb5df8fa831499765edcded5ba8c38b651a64f7e7c058e56dceb2d9fe12fdad3), this will cause launch time delays
+[04Jul2025 22:48:52.662] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy3 is being run through DFU (hash b3b02ac9100260d0d99fbe3097ae2106dba762a8cc43bff31e93c31a33d2dafe), this will cause launch time delays
+[04Jul2025 22:49:00.244] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk2 is being run through DFU (hash dffd4b580e1aca1e1465515ea047c610e7fa9565ce5d31d90f1c0139880a0126), this will cause launch time delays
+[04Jul2025 22:49:00.245] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy2 is being run through DFU (hash a9391b09fb1471ff29a00eb8c79ab7279d888f20509e65d978006dc9af40d38e), this will cause launch time delays
+[04Jul2025 22:51:09.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:51:17.459] [Worker-Main-17/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_0 is being run through DFU (hash 325a5da046a550524137fdf7cebbc04fbeb42dc8d25dda67bc942152fd20b6d1), this will cause launch time delays
+[04Jul2025 22:52:01.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Your First Receptacle]
+[04Jul2025 22:52:33.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:52:33.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Remote Paranoia]
+[04Jul2025 22:52:35.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 22:52:35.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 22:53:13.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:53:20.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:54:11.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 22:54:17.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:54:19.764] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 22:54:28.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:57:35.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 22:57:35.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 22:57:54.181] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[04Jul2025 22:57:54.202] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_0 is being run through DFU (hash 743b98ed67dc8d4fa6895ef863e2fd15aeefec076f98784628a49a6f1b57d6eb), this will cause launch time delays
+[04Jul2025 22:57:54.349] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[04Jul2025 22:57:54.379] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[04Jul2025 22:57:54.386] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[04Jul2025 22:57:54.395] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0 is being run through DFU (hash ba25d48fb64bb6f5a4173a32e12e7773d75c432e796bbb5ae067c0d8c67fc7f8), this will cause launch time delays
+[04Jul2025 22:57:54.425] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_0 is being run through DFU (hash ddfd5f5b304f9bb66ae85abb59f794d1fff221bf45bd3bcfc112019c236fa79a), this will cause launch time delays
+[04Jul2025 22:57:54.488] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
