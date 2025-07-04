@@ -3245,6 +3245,7 @@
       "minecraft:pillager": "2025-07-02 03:01:12 +0000",
       "minecraft:skeleton": "2025-07-02 03:55:54 +0000",
       "minecraft:vindicator": "2025-07-02 03:05:49 +0000",
+      "minecraft:spider": "2025-07-04 21:51:54 +0000",
       "minecraft:husk": "2025-07-04 21:26:25 +0000",
       "minecraft:cave_spider": "2025-07-02 03:51:58 +0000",
       "minecraft:zombie": "2025-07-02 03:40:49 +0000"
@@ -7163,6 +7164,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/dark_stone_brick_wall": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
@@ -7211,6 +7218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_item": "2025-07-04 21:26:57 +0000"
@@ -7235,6 +7248,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/polished_dark_stone_slab": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
@@ -7253,9 +7278,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blood_infused_enhanced_iron_block": {
+    "criteria": {
+      "has_blood_infused_enhanced_iron_ingot": "2025-07-04 21:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-04 21:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-04 21:48:16 +0000"
     },
     "done": true
   },
@@ -7265,9 +7314,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/cobbled_dark_stone_slab": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dark_oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
     },
     "done": true
   },
@@ -7298,6 +7359,18 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-07-04 21:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_bricks_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-07-04 21:52:46 +0000"
     },
     "done": true
   },
@@ -7337,6 +7410,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/redstone/dark_spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-04 21:46:36 +0000"
@@ -7361,6 +7446,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-04 21:50:16 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/magenta_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:57 +0000"
@@ -7379,9 +7470,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/diorite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-07-04 21:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
     },
     "done": true
   },
@@ -7394,6 +7497,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-07-04 21:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
     },
     "done": true
   },
@@ -7412,6 +7521,12 @@
   "mca:recipes/decorations/pink_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
     },
     "done": true
   },
@@ -7469,6 +7584,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-04 21:48:16 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:57 +0000"
@@ -7493,6 +7614,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-04 21:41:58 +0000"
@@ -7505,9 +7632,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_wall_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
     },
     "done": true
   },
@@ -7529,6 +7668,18 @@
     },
     "done": true
   },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-04 21:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-04 21:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-04 21:41:58 +0000"
@@ -7547,6 +7698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
@@ -7559,6 +7716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:57 +0000"
@@ -7568,6 +7731,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-07-04 21:41:58 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/polished_dark_stone_wall": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
     },
     "done": true
   },
@@ -7595,15 +7764,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/polished_dark_stone_stairs": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-07-04 21:26:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
     },
     "done": true
   },
@@ -7616,6 +7815,18 @@
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-07-04 21:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_bricks_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-04 21:48:16 +0000"
     },
     "done": true
   },
@@ -7667,6 +7878,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_seeker_normal": {
+    "criteria": {
+      "has_ingot": "2025-07-04 21:48:44 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/diorite": {
     "criteria": {
       "has_wood": "2025-07-04 21:41:58 +0000"
@@ -7685,6 +7902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/redstone/dark_spruce_button": {
     "criteria": {
       "has_planks": "2025-07-04 21:46:36 +0000"
@@ -7700,6 +7923,12 @@
   "vampirism:recipes/redstone/dark_spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-04 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_blasting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
     },
     "done": true
   },
@@ -7727,9 +7956,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-07-04 21:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
     },
     "done": true
   },
@@ -7763,9 +8022,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-07-04 21:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
     },
     "done": true
   },
@@ -7799,6 +8070,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_slab_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_normal": {
+    "criteria": {
+      "has_ingot": "2025-07-04 21:48:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-07-04 21:21:09 +0000"
@@ -7808,6 +8097,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_smelting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
     },
     "done": true
   },
@@ -7823,6 +8118,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/dark_stone_brick_slab": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/totem_base": {
     "criteria": {
       "has_obsidian": "2025-07-04 21:27:46 +0000"
@@ -7832,6 +8133,12 @@
   "vampirism:recipes/decorations/general/altar_cleansing_new": {
     "criteria": {
       "has_book": "2025-07-04 21:12:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/polished_dark_stone": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
     },
     "done": true
   },
@@ -7856,6 +8163,12 @@
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2025-07-04 21:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
     },
     "done": true
   },
@@ -7886,6 +8199,18 @@
   "another_furniture:recipes/mangrove_shutter": {
     "criteria": {
       "has_slab": "2025-07-04 21:36:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cobbled_dark_stone_wall": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
     },
     "done": true
   },
@@ -7937,9 +8262,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blood_infused_iron_block": {
+    "criteria": {
+      "has_blood_infused_iron_ingot": "2025-07-04 21:48:44 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cracked_dark_stone_bricks": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
     },
     "done": true
   },
@@ -7976,6 +8313,12 @@
   "mca:recipes/decorations/yellow_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_stairs": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
     },
     "done": true
   },

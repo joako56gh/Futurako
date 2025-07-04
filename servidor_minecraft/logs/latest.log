@@ -1820,3 +1820,11 @@ java.lang.Throwable: null
 [04Jul2025 21:46:29.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Blood Feeders' Home]
 [04Jul2025 21:46:34.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Blood Feeders' Home]
 [04Jul2025 21:47:31.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 21:48:26.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 21:49:26.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Ashes 'n Bones]
+[04Jul2025 21:51:18.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 21:52:46.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has completed the challenge [Regicide]
+[04Jul2025 21:52:46.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/56270, l='ServerLevel[world]', x=-3393.31, y=64.79, z=-808.70] died: 1$s has perished from unholy damage
+[04Jul2025 21:53:25.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[04Jul2025 21:53:25.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[04Jul2025 21:53:25.414] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro

@@ -5684,7 +5684,8 @@
       "minecraft:pillager": "2025-07-04 20:56:48 +0000",
       "minecraft:skeleton": "2025-07-04 20:43:47 +0000",
       "minecraft:vindicator": "2025-07-04 21:10:16 +0000",
-      "minecraft:husk": "2025-07-04 21:25:32 +0000"
+      "minecraft:husk": "2025-07-04 21:25:32 +0000",
+      "minecraft:zombie": "2025-07-04 21:49:26 +0000"
     },
     "done": false
   },
@@ -6276,6 +6277,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/polished_dark_stone_slab": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:48:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 21:21:39 +0000"
@@ -6309,6 +6316,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 21:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blood_infused_enhanced_iron_block": {
+    "criteria": {
+      "has_blood_infused_enhanced_iron_ingot": "2025-07-04 21:48:37 +0000"
     },
     "done": true
   },
@@ -6450,6 +6463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:48:50 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_chair": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:43 +0000"
@@ -6558,6 +6577,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_dark_stone_wall_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:48:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/garlic_finder": {
+    "criteria": {
+      "has_bloodiron": "2025-07-04 21:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-07-04 21:38:01 +0000"
@@ -6594,9 +6625,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 21:49:26 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/polished_dark_stone_wall": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:48:50 +0000"
     },
     "done": true
   },
@@ -6624,6 +6667,24 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/polished_dark_stone_stairs": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:48:50 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/gray_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:43 +0000"
@@ -6636,9 +6697,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_bricks_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:48:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/chandelier_candle": {
     "criteria": {
       "has_honey": "2025-07-04 21:36:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced_repair": {
+    "criteria": {
+      "has_heart_striker": "2025-07-04 21:48:34 +0000"
     },
     "done": true
   },
@@ -6654,9 +6727,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_seeker_normal": {
+    "criteria": {
+      "has_ingot": "2025-07-04 21:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-04 21:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:48:50 +0000"
     },
     "done": true
   },
@@ -6684,6 +6769,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_striker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-07-04 21:48:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_amulet": "2025-07-04 21:48:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 21:21:39 +0000"
@@ -6702,9 +6799,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/heart_seeker_enhanced": {
+    "criteria": {
+      "has_ingot": "2025-07-04 21:48:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:48:50 +0000"
     },
     "done": true
   },
@@ -6717,6 +6826,18 @@
   "another_furniture:recipes/dark_oak_table": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_slab_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-04 21:48:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/heart_striker_normal": {
+    "criteria": {
+      "has_ingot": "2025-07-04 21:48:35 +0000"
     },
     "done": true
   },
@@ -6741,6 +6862,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2025-07-04 21:27:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_amulet": "2025-07-04 21:48:38 +0000"
     },
     "done": true
   },
@@ -6813,6 +6940,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blood_infused_iron_block": {
+    "criteria": {
+      "has_blood_infused_iron_ingot": "2025-07-04 21:48:35 +0000"
     },
     "done": true
   },
