@@ -964,6 +964,7 @@
       "biomeswevegone:white_mangrove_marshes": "2025-07-02 03:30:51 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-04 20:35:00 +0000",
       "biomeswevegone:lush_stacks": "2025-07-04 20:24:53 +0000",
+      "biomeswevegone:coconino_meadow": "2025-07-04 23:15:02 +0000",
       "biomeswevegone:maple_taiga": "2025-07-04 23:05:27 +0000",
       "biomeswevegone:cypress_swamplands": "2025-07-02 03:29:29 +0000",
       "biomeswevegone:orchard": "2025-07-04 21:04:09 +0000",
@@ -7194,6 +7195,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-07-04 23:09:57 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2025-07-04 22:32:32 +0000"
@@ -7251,6 +7258,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/leafy_salad": {
+    "criteria": {
+      "has_kale": "2025-07-04 23:10:03 +0000"
     },
     "done": true
   },
@@ -7374,6 +7387,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-07-04 23:10:09 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:21:06 +0000"
@@ -7458,9 +7477,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-07-04 23:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dacite_cobblestone_wall_from_dacite_cobblestone_stonecutting": {
     "criteria": {
       "has_dacite_cobblestone": "2025-07-04 23:04:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/kale_seed": {
+    "criteria": {
+      "has_kale": "2025-07-04 23:10:03 +0000"
     },
     "done": true
   },
@@ -7980,6 +8011,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-07-04 23:09:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-07-04 23:10:09 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:40:35 +0000"
@@ -8148,6 +8191,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-07-04 23:09:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2025-07-04 22:49:38 +0000"
@@ -8244,9 +8293,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-07-04 23:09:57 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-07-04 23:09:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/kale_smoothie": {
+    "criteria": {
+      "has_kale": "2025-07-04 23:10:03 +0000"
     },
     "done": true
   },
@@ -8358,6 +8425,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-07-04 23:09:57 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-04 21:21:09 +0000"
@@ -8367,6 +8440,12 @@
   "minecraft:recipes/decorations/dark_stone_tiles_wall_from_dark_stone_bricks_stonecutting": {
     "criteria": {
       "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
+    },
+    "done": true
+  },
+  "morevanillaarmor:recipes/combat/quartz_boots": {
+    "criteria": {
+      "already_crafted": "2025-07-04 23:14:36 +0000"
     },
     "done": true
   },
@@ -8520,6 +8599,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-07-04 23:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-07-04 22:35:32 +0000"
@@ -8586,6 +8671,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-07-04 23:09:57 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:21:06 +0000"
@@ -8595,6 +8686,12 @@
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-07-04 21:17:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/kale_chips": {
+    "criteria": {
+      "has_kale": "2025-07-04 23:10:03 +0000"
     },
     "done": true
   },
@@ -8625,6 +8722,12 @@
   "another_furniture:recipes/birch_chair": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-04 23:09:57 +0000"
     },
     "done": true
   },
@@ -8748,6 +8851,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-07-04 23:09:57 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/green_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-04 21:21:09 +0000"
@@ -8823,6 +8932,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-07-04 23:15:51 +0000"
     },
     "done": true
   },

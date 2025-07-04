@@ -1947,3 +1947,26 @@ java.lang.Throwable: null
 [04Jul2025 23:06:35.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
 [04Jul2025 23:07:14.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Futuuuro to JOA_KINGSITO7
 [04Jul2025 23:09:01.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 23:09:30.737] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-8, y=-18, z=-1817}
+[04Jul2025 23:10:00.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[04Jul2025 23:10:00.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[04Jul2025 23:10:00.914] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[04Jul2025 23:12:22.139] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-218, y=73, z=-1942}
+[04Jul2025 23:13:22.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:52235] logged in with entity id 113212 at (-194.35493544723684, 72.0, -1874.2265360497147)
+[04Jul2025 23:13:22.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[04Jul2025 23:13:22.360] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[04Jul2025 23:13:22.361] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[04Jul2025 23:13:22.366] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[04Jul2025 23:13:22.540] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[04Jul2025 23:13:22.540] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[04Jul2025 23:13:26.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[04Jul2025 23:13:27.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[04Jul2025 23:13:27.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[04Jul2025 23:15:51.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Clash of the Titans]
+[04Jul2025 23:16:46.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Clash of the Titans]
+[04Jul2025 23:16:51.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was turned to stone by JOA_KINGSITO7
+[04Jul2025 23:16:51.432] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 23:16:52.922] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jul2025 23:17:46.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 23:18:01.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Draconic Evolution]
+[04Jul2025 23:18:43.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved wrongly!
