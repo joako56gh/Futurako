@@ -5247,11 +5247,102 @@
     },
     "done": false
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-04 19:50:09 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/popcorn_from_smoking_corn": {
+    "criteria": {
+      "has_corn": "2025-07-04 19:51:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_shepherds_pie": {
+    "criteria": {
+      "has_corn": "2025-07-04 19:51:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_sweet_potato_from_smoking_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2025-07-04 19:45:08 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_popcorn": {
+    "criteria": {
+      "has_corn": "2025-07-04 19:51:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/corn_husk": {
+    "criteria": {
+      "has_corn": "2025-07-04 19:51:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "sweetpotato_seed": "2025-07-04 19:45:08 +0000",
+      "corn_seed": "2025-07-04 19:51:08 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-07-04 19:51:08 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/resurrect": {
     "criteria": {
       "main": "2025-07-04 19:42:04 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/shaped_cornish_pasty": {
+    "criteria": {
+      "has_rutabaga": "2025-07-04 19:48:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_the_recipe": "2025-07-04 19:51:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/sweet_potato_fries": {
+    "criteria": {
+      "has_sweetpotatos": "2025-07-04 19:45:08 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_corn": "2025-07-04 19:51:05 +0000"
+    },
+    "done": true
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
@@ -5265,9 +5356,88 @@
     },
     "done": false
   },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sweetpotato_seed": {
+    "criteria": {
+      "has_sweetpotato": "2025-07-04 19:45:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_baked_sweet_potato": {
+    "criteria": {
+      "has_sweetpotato": "2025-07-04 19:45:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-07-04 19:47:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/popcorn_from_corn": {
+    "criteria": {
+      "has_corn": "2025-07-04 19:51:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_seed": {
+    "criteria": {
+      "has_corn": "2025-07-04 19:51:05 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/first_blood": {
     "criteria": {
-      "main": "2025-07-04 19:42:04 +0000"
+      "main": "2025-07-04 19:42:04 +0000",
+      "flower": "2025-07-04 19:45:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_bread": {
+    "criteria": {
+      "has_corn": "2025-07-04 19:51:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_sweet_potato_from_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2025-07-04 19:45:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-07-04 19:44:31 +0000"
     },
     "done": false
   },
@@ -5277,11 +5447,59 @@
     },
     "done": false
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 19:47:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/rutabaga_seed": {
+    "criteria": {
+      "has_rutabaga": "2025-07-04 19:48:20 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/bat": {
     "criteria": {
       "main": "2025-07-04 19:42:04 +0000"
     },
     "done": false
+  },
+  "vampirism:recipes/decorations/vampire/coffin_white": {
+    "criteria": {
+      "has_wool": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/item_tent": {
+    "criteria": {
+      "has_wool": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
   },
   "vampirism:vampire/sniped": {
     "criteria": {
@@ -5289,11 +5507,30 @@
     },
     "done": false
   },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-07-04 19:42:04 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "sweetpotato_seed": "2025-07-04 19:45:08 +0000",
+      "corn_seed": "2025-07-04 19:51:08 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

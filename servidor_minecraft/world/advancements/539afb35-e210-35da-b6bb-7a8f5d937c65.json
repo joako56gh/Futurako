@@ -1632,7 +1632,8 @@
       "biomeswevegone:prairie": "2025-07-02 02:58:02 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-02 02:51:25 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 02:51:09 +0000",
-      "biomeswevegone:rainbow_beach": "2025-07-04 19:44:00 +0000"
+      "biomeswevegone:rainbow_beach": "2025-07-04 19:44:00 +0000",
+      "biomeswevegone:bayou": "2025-07-04 19:49:15 +0000"
     },
     "done": false
   },
@@ -4049,33 +4050,9 @@
     },
     "done": true
   },
-  "dramaticdoors:recipes/redstone/short_spruce_door": {
-    "criteria": {
-      "has_items": "2025-07-04 19:44:22 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/blue_stained_glass_from_blue_sand": {
-    "criteria": {
-      "has_blue_sand": "2025-07-04 19:45:13 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-07-04 19:45:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-04 19:43:15 +0000"
-    },
-    "done": true
-  },
-  "dramaticdoors:recipes/redstone/tall_spruce_door": {
-    "criteria": {
-      "has_items": "2025-07-04 19:44:22 +0000"
     },
     "done": true
   },
@@ -4085,15 +4062,45 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-07-04 19:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-04 19:43:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2025-07-04 19:43:35 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/bridge_lantern": {
+  "dramaticdoors:recipes/redstone/short_spruce_door": {
     "criteria": {
-      "has_planks": "2025-07-04 19:43:15 +0000"
+      "has_items": "2025-07-04 19:44:22 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_spruce_door": {
+    "criteria": {
+      "has_items": "2025-07-04 19:44:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-07-04 19:45:08 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/blue_stained_glass_from_blue_sand": {
+    "criteria": {
+      "has_blue_sand": "2025-07-04 19:45:13 +0000"
     },
     "done": true
   },
@@ -4103,9 +4110,201 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
+  "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
-      "has_coal": "2025-07-04 19:43:15 +0000"
+      "has_diorite": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/smooth_purple_sandstone": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_purple_sandstone_from_purple_sandstone_stonecutting": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_stained_glass_from_purple_sand": {
+    "criteria": {
+      "has_purple_sand": "2025-07-04 19:51:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cut_purple_sandstone": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/purple_sandstone_wall": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_purple_sandstone_slab_from_purple_sandstone_stonecutting": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_sandstone_slab": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_sandstone_slab_from_purple_sandstone_stonecutting": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_sandstone_wall_from_purple_sandstone_stonecutting": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/diorite": {
+    "criteria": {
+      "has_wood": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_purple_sandstone_from_purple_sandstone_stonecutting": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_sandstone_stairs_from_purple_sandstone_stonecutting": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_sandstone": {
+    "criteria": {
+      "has_purple_sand": "2025-07-04 19:51:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_sandstone_stairs": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_purple_sandstone_stairs_from_purple_sandstone_stonecutting": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_purple_sandstone_slab_from_purple_sandstone_stonecutting": {
+    "criteria": {
+      "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
     },
     "done": true
   },

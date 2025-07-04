@@ -1353,3 +1353,67 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Jul2025 19:46:31.656] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
 [04Jul2025 19:46:32.223] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-561, y=27, z=988}
 [04Jul2025 19:46:32.223] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-560, y=27, z=988}
+[04Jul2025 19:46:44.922] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 19:46:44.938] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[04Jul2025 19:46:44.941] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 19:46:51.417] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 19:46:53.515] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 19:46:53.520] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 19:46:59.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Bison, they gave up
+[04Jul2025 19:46:59.593] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[04Jul2025 19:47:01.022] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[04Jul2025 19:47:01.025] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jul2025 19:47:01.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [The Most Useful Key]
+[04Jul2025 19:47:02.046] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[04Jul2025 19:47:08.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [A Fast Comeback]
+[04Jul2025 19:47:14.014] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[04Jul2025 19:47:25.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:53031] logged in with entity id 4963 at (-486.3072396532429, 51.0, 520.3000000119209)
+[04Jul2025 19:47:25.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[04Jul2025 19:47:25.206] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[04Jul2025 19:47:25.206] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[04Jul2025 19:47:25.214] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[04Jul2025 19:47:25.496] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[04Jul2025 19:47:25.497] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[04Jul2025 19:47:28.171] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[04Jul2025 19:47:30.555] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[04Jul2025 19:47:31.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[04Jul2025 19:47:31.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[04Jul2025 19:47:33.318] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[04Jul2025 19:47:33.324] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 19:47:36.255] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[04Jul2025 19:47:38.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro drowned
+[04Jul2025 19:47:38.338] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 19:47:39.766] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jul2025 19:47:45.833] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:47:45.991] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:47:46.033] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:47:46.091] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:47:46.118] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:47:52.279] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-219, y=-24, z=-29}
+[04Jul2025 19:47:52.280] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-218, y=-24, z=-29}
+[04Jul2025 19:47:57.567] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 19:47:57.573] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 19:48:08.968] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 19:48:10.487] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 19:48:10.491] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 19:48:16.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Bison, they gave up
+[04Jul2025 19:48:17.597] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jul2025 19:48:30.040] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:48:30.123] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:48:30.153] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:48:30.193] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:48:30.219] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:50:07.159] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:50:07.226] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:50:07.257] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:50:07.315] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:50:07.339] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[04Jul2025 19:50:09.867] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[04Jul2025 19:50:09.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Not Today, Thank You]
+[04Jul2025 19:51:08.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [An Extra Seedy Place]
+[04Jul2025 19:52:41.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Getting an Upgrade]
+[04Jul2025 19:52:44.590] [Worker-Main-5/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[04Jul2025 19:52:47.526] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 19:52:47.529] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 19:52:53.419] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 19:53:50.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [I always come back]
