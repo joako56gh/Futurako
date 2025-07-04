@@ -944,6 +944,7 @@
       "minecraft:deep_cold_ocean": "2025-07-04 21:05:04 +0000",
       "minecraft:ocean": "2025-07-02 02:54:26 +0000",
       "minecraft:windswept_savanna": "2025-07-02 02:48:49 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-04 21:46:12 +0000",
       "minecraft:plains": "2025-07-04 19:59:04 +0000"
     },
     "done": false
@@ -6557,6 +6558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-07-04 21:38:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-07-04 21:25:52 +0000"
@@ -6782,6 +6789,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-04 21:21:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-07-04 21:46:34 +0000"
     },
     "done": true
   },
