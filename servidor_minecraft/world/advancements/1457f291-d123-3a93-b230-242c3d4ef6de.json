@@ -7627,6 +7627,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-07-04 23:54:38 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/regicide": {
     "criteria": {
       "main": "2025-07-04 21:52:46 +0000"
@@ -8269,6 +8275,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-07-04 23:56:19 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_wood": "2025-07-04 22:40:35 +0000"
@@ -8461,6 +8473,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-07-04 23:54:38 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/redstone/dark_spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-04 21:46:36 +0000"
@@ -8470,6 +8488,12 @@
   "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-04 23:54:38 +0000"
     },
     "done": true
   },
@@ -8590,6 +8614,12 @@
   "biomeswevegone:recipes/redstone/cypress_button": {
     "criteria": {
       "has_planks": "2025-07-04 22:17:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-07-04 23:54:38 +0000"
     },
     "done": true
   },
@@ -8785,6 +8815,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-04 23:53:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-07-04 21:21:09 +0000"
@@ -8884,6 +8920,12 @@
   "another_furniture:recipes/birch_chair": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-07-04 23:54:38 +0000"
     },
     "done": true
   },
@@ -9100,6 +9142,12 @@
   "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-07-04 23:56:19 +0000"
     },
     "done": true
   },

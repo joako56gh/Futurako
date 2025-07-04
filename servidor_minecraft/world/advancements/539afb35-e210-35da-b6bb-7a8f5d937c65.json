@@ -5707,6 +5707,7 @@
       "minecraft:pillager": "2025-07-04 20:56:48 +0000",
       "minecraft:skeleton": "2025-07-04 20:43:47 +0000",
       "minecraft:vindicator": "2025-07-04 21:10:16 +0000",
+      "minecraft:spider": "2025-07-04 23:56:16 +0000",
       "minecraft:husk": "2025-07-04 21:25:32 +0000",
       "minecraft:zombie": "2025-07-04 21:49:26 +0000"
     },
@@ -7518,6 +7519,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-04 23:16:06 +0000"
@@ -7527,6 +7534,12 @@
   "biomeswevegone:recipes/building_blocks/sandy_dirt": {
     "criteria": {
       "has_sand": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
     },
     "done": true
   },
@@ -7542,9 +7555,27 @@
     },
     "done": true
   },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mustard_seed": {
+    "criteria": {
+      "has_mustard": "2025-07-04 23:55:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2025-07-04 23:18:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
     },
     "done": true
   },
@@ -7554,9 +7585,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 23:54:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_slab": {
     "criteria": {
       "has_item": "2025-07-04 23:26:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
     },
     "done": true
   },
@@ -7566,9 +7609,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-07-04 23:29:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
     },
     "done": true
   },
@@ -7578,15 +7639,45 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-04 23:27:00 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
       "has_item": "2025-07-04 23:18:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
     },
     "done": true
   },
@@ -7614,9 +7705,39 @@
     },
     "done": true
   },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-04 23:52:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-04 23:51:43 +0000"
     },
     "done": true
   },
@@ -7629,6 +7750,18 @@
   "decorative_blocks:recipes/decorations/torch_from_chandelier": {
     "criteria": {
       "has_torch": "2025-07-04 23:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-04 23:52:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
     },
     "done": true
   },
@@ -7650,9 +7783,27 @@
     },
     "done": true
   },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2025-07-04 23:26:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
     },
     "done": true
   },
@@ -7662,9 +7813,33 @@
     },
     "done": true
   },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-07-04 23:52:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-04 23:16:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 23:50:59 +0000"
     },
     "done": true
   },
@@ -7677,6 +7852,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-04 23:16:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
     },
     "done": true
   },
@@ -7704,6 +7885,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-07-04 23:29:48 +0000"
@@ -7716,9 +7903,27 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/purple_sand": {
     "criteria": {
       "has_sand": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
     },
     "done": true
   },
@@ -7752,6 +7957,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2025-07-04 23:18:25 +0000"
@@ -7770,9 +7981,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/pink_sand": {
     "criteria": {
       "has_sand": "2025-07-04 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/forest_eye": {
+    "criteria": {
+      "has_item": "2025-07-04 23:56:25 +0000"
     },
     "done": true
   },
@@ -7791,6 +8014,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-04 23:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-07-04 23:56:59 +0000"
     },
     "done": true
   },
