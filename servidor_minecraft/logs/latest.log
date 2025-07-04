@@ -1417,3 +1417,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Jul2025 19:52:47.529] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
 [04Jul2025 19:52:53.419] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
 [04Jul2025 19:53:50.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [I always come back]
+[04Jul2025 19:59:04.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Futuuuro to JOA_KINGSITO7
+[04Jul2025 19:59:55.716] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[04Jul2025 20:00:05.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Minecraft Comes Alive]
+[04Jul2025 20:00:07.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Minecraft Comes Alive]
+[04Jul2025 20:02:39.032] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[04Jul2025 20:02:56.735] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[04Jul2025 20:02:57.066] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[04Jul2025 20:02:58.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[04Jul2025 20:03:52.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Albert'/7593, l='ServerLevel[world]', x=-385.34, y=65.06, z=1000.71] died, message: 'Albert was shot by Stymphalian Bird'
+[04Jul2025 20:03:52.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Albert'/7593, l='ServerLevel[world]', x=-385.34, y=65.06, z=1000.71] died: Albert was shot by Stymphalian Bird
+[04Jul2025 20:03:52.525] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[04Jul2025 20:03:52.528] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[04Jul2025 20:04:32.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mariya'/7594, l='ServerLevel[world]', x=-377.99, y=63.00, z=984.40] died, message: 'Mariya was shot by Stymphalian Bird'
+[04Jul2025 20:04:32.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mariya'/7594, l='ServerLevel[world]', x=-377.99, y=63.00, z=984.40] died: Mariya was shot by Stymphalian Bird
+[04Jul2025 20:06:32.644] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[04Jul2025 20:06:32.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Pray to the Goddess]

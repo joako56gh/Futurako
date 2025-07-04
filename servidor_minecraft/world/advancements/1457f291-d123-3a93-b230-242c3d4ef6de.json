@@ -931,6 +931,7 @@
     "criteria": {
       "minecraft:sunflower_plains": "2025-07-02 03:02:50 +0000",
       "minecraft:beach": "2025-07-02 03:12:56 +0000",
+      "minecraft:mangrove_swamp": "2025-07-04 20:00:05 +0000",
       "minecraft:sparse_jungle": "2025-07-02 03:36:50 +0000",
       "minecraft:river": "2025-07-02 03:12:43 +0000",
       "minecraft:dripstone_caves": "2025-07-02 03:43:54 +0000",
@@ -5289,6 +5290,13 @@
     },
     "done": true
   },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "greenonion_seed": "2025-07-04 19:57:54 +0000",
+      "honeydew_seed": "2025-07-04 19:57:50 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/corn_husk": {
     "criteria": {
       "has_corn": "2025-07-04 19:51:05 +0000"
@@ -5298,9 +5306,17 @@
   "croptopia:gather_all": {
     "criteria": {
       "sweetpotato_seed": "2025-07-04 19:45:08 +0000",
+      "honeydew_seed": "2025-07-04 19:57:50 +0000",
+      "greenonion_seed": "2025-07-04 19:57:54 +0000",
       "corn_seed": "2025-07-04 19:51:08 +0000"
     },
     "done": false
+  },
+  "mca:root": {
+    "criteria": {
+      "village_savanna": "2025-07-04 20:00:07 +0000"
+    },
+    "done": true
   },
   "croptopia:getseeds": {
     "criteria": {
@@ -5310,9 +5326,16 @@
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
+      "resurrected": "2025-07-04 19:53:50 +0000",
       "main": "2025-07-04 19:42:04 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2025-07-04 19:55:08 +0000"
+    },
+    "done": true
   },
   "croptopia:recipes/shaped_cornish_pasty": {
     "criteria": {
@@ -5495,6 +5518,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2025-07-04 19:54:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2025-07-04 19:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-04 19:52:23 +0000"
@@ -5519,6 +5554,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/greenonion_seed": {
+    "criteria": {
+      "has_greenonion": "2025-07-04 19:57:47 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-07-04 19:42:04 +0000"
@@ -5531,6 +5572,18 @@
       "corn_seed": "2025-07-04 19:51:08 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/shaped_potato_soup": {
+    "criteria": {
+      "has_greenonion": "2025-07-04 19:57:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2025-07-04 19:55:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
