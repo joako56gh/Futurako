@@ -1779,3 +1779,37 @@ java.lang.Throwable: null
 [04Jul2025 21:26:35.610] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
 [04Jul2025 21:26:35.694] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
 [04Jul2025 21:27:46.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Ice Bucket Challenge]
+[04Jul2025 21:28:54.665] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:28:54.668] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:29:21.167] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:29:21.173] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:30:02.025] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:31:30.416] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:31:30.419] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:32:04.417] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[04Jul2025 21:32:04.421] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 21:32:05.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Husk
+[04Jul2025 21:32:06.968] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jul2025 21:32:14.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 21:32:26.614] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[04Jul2025 21:32:26.619] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 21:32:45.016] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[04Jul2025 21:32:45.023] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 21:33:54.965] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:33:54.969] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:34:01.374] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:34:02.757] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:34:02.768] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:34:09.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Husk, they gave up
+[04Jul2025 21:34:10.580] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jul2025 21:35:24.416] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:35:24.423] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:35:30.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[04Jul2025 21:35:37.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[04Jul2025 21:35:44.506] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:35:46.128] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:35:46.131] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:35:51.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Husk, they gave up
+[04Jul2025 21:35:52.967] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jul2025 21:36:01.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[04Jul2025 21:36:06.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro

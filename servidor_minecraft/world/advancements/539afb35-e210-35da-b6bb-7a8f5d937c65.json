@@ -6257,9 +6257,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-04 21:28:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_item": "2025-07-04 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-04 21:33:24 +0000"
     },
     "done": true
   },
@@ -6269,9 +6281,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-04 21:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-04 21:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-04 21:27:41 +0000"
     },
     "done": true
   },
@@ -6287,9 +6317,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 21:33:24 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dark_oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mossy_cobblestone": {
+    "criteria": {
+      "has_wood": "2025-07-04 21:33:24 +0000"
     },
     "done": true
   },
@@ -6308,6 +6350,30 @@
   "mcwbridges:recipes/dark_oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-07-04 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 21:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-04 21:27:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-07-04 21:30:58 +0000"
     },
     "done": true
   },
@@ -6341,9 +6407,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-07-04 21:33:44 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/magenta_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-07-04 21:31:45 +0000"
     },
     "done": true
   },
@@ -6401,6 +6479,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 21:33:24 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:39 +0000"
@@ -6410,6 +6494,12 @@
   "mca:recipes/decorations/brown_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 21:33:24 +0000"
     },
     "done": true
   },
@@ -6437,9 +6527,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-04 21:33:24 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-07-04 21:22:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-07-04 21:33:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2025-07-04 21:34:38 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-07-04 21:27:41 +0000"
     },
     "done": true
   },
@@ -6467,6 +6581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-04 21:33:24 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:43 +0000"
@@ -6476,6 +6596,24 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-07-04 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-04 21:27:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-07-04 21:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-04 21:34:38 +0000"
     },
     "done": true
   },
@@ -6491,6 +6629,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2025-07-04 21:36:38 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_flower_box": {
     "criteria": {
       "has_slab": "2025-07-04 21:21:30 +0000"
@@ -6503,9 +6647,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-04 21:33:24 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-04 21:33:24 +0000"
     },
     "done": true
   },
@@ -6557,6 +6713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-04 21:27:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:43 +0000"
@@ -6566,6 +6728,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 21:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-04 21:27:41 +0000"
     },
     "done": true
   },
@@ -6584,6 +6752,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-07-04 21:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-04 21:27:41 +0000"
     },
     "done": true
   },
@@ -6632,6 +6806,12 @@
   "mca:recipes/decorations/white_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:43 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-04 21:33:24 +0000"
     },
     "done": true
   },

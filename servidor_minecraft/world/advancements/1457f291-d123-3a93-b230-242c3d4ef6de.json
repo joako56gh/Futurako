@@ -7174,6 +7174,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-07-04 21:27:46 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:57 +0000"
@@ -7270,9 +7276,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-07-04 21:37:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-07-04 21:15:43 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_bench": {
+    "criteria": {
+      "has_slab": "2025-07-04 21:36:09 +0000"
     },
     "done": true
   },
@@ -7285,6 +7303,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-07-04 21:12:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2025-07-04 21:27:46 +0000"
     },
     "done": true
   },
@@ -7303,6 +7327,12 @@
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-04 21:36:09 +0000"
     },
     "done": true
   },
@@ -7456,6 +7486,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-07-04 21:27:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-07-04 21:26:25 +0000"
@@ -7528,6 +7564,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-04 21:27:46 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_shelf": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
@@ -7555,6 +7597,12 @@
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-04 21:31:37 +0000"
     },
     "done": true
   },
@@ -7612,6 +7660,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-07-04 21:27:46 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/altar_cleansing_new": {
     "criteria": {
       "has_book": "2025-07-04 21:12:53 +0000"
@@ -7654,6 +7708,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/mangrove_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-04 21:36:09 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/green_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-04 21:21:09 +0000"
@@ -7693,6 +7753,12 @@
   "mca:recipes/decorations/white_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-04 21:27:46 +0000"
     },
     "done": true
   },
