@@ -1702,3 +1702,23 @@ java.lang.Throwable: null
 [04Jul2025 21:06:45.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1457f291-d123-3a93-b230-242c3d4ef6de
 [04Jul2025 21:06:46.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1457f291-d123-3a93-b230-242c3d4ef6de
 [04Jul2025 21:06:46.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat
+[04Jul2025 21:07:42.378] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[04Jul2025 21:08:35.114] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:08:35.117] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:10:09.664] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:10:09.667] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:11:41.765] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:11:41.789] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:12:10.863] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:12:10.866] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:12:21.563] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:12:21.566] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:13:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has reached the goal [Fortuitous Militia]
+[04Jul2025 21:13:22.065] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:13:22.068] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:17:46.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 539afb35-e210-35da-b6bb-7a8f5d937c65 timed out
+[04Jul2025 21:17:46.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Futuuuro
+[04Jul2025 21:17:46.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1457f291-d123-3a93-b230-242c3d4ef6de timed out
+[04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JOA_KINGSITO7
+[04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7

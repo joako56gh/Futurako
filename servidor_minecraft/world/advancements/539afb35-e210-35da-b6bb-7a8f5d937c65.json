@@ -1636,6 +1636,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-07-04 20:21:36 +0000",
+      "biomeswevegone:zelkova_forest": "2025-07-04 21:14:15 +0000",
       "biomeswevegone:white_mangrove_marshes": "2025-07-04 20:24:27 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-04 20:34:57 +0000",
       "biomeswevegone:lush_stacks": "2025-07-04 19:43:57 +0000",
@@ -5351,35 +5352,17 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/rope_jungle_bridge": {
+  "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
+      "has_brick": "2025-07-04 20:42:47 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "has_item": "2025-07-04 20:49:31 +0000"
+      "has_sherd": "2025-07-04 20:42:47 +0000"
     },
-    "done": true
-  },
-  "mca:recipes/decorations/light_gray_mangrove_crib": {
-    "criteria": {
-      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_typhon": {
-    "criteria": {
-      "location0": "2025-07-04 20:45:02 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/gray_mangrove_crib": {
-    "criteria": {
-      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
-    },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
@@ -5393,21 +5376,51 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/lime_jungle_crib": {
+  "vampirism:recipes/decorations/vampire/chandelier": {
     "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+      "has_string": "2025-07-04 20:43:29 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/jungle_chair": {
+  "minecraft:recipes/combat/bow": {
     "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
+      "has_string": "2025-07-04 20:43:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
+  "supplementaries:recipes/sack": {
     "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
+      "has_string": "2025-07-04 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-04 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-04 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-04 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
     },
     "done": true
   },
@@ -5417,93 +5430,9 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/orange_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
-    "criteria": {
-      "has_sea_serpent_scales_deepblue": "2025-07-04 20:49:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-07-04 20:48:54 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_flower_box": {
-    "criteria": {
-      "has_slab": "2025-07-04 20:43:37 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_jungle": {
-    "criteria": {
-      "has_the_recipe": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "mcwpaths:recipes/jungle": {
-    "criteria": {
-      "has_wood": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/chandelier": {
-    "criteria": {
-      "has_string": "2025-07-04 20:43:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mangrove_sign": {
     "criteria": {
       "has_planks": "2025-07-04 20:43:31 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_bench": {
-    "criteria": {
-      "has_slab": "2025-07-04 20:43:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-07-04 20:57:41 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_shelf": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-07-04 20:54:33 +0000"
     },
     "done": true
   },
@@ -5519,63 +5448,9 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2025-07-04 20:59:05 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/jungle_planks": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-07-04 20:43:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
       "has_planks": "2025-07-04 20:43:31 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/blue_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/black_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sponge": {
-    "criteria": {
-      "has_wet_sponge": "2025-07-04 20:43:41 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_jungle": {
-    "criteria": {
-      "has_item": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-07-04 20:44:06 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/blueberry_jam": {
-    "criteria": {
-      "has_blueberry": "2025-07-04 21:02:56 +0000"
     },
     "done": true
   },
@@ -5591,57 +5466,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-04 20:49:31 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/cyan_mangrove_crib": {
     "criteria": {
       "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-07-04 20:42:47 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/jungle_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/purple_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/pink_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-07-04 20:56:48 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/mangrove_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-04 20:43:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2025-07-04 20:44:06 +0000"
     },
     "done": true
   },
@@ -5657,27 +5490,9 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/brown_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/lime_mangrove_crib": {
     "criteria": {
       "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2025-07-04 20:43:47 +0000"
     },
     "done": true
   },
@@ -5717,124 +5532,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
-    "criteria": {
-      "has_backpack": "2025-07-04 20:59:33 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/jungle_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/jungle_seat": {
-    "criteria": {
-      "has_plank": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-07-04 20:43:47 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap": {
-    "criteria": {
-      "forge:ash": "2025-07-04 20:56:51 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_shutter": {
-    "criteria": {
-      "has_slab": "2025-07-04 20:43:37 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/jungle_support": {
-    "criteria": {
-      "has_plank": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/orange_mangrove_crib": {
     "criteria": {
       "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2025-07-04 20:56:48 +0000",
-      "minecraft:skeleton": "2025-07-04 20:43:47 +0000"
-    },
-    "done": false
-  },
-  "mca:recipes/decorations/magenta_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-07-04 20:56:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-07-04 20:54:33 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/gray_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-07-04 20:53:30 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_forest": {
-    "criteria": {
-      "blueberry_seed": "2025-07-04 21:02:56 +0000"
-    },
-    "done": false
-  },
   "mcwtrpdoors:recipes/mangrove/mangrove_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-07-04 20:43:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_leggings": {
-    "criteria": {
-      "has_item": "2025-07-04 20:49:31 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/light_blue_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_table": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
     },
     "done": true
   },
@@ -5844,45 +5550,9 @@
     },
     "done": true
   },
-  "mca:recipes/decorations/green_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sack": {
-    "criteria": {
-      "has_string": "2025-07-04 20:43:29 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/cyan_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_flower_box": {
-    "criteria": {
-      "has_slab": "2025-07-04 20:55:51 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/green_mangrove_crib": {
     "criteria": {
       "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/light_gray_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
     },
     "done": true
   },
@@ -5904,21 +5574,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-07-04 20:43:29 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/mangrove_chair": {
     "criteria": {
       "has_planks": "2025-07-04 20:43:31 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_bench": {
-    "criteria": {
-      "has_slab": "2025-07-04 20:55:51 +0000"
     },
     "done": true
   },
@@ -5928,45 +5586,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_whispering": {
-    "criteria": {
-      "has_logs": "2025-07-04 20:44:06 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_shutter": {
-    "criteria": {
-      "has_slab": "2025-07-04 20:55:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/mangrove": {
     "criteria": {
       "has_wood": "2025-07-04 20:43:31 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/yellow_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/red_jungle_crib": {
-    "criteria": {
-      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
     },
     "done": true
   },
@@ -5982,12 +5604,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-07-04 20:42:47 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/mangrove_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-04 20:43:31 +0000"
@@ -6000,33 +5616,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-07-04 20:59:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/mangrove_button": {
     "criteria": {
       "has_planks": "2025-07-04 20:43:31 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/blueberry_seed": {
-    "criteria": {
-      "has_blueberry": "2025-07-04 21:02:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-07-04 20:43:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
-    "criteria": {
-      "has_item": "2025-07-04 20:49:31 +0000"
     },
     "done": true
   },
@@ -6048,9 +5640,359 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "another_furniture:recipes/acacia_flower_box": {
     "criteria": {
-      "has_gunpowder": "2025-07-04 20:57:41 +0000"
+      "has_slab": "2025-07-04 20:43:37 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_bench": {
+    "criteria": {
+      "has_slab": "2025-07-04 20:43:37 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-04 20:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-07-04 20:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-04 20:43:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-07-04 20:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-07-04 20:56:48 +0000",
+      "minecraft:skeleton": "2025-07-04 20:43:47 +0000",
+      "minecraft:vindicator": "2025-07-04 21:10:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-04 20:44:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-04 20:44:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-07-04 20:44:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-07-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-04 20:48:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-04 20:49:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-07-04 20:49:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-04 20:49:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-04 20:49:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-07-04 20:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-07-04 20:53:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 20:54:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 20:54:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-04 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2025-07-04 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-04 20:55:51 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle_planks": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_item": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_seat": {
+    "criteria": {
+      "has_plank": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_support": {
+    "criteria": {
+      "has_plank": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-07-04 20:56:35 +0000"
     },
     "done": true
   },
@@ -6060,15 +6002,183 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-07-04 20:43:29 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/white_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-07-04 20:56:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 20:56:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2025-07-04 20:56:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-07-04 20:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-04 20:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-04 20:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-07-04 20:59:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-04 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-04 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blueberry_jam": {
+    "criteria": {
+      "has_blueberry": "2025-07-04 21:02:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "blueberry_seed": "2025-07-04 21:02:56 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/blueberry_seed": {
+    "criteria": {
+      "has_blueberry": "2025-07-04 21:02:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2025-07-04 21:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-04 21:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-04 21:11:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2025-07-04 21:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-04 21:10:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 21:13:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-07-04 21:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-04 21:15:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-07-04 21:11:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-07-04 21:11:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 21:11:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2025-07-04 21:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-04 21:11:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 21:11:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-07-04 21:11:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2025-07-04 21:11:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2025-07-04 21:15:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2025-07-04 21:11:06 +0000"
     },
     "done": true
   },

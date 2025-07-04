@@ -12543,3 +12543,87 @@ java.lang.Throwable: null
 [04Jul2025 21:07:13.613] [Worker-Main-17/DEBUG] [ModernFix/]: Structure aquamirae:chest is being run through DFU (hash 5b9191a222cb3d50701ad94a0f98e8c836eaa63c918df55226df52eb79f584ad), this will cause launch time delays
 [04Jul2025 21:07:13.696] [Worker-Main-8/DEBUG] [ModernFix/]: Structure aquamirae:camp is being run through DFU (hash e148227db0ad27b3b5d860fcc50ba082ba1fe9956f4ed15ce8502591bc737890), this will cause launch time delays
 [04Jul2025 21:07:15.635] [Worker-Main-10/DEBUG] [ModernFix/]: Structure aquamirae:stone is being run through DFU (hash 0ebb221e12ddd320d4659cf7eea5dcf0c5be0e806a83170385a8f6a394ca598e), this will cause launch time delays
+[04Jul2025 21:07:35.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 21:07:35.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 21:07:42.378] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[04Jul2025 21:08:35.114] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:08:35.117] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:09:06.593] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/zelkova/zelkova_tree_trunk1 is being run through DFU (hash 573a03d353fe2b1f01b122001a5ee1feec1fa36f67608af5f5f67c37d090cc51), this will cause launch time delays
+[04Jul2025 21:09:06.594] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/zelkova/zelkova_tree_canopy2 is being run through DFU (hash b01a58be480c206e92ec1b91a793346547baf53ae5e4d9160ee802ab7dea50ac), this will cause launch time delays
+[04Jul2025 21:09:06.600] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_canopy3
+[04Jul2025 21:09:06.809] [Worker-Main-17/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/zelkova/zelkova_tree_canopy3 is being run through DFU (hash 3fb0f4a4fa061940809ca9c6e76361ec7995f8bf734defe4b8d5f3003fc07854), this will cause launch time delays
+[04Jul2025 21:09:06.814] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_canopy1
+[04Jul2025 21:09:06.822] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_large_trunk1
+[04Jul2025 21:09:06.830] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_large_canopy1
+[04Jul2025 21:09:08.209] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_canopy2
+[04Jul2025 21:09:08.213] [Worker-Main-8/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/zelkova/zelkova_tree_canopy1 is being run through DFU (hash 174e4baa88176cf0fc1b8689086213bfe1ec3dd6adabed1ea8b7df949cd9776e), this will cause launch time delays
+[04Jul2025 21:09:13.853] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_canopy4
+[04Jul2025 21:09:15.611] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_trunk2
+[04Jul2025 21:09:15.612] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy2
+[04Jul2025 21:09:29.761] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy1
+[04Jul2025 21:10:09.664] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:10:09.667] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:11:41.765] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:11:41.789] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:12:10.863] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:12:10.866] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:12:21.563] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:12:21.566] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:12:35.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 21:12:35.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 21:13:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has reached the goal [Fortuitous Militia]
+[04Jul2025 21:13:22.065] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:13:22.068] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:14:08.147] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_5
+[04Jul2025 21:14:08.149] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_5
+[04Jul2025 21:14:08.159] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy3
+[04Jul2025 21:14:08.160] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_trunk1
+[04Jul2025 21:14:08.160] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy2
+[04Jul2025 21:14:08.161] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_4
+[04Jul2025 21:14:08.161] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_4
+[04Jul2025 21:14:14.533] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.61 and blood value 0 for entity alexsmobs:grizzly_bear
+[04Jul2025 21:14:14.875] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_1
+[04Jul2025 21:14:14.876] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_1
+[04Jul2025 21:14:14.967] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[04Jul2025 21:14:14.974] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_3
+[04Jul2025 21:14:14.974] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_3
+[04Jul2025 21:14:14.980] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk2
+[04Jul2025 21:14:14.980] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy2
+[04Jul2025 21:14:14.986] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_2
+[04Jul2025 21:14:14.986] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_2
+[04Jul2025 21:14:17.572] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy4
+[04Jul2025 21:14:19.760] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy3
+[04Jul2025 21:14:21.224] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk4
+[04Jul2025 21:14:21.228] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy4
+[04Jul2025 21:16:22.208] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk3
+[04Jul2025 21:16:22.209] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy3
+[04Jul2025 21:16:24.693] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy5
+[04Jul2025 21:16:24.694] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk2
+[04Jul2025 21:16:24.694] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy2
+[04Jul2025 21:16:25.111] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk1
+[04Jul2025 21:16:25.112] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy1
+[04Jul2025 21:17:31.233] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk2
+[04Jul2025 21:17:31.236] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy2
+[04Jul2025 21:17:31.356] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/orchard/orchard_trunk1
+[04Jul2025 21:17:31.358] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/orchard/orchard_canopy1
+[04Jul2025 21:17:35.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 21:17:35.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 21:17:36.107] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/orchard/orchard_canopy3
+[04Jul2025 21:17:36.115] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk1
+[04Jul2025 21:17:36.124] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy1
+[04Jul2025 21:17:45.821] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of JOA_KINGSITO7: {disabled=true, disconnected=false, uuid=1457f291-d123-3a93-b230-242c3d4ef6de, name=JOA_KINGSITO7, group=null}
+[04Jul2025 21:17:45.822] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Futuuuro: {disabled=false, disconnected=false, uuid=539afb35-e210-35da-b6bb-7a8f5d937c65, name=Futuuuro, group=null}
+[04Jul2025 21:17:46.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 539afb35-e210-35da-b6bb-7a8f5d937c65 timed out
+[04Jul2025 21:17:46.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Futuuuro
+[04Jul2025 21:17:46.764] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Futuuuro
+[04Jul2025 21:17:46.764] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Futuuuro
+[04Jul2025 21:17:46.764] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Futuuuro
+[04Jul2025 21:17:46.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 539afb35-e210-35da-b6bb-7a8f5d937c65 to disconnected: {disabled=false, disconnected=true, uuid=539afb35-e210-35da-b6bb-7a8f5d937c65, name=Futuuuro, group=null}
+[04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1457f291-d123-3a93-b230-242c3d4ef6de timed out
+[04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JOA_KINGSITO7
+[04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to JOA_KINGSITO7
+[04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with JOA_KINGSITO7
+[04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with JOA_KINGSITO7
+[04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7
+[04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 1457f291-d123-3a93-b230-242c3d4ef6de to disconnected: {disabled=true, disconnected=true, uuid=1457f291-d123-3a93-b230-242c3d4ef6de, name=JOA_KINGSITO7, group=null}
