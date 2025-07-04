@@ -937,6 +937,7 @@
       "minecraft:dripstone_caves": "2025-07-02 03:43:54 +0000",
       "minecraft:ocean": "2025-07-02 03:04:24 +0000",
       "minecraft:windswept_savanna": "2025-07-02 02:34:27 +0000",
+      "minecraft:savanna": "2025-07-04 20:06:41 +0000",
       "minecraft:plains": "2025-07-02 03:31:27 +0000"
     },
     "done": false
@@ -3314,6 +3315,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-04 20:03:08 +0000",
       "cooked_beef": "2025-07-02 03:01:32 +0000",
       "porkchop": "2025-07-02 03:31:41 +0000",
       "bread": "2025-07-02 03:50:20 +0000",
@@ -5272,6 +5274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-07-04 20:09:07 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/baked_sweet_potato_from_smoking_sweetpotato": {
     "criteria": {
       "has_sweetpotato": "2025-07-04 19:45:08 +0000"
@@ -5440,9 +5448,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-04 20:10:10 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_stool": {
     "criteria": {
       "has_wool": "2025-07-04 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-07-04 20:07:48 +0000"
     },
     "done": true
   },
@@ -5518,6 +5538,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-07-04 20:06:32 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/peach_sapling": {
     "criteria": {
       "has_peach": "2025-07-04 19:54:14 +0000"
@@ -5566,12 +5592,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-07-04 20:03:33 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_plains": {
     "criteria": {
       "sweetpotato_seed": "2025-07-04 19:45:08 +0000",
       "corn_seed": "2025-07-04 19:51:08 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-04 20:07:48 +0000"
+    },
+    "done": true
   },
   "croptopia:recipes/shaped_potato_soup": {
     "criteria": {

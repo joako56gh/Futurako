@@ -4114,6 +4114,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_item": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-07-04 19:51:25 +0000"
@@ -4123,6 +4141,18 @@
   "biomeswevegone:recipes/building_blocks/blue_sandstone_stairs": {
     "criteria": {
       "has_blue_sandstone": "2025-07-04 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
     },
     "done": true
   },
@@ -4144,15 +4174,39 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/smooth_purple_sandstone": {
     "criteria": {
       "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
     },
     "done": true
   },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
     },
     "done": true
   },
@@ -4180,6 +4234,36 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-04 20:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-07-04 20:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-04 20:10:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-07-04 20:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-07-04 19:51:25 +0000"
@@ -4189,6 +4273,12 @@
   "biomeswevegone:recipes/building_blocks/purple_stained_glass_from_purple_sand": {
     "criteria": {
       "has_purple_sand": "2025-07-04 19:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
     },
     "done": true
   },
@@ -4210,6 +4300,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/lime_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-07-04 19:51:25 +0000"
@@ -4225,6 +4321,24 @@
   "mcwroofs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-07-04 20:07:23 +0000"
     },
     "done": true
   },
@@ -4264,9 +4378,45 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_sandstone_stairs_from_blue_sandstone_stonecutting": {
     "criteria": {
       "has_blue_sandstone": "2025-07-04 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-07-04 20:07:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-04 20:07:23 +0000"
     },
     "done": true
   },
@@ -4288,6 +4438,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-07-04 20:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_sandstone_slab_from_purple_sandstone_stonecutting": {
     "criteria": {
       "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
@@ -4300,9 +4456,45 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/red_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_sandstone_wall_from_purple_sandstone_stonecutting": {
     "criteria": {
       "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_table": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-04 20:10:16 +0000"
     },
     "done": true
   },
@@ -4312,9 +4504,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-04 20:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-04 20:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-04 20:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-04 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-07-04 20:07:33 +0000"
     },
     "done": true
   },
@@ -4330,6 +4552,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_blue_sandstone_from_blue_sandstone_stonecutting": {
     "criteria": {
       "has_blue_sandstone": "2025-07-04 19:53:57 +0000"
@@ -4339,6 +4567,12 @@
   "minecraft:recipes/building_blocks/cut_purple_sandstone_from_purple_sandstone_stonecutting": {
     "criteria": {
       "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
     },
     "done": true
   },
@@ -4354,9 +4588,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/green_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/tiki_torches": {
     "criteria": {
       "has_the_recipe": "2025-07-04 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-07-04 20:10:06 +0000"
     },
     "done": true
   },
@@ -4366,15 +4612,57 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/acacia_seat": {
+    "criteria": {
+      "has_plank": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_sandstone_stairs_from_purple_sandstone_stonecutting": {
     "criteria": {
       "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-07-04 20:10:06 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/acacia_support": {
+    "criteria": {
+      "has_plank": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_sandstone_slab_from_blue_sandstone_stonecutting": {
     "criteria": {
       "has_blue_sandstone": "2025-07-04 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
     },
     "done": true
   },
@@ -4414,15 +4702,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-07-04 20:05:08 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-04 20:07:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-04 19:51:25 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_purple_sandstone_slab_from_purple_sandstone_stonecutting": {
     "criteria": {
       "has_purple_sandstone": "2025-07-04 19:51:18 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-04 20:07:23 +0000"
     },
     "done": true
   },
