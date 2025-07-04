@@ -943,6 +943,7 @@
       "minecraft:forest": "2025-07-04 21:01:23 +0000",
       "minecraft:deep_cold_ocean": "2025-07-04 21:05:04 +0000",
       "minecraft:ocean": "2025-07-02 02:54:26 +0000",
+      "minecraft:jungle": "2025-07-04 22:42:07 +0000",
       "minecraft:windswept_savanna": "2025-07-02 02:48:49 +0000",
       "minecraft:flower_forest": "2025-07-04 22:34:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-04 21:46:12 +0000",
@@ -1640,12 +1641,16 @@
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-07-04 20:21:36 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-04 21:14:15 +0000",
+      "biomeswevegone:temperate_grove": "2025-07-04 22:37:36 +0000",
       "biomeswevegone:white_mangrove_marshes": "2025-07-04 20:24:27 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-04 20:34:57 +0000",
       "biomeswevegone:lush_stacks": "2025-07-04 19:43:57 +0000",
       "biomeswevegone:cypress_swamplands": "2025-07-02 03:05:54 +0000",
       "biomeswevegone:orchard": "2025-07-02 03:04:00 +0000",
+      "biomeswevegone:ironwood_gour": "2025-07-04 22:46:59 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-04 22:41:43 +0000",
       "biomeswevegone:prairie": "2025-07-02 02:58:02 +0000",
+      "biomeswevegone:ebony_woods": "2025-07-04 22:42:05 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-02 02:51:25 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-04 21:17:40 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 02:51:09 +0000",
@@ -3753,6 +3758,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-04 20:56:37 +0000",
+      "cooked_mutton": "2025-07-04 22:46:43 +0000",
       "cooked_beef": "2025-07-02 03:08:39 +0000",
       "apple": "2025-07-02 03:11:59 +0000",
       "mutton": "2025-07-04 20:57:04 +0000",
@@ -4781,6 +4787,7 @@
       "greenbean_seed": "2025-07-04 20:20:57 +0000",
       "blueberry_seed": "2025-07-04 21:02:56 +0000",
       "leek_seed": "2025-07-04 20:17:07 +0000",
+      "oat_seed": "2025-07-04 22:46:30 +0000",
       "mustard_seed": "2025-07-04 20:20:18 +0000"
     },
     "done": false
@@ -4812,6 +4819,7 @@
   "croptopia:gather_plains": {
     "criteria": {
       "greenbean_seed": "2025-07-04 20:20:57 +0000",
+      "oat_seed": "2025-07-04 22:46:30 +0000",
       "mustard_seed": "2025-07-04 20:20:18 +0000"
     },
     "done": false
@@ -7040,6 +7048,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_oats": "2025-07-04 22:46:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-07-04 22:34:28 +0000"
@@ -7049,6 +7063,12 @@
   "decorative_blocks:recipes/building_blocks/spruce_palisade": {
     "criteria": {
       "has_log": "2025-07-04 22:35:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/oat_seed": {
+    "criteria": {
+      "has_oat": "2025-07-04 22:46:30 +0000"
     },
     "done": true
   },
@@ -7217,6 +7237,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-07-04 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-04 22:39:24 +0000"
     },
     "done": true
   },

@@ -942,6 +942,7 @@
       "minecraft:forest": "2025-07-04 21:01:35 +0000",
       "minecraft:deep_cold_ocean": "2025-07-04 21:05:04 +0000",
       "minecraft:ocean": "2025-07-02 03:04:24 +0000",
+      "minecraft:jungle": "2025-07-04 22:42:13 +0000",
       "minecraft:windswept_savanna": "2025-07-02 02:34:27 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-04 21:45:32 +0000",
       "minecraft:savanna": "2025-07-04 20:06:41 +0000",
@@ -965,6 +966,7 @@
       "biomeswevegone:lush_stacks": "2025-07-04 20:24:53 +0000",
       "biomeswevegone:cypress_swamplands": "2025-07-02 03:29:29 +0000",
       "biomeswevegone:orchard": "2025-07-04 21:04:09 +0000",
+      "biomeswevegone:ironwood_gour": "2025-07-04 22:46:35 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-02 02:53:31 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-04 22:24:42 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-04 21:17:50 +0000",
@@ -7172,6 +7174,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-04 22:41:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
@@ -7250,9 +7258,21 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
     },
     "done": true
   },
@@ -7301,6 +7321,12 @@
   "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-04 22:42:07 +0000"
     },
     "done": true
   },
@@ -7406,6 +7432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/cypress_bookshelf": {
     "criteria": {
       "has_cypress_planks": "2025-07-04 22:17:18 +0000"
@@ -7493,6 +7525,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
     },
     "done": true
   },
@@ -7712,6 +7750,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
@@ -7892,6 +7936,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-07-04 21:26:25 +0000"
@@ -8006,6 +8056,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-07-04 21:48:16 +0000"
@@ -8018,9 +8074,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-07-04 22:40:35 +0000"
     },
     "done": true
   },
@@ -8102,6 +8182,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:21:06 +0000"
@@ -8123,6 +8209,12 @@
   "vampirism:recipes/redstone/dark_spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-04 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
     },
     "done": true
   },
@@ -8156,9 +8248,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_shelf": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-04 22:40:54 +0000"
     },
     "done": true
   },
@@ -8288,6 +8392,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
@@ -8297,6 +8407,12 @@
   "mca:recipes/decorations/yellow_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:40:35 +0000"
     },
     "done": true
   },
@@ -8336,6 +8452,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-07-04 21:21:09 +0000"
@@ -8357,6 +8479,12 @@
   "vampirism:recipes/building_blocks/dark_spruce_wood": {
     "criteria": {
       "has_log": "2025-07-04 21:46:32 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
     },
     "done": true
   },
@@ -8420,6 +8548,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/cypress_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-04 22:17:18 +0000"
@@ -8456,6 +8590,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/mangrove_shutter": {
     "criteria": {
       "has_slab": "2025-07-04 21:36:09 +0000"
@@ -8474,6 +8614,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
@@ -8483,6 +8629,18 @@
   "vampirism:main/vampire_forest": {
     "criteria": {
       "main": "2025-07-04 21:46:29 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2025-07-04 22:40:54 +0000"
     },
     "done": true
   },
@@ -8525,6 +8683,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:40:35 +0000"
     },
     "done": true
   },

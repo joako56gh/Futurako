@@ -1915,3 +1915,16 @@ java.lang.Throwable: null
 [04Jul2025 22:37:33.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Vampire Hunter
 [04Jul2025 22:37:34.789] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [04Jul2025 22:38:10.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved too quickly! 4.396999909087754,0.14168517272452164,-9.023954200919661
+[04Jul2025 22:38:42.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:39:10.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dikky'/80837, l='ServerLevel[world]', x=-3320.74, y=67.50, z=-2034.30] died, message: 'Dikky was sucked dry fighting JOA_KINGSITO7'
+[04Jul2025 22:39:17.692] [Worker-Main-17/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[04Jul2025 22:39:27.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Martha'/81064, l='ServerLevel[world]', x=-3293.30, y=65.00, z=-2104.01] died, message: 'Martha was slain by Fire Dragon'
+[04Jul2025 22:39:55.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Riemy'/81399, l='ServerLevel[world]', x=-3258.72, y=65.00, z=-2098.83] died, message: 'Riemy was incinerated by Fire Dragon'
+[04Jul2025 22:40:29.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sjoukje'/80900, l='ServerLevel[world]', x=-3259.56, y=64.00, z=-2058.49] died, message: 'Sjoukje burned to death'
+[04Jul2025 22:40:45.962] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Martijn'/81398, l='ServerLevel[world]', x=-3230.52, y=78.03, z=-2108.44] died, message: 'Martijn went up in flames'
+[04Jul2025 22:42:03.767] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 22:42:03.778] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 22:42:07.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Dragonslayer]
+[04Jul2025 22:42:13.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:43:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:46:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro

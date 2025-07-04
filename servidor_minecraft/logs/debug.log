@@ -13838,3 +13838,100 @@ java.lang.Throwable: null
 [04Jul2025 22:37:35.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2025 22:37:35.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jul2025 22:38:10.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved too quickly! 4.396999909087754,0.14168517272452164,-9.023954200919661
+[04Jul2025 22:38:42.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:38:49.720] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_trunk4
+[04Jul2025 22:38:49.727] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy4
+[04Jul2025 22:38:49.732] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/rainbow-eucalyptus/rainbow_eucalyptus_tree_canopy1
+[04Jul2025 22:38:51.362] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_trunk1
+[04Jul2025 22:38:51.364] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy3
+[04Jul2025 22:38:51.368] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy1
+[04Jul2025 22:38:53.269] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy2
+[04Jul2025 22:38:53.271] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/rainbow-eucalyptus/rainbow_eucalyptus_tree_large_trunk1
+[04Jul2025 22:38:53.276] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/rainbow-eucalyptus/rainbow_eucalyptus_tree_large_canopy1
+[04Jul2025 22:38:53.280] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/tropical_shrub_canopy1
+[04Jul2025 22:38:56.942] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_trunk2
+[04Jul2025 22:38:56.944] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy2
+[04Jul2025 22:39:01.163] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ebony/ebony_trunk2
+[04Jul2025 22:39:01.168] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ebony/ebony_canopy2
+[04Jul2025 22:39:01.250] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ebony/ebony_bush_trunk
+[04Jul2025 22:39:05.880] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ebony/ebony_trunk1
+[04Jul2025 22:39:05.882] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ebony/ebony_canopy1
+[04Jul2025 22:39:08.585] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_trunk_3
+[04Jul2025 22:39:08.591] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_canopy_3
+[04Jul2025 22:39:09.342] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/redwood/redwood_tree_trunk3 is being run through DFU (hash ce3487d7d57ea74c49ce2344073c1801afa38ca1a4a690eacb27cc3b21d87c41), this will cause launch time delays
+[04Jul2025 22:39:09.343] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/redwood/redwood_tree_canopy3 is being run through DFU (hash a56ba10bba4be6ca1189c08eb898ac091b80e2a08103478d8787ae8eb4a82601), this will cause launch time delays
+[04Jul2025 22:39:10.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dikky'/80837, l='ServerLevel[world]', x=-3320.74, y=67.50, z=-2034.30] died, message: 'Dikky was sucked dry fighting JOA_KINGSITO7'
+[04Jul2025 22:39:10.922] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_trunk_2
+[04Jul2025 22:39:10.925] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_canopy_2
+[04Jul2025 22:39:10.971] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_trunk_1
+[04Jul2025 22:39:10.975] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_canopy_1
+[04Jul2025 22:39:10.983] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/redwood/redwood_tree_trunk1 is being run through DFU (hash 1adfa658b97e1461083d767c759492115aefd4aec05077a66fdf491fcb5efeca), this will cause launch time delays
+[04Jul2025 22:39:10.986] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/redwood/redwood_tree_canopy1 is being run through DFU (hash 70b6f1587e6fa17f8d26b0457e332366290c87bd58d0af34dcceca072b045cdd), this will cause launch time delays
+[04Jul2025 22:39:17.692] [Worker-Main-17/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[04Jul2025 22:39:27.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Martha'/81064, l='ServerLevel[world]', x=-3293.30, y=65.00, z=-2104.01] died, message: 'Martha was slain by Fire Dragon'
+[04Jul2025 22:39:55.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Riemy'/81399, l='ServerLevel[world]', x=-3258.72, y=65.00, z=-2098.83] died, message: 'Riemy was incinerated by Fire Dragon'
+[04Jul2025 22:40:29.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sjoukje'/80900, l='ServerLevel[world]', x=-3259.56, y=64.00, z=-2058.49] died, message: 'Sjoukje burned to death'
+[04Jul2025 22:40:31.461] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_trunk_4
+[04Jul2025 22:40:31.462] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_canopy_4
+[04Jul2025 22:40:38.503] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_trunk_2
+[04Jul2025 22:40:38.504] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_canopy_2
+[04Jul2025 22:40:39.571] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:toucan
+[04Jul2025 22:40:39.860] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_trunk_3
+[04Jul2025 22:40:39.864] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_canopy_3
+[04Jul2025 22:40:42.866] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_trunk_1
+[04Jul2025 22:40:42.867] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_canopy_1
+[04Jul2025 22:40:45.962] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Martijn'/81398, l='ServerLevel[world]', x=-3230.52, y=78.03, z=-2108.44] died, message: 'Martijn went up in flames'
+[04Jul2025 22:41:31.751] [Worker-Main-8/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/redwood/redwood_tree_trunk2 is being run through DFU (hash f09315c32b5393254468fc4efc17abc2ca28131cd7b8fbc90637b5fc517f4906), this will cause launch time delays
+[04Jul2025 22:41:31.755] [Worker-Main-8/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/redwood/redwood_tree_canopy2 is being run through DFU (hash b904610cd6822b3293048aa9772fb114a10cd65b6aeafd8c60f10985f04eaf07), this will cause launch time delays
+[04Jul2025 22:42:03.767] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 22:42:03.778] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 22:42:07.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Dragonslayer]
+[04Jul2025 22:42:13.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:42:35.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 22:42:35.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 22:43:01.201] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0 is being run through DFU (hash 9336d663b637d660a35406b57f5adc6e83752fbd4b72862c2498411c40245398), this will cause launch time delays
+[04Jul2025 22:43:01.303] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0 is being run through DFU (hash 3713743dd59fdcaa5def3a18f38b05b1b7676b223ad995b9372d55019a1dcb07), this will cause launch time delays
+[04Jul2025 22:43:18.916] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[04Jul2025 22:43:18.917] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[04Jul2025 22:43:18.918] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[04Jul2025 22:43:18.919] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[04Jul2025 22:43:18.924] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[04Jul2025 22:43:18.928] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[04Jul2025 22:43:18.945] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[04Jul2025 22:43:18.949] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[04Jul2025 22:43:18.949] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[04Jul2025 22:43:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:45:45.082] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_trunk3
+[04Jul2025 22:45:45.084] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_canopy3
+[04Jul2025 22:45:47.046] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_trunk2
+[04Jul2025 22:45:47.048] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_canopy2
+[04Jul2025 22:46:01.580] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy3
+[04Jul2025 22:46:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 22:46:37.408] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_6
+[04Jul2025 22:46:40.715] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.7 and blood value 0 for entity alexsmobs:rhinoceros
+[04Jul2025 22:46:43.664] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[04Jul2025 22:46:43.665] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[04Jul2025 22:46:43.665] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[04Jul2025 22:46:43.912] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[04Jul2025 22:46:45.961] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[04Jul2025 22:47:35.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 22:47:35.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 22:47:50.058] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[04Jul2025 22:47:50.067] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[04Jul2025 22:47:50.072] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_4 is being run through DFU (hash 5b88508f035a2a021b620463f9bc58546e95f50471753329928c1513c0189bf3), this will cause launch time delays
+[04Jul2025 22:47:50.103] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_0 is being run through DFU (hash e8b079de93e43a9fffc70c7061ec60a545625d1d837c700e9d23afe0b04f9d93), this will cause launch time delays
+[04Jul2025 22:47:50.121] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[04Jul2025 22:47:50.122] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_0 is being run through DFU (hash 66c7942fe4784a0f48a5b5ece336de55946b43d21f11f2477641b3d9086ca558), this will cause launch time delays
+[04Jul2025 22:47:50.128] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_3 is being run through DFU (hash dc7ad5f772feeefdec83c877a8e9805d0ff6ad7ae6b852e7fdca4e06051538ab), this will cause launch time delays
+[04Jul2025 22:47:50.136] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_1 is being run through DFU (hash 7b21fdffa7a9a5e0e199ee3fec061057c30bcb8da0c3e7736def8138a8cfea17), this will cause launch time delays
+[04Jul2025 22:47:50.145] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_2 is being run through DFU (hash 21e83b1170d130d92bcfe5439c1418162bc7bead365ee48366543caa05df50db), this will cause launch time delays
+[04Jul2025 22:47:50.150] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_roots_0 is being run through DFU (hash 962578fc7708746b628dca27fc3a85a519af2f79f85afd8bffffb1138e260900), this will cause launch time delays
+[04Jul2025 22:47:50.154] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_2 is being run through DFU (hash 0b6bd83133060f95020b74da9d341154182afccc938e0168c6d6d1536023c600), this will cause launch time delays
+[04Jul2025 22:47:50.235] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_0 is being run through DFU (hash 9cc06412e75087b92ed78b7dc654702e658cb5ce732ffc856406f4b7ae888920), this will cause launch time delays
+[04Jul2025 22:47:50.240] [Worker-Main-10/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_1 is being run through DFU (hash 4b0d122034d49d15b17168a012434b4f0184fe803ad83ad9822a65ee2b333ced), this will cause launch time delays
+[04Jul2025 22:48:50.036] [Worker-Main-8/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk4 is being run through DFU (hash 799b46472670a8522aa49b535f73fe65515d76768063458afb738b42a8e2cbb4), this will cause launch time delays
+[04Jul2025 22:48:50.037] [Worker-Main-8/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy4 is being run through DFU (hash 122d50d75783c7713272246b1bf59d1f4dbe84cbf0a33d3abda8f191a8ba3a0a), this will cause launch time delays
+[04Jul2025 22:48:50.068] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk5 is being run through DFU (hash 3f443ef8e942d24837269bd585ef1aec26d3de508fa2c8fcf254bc7264daf150), this will cause launch time delays
+[04Jul2025 22:48:50.071] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy5 is being run through DFU (hash 884577c6ce5d5124e149276c7594ead9ce30c531478247e2b969f4e08e1543f5), this will cause launch time delays
+[04Jul2025 22:48:50.080] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_trunk6 is being run through DFU (hash 5139f830be10c1b905c15b5593dc0c58ee3ed942f92c6e6720a4d4578bcb44cd), this will cause launch time delays
+[04Jul2025 22:48:50.080] [Worker-Main-10/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/sakura/sakura_canopy6 is being run through DFU (hash d8f84ed33132ceeb75cef829d03ac391c6cf23cc4a2e5775724d5d4c830a0374), this will cause launch time delays
