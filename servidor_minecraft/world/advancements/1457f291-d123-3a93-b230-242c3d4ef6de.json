@@ -7590,6 +7590,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-07-04 23:29:58 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/bamboo": {
     "criteria": {
       "has_wood": "2025-07-04 22:21:06 +0000"
@@ -7635,6 +7641,12 @@
   "vampirism:recipes/redstone/dark_spruce_door": {
     "criteria": {
       "has_planks": "2025-07-04 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-07-04 23:30:04 +0000"
     },
     "done": true
   },
@@ -8052,6 +8064,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-07-04 23:28:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_slab_from_dark_stone_bricks_stonecutting": {
     "criteria": {
       "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
@@ -8217,6 +8235,12 @@
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-07-04 21:12:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-07-04 23:30:04 +0000"
     },
     "done": true
   },
@@ -8484,6 +8508,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-07-04 23:29:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-04 22:40:54 +0000"
@@ -8598,6 +8628,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-07-04 23:30:04 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/cypress_door": {
     "criteria": {
       "has_planks": "2025-07-04 22:17:18 +0000"
@@ -8676,6 +8712,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-04 23:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-07-04 23:22:22 +0000"
@@ -8688,9 +8730,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-07-04 23:29:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-07-04 22:35:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-07-04 23:29:58 +0000"
     },
     "done": true
   },
@@ -8739,6 +8793,12 @@
   "vampirism:recipes/building_blocks/dark_spruce_wood": {
     "criteria": {
       "has_log": "2025-07-04 21:46:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-07-04 23:30:32 +0000"
     },
     "done": true
   },
@@ -8892,6 +8952,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-07-04 23:28:01 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 22:40:35 +0000"
@@ -8907,6 +8973,12 @@
   "vampirism:recipes/decorations/cobbled_dark_stone_wall": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-07-04 23:30:04 +0000"
     },
     "done": true
   },

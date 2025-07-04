@@ -1992,3 +1992,18 @@ java.lang.Throwable: null
 [04Jul2025 23:27:03.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
 [04Jul2025 23:27:31.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Bone Crusher]
 [04Jul2025 23:29:30.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Suit Up]
+[04Jul2025 23:29:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Another Brick in the Wall]
+[04Jul2025 23:31:14.928] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 23:31:14.932] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 23:31:22.816] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 23:31:24.145] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 23:31:24.149] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 23:31:30.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Dread Beast, they gave up
+[04Jul2025 23:31:31.714] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jul2025 23:35:22.066] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[04Jul2025 23:35:22.072] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 23:36:07.068] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[04Jul2025 23:36:07.072] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 23:36:28.414] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[04Jul2025 23:36:28.418] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 23:37:53.714] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
