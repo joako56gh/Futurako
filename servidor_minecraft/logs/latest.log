@@ -1623,3 +1623,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Jul2025 20:46:33.265] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
 [04Jul2025 20:46:33.267] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
 [04Jul2025 20:46:44.220] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 20:48:02.962] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 20:48:02.966] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 20:48:54.613] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[04Jul2025 20:48:54.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Sea? Not a Problem]
+[04Jul2025 20:48:54.619] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 20:50:27.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Sea? Not a Problem]
+[04Jul2025 20:53:21.364] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 20:53:21.367] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 20:53:24.583] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[04Jul2025 20:53:49.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 20:54:07.965] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 20:54:29.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jul2025 20:54:33.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Knowledge of Death]
+[04Jul2025 20:54:33.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Funeral Theft]
+[04Jul2025 20:54:53.913] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 20:54:53.917] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 20:56:17.765] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 20:56:17.768] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 20:56:48.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Ambush]

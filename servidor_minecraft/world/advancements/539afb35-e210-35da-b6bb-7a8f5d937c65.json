@@ -5343,5 +5343,395 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-04 20:49:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-07-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-04 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-04 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-07-04 20:49:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-04 20:48:54 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-04 20:43:37 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2025-07-04 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_bench": {
+    "criteria": {
+      "has_slab": "2025-07-04 20:43:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_table": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-04 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-07-04 20:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-04 20:44:06 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove_planks": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-04 20:49:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-04 20:42:47 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mangrove_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-04 20:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-04 20:43:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mangrove_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-07-04 20:43:47 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-04 20:43:37 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-04 20:43:47 +0000"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-04 20:49:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_mangrove": {
+    "criteria": {
+      "has_item": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-07-04 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_shelf": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_mangrove_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-04 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_chair": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-07-04 20:44:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-04 20:42:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_mangrove": {
+    "criteria": {
+      "has_the_recipe": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-04 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-07-04 20:49:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_mangrove_crib": {
+    "criteria": {
+      "has_mangrove_planks": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/mangrove_support": {
+    "criteria": {
+      "has_plank": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/mangrove_seat": {
+    "criteria": {
+      "has_plank": "2025-07-04 20:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-04 20:43:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
