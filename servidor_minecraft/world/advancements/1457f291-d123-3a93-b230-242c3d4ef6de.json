@@ -7200,6 +7200,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/cypress_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:17:18 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:57 +0000"
@@ -7284,6 +7290,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/cypress_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:17:18 +0000"
+    },
+    "done": true
+  },
+  "macawsroofsbyg:recipes/cypress": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:17:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blood_infused_enhanced_iron_block": {
     "criteria": {
       "has_blood_infused_enhanced_iron_ingot": "2025-07-04 21:48:44 +0000"
@@ -7326,6 +7344,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/cypress_bookshelf": {
+    "criteria": {
+      "has_cypress_planks": "2025-07-04 22:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
@@ -7350,15 +7374,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-04 22:16:15 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/dark_oak_support": {
     "criteria": {
       "has_plank": "2025-07-04 21:26:57 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/cypress_wood": {
+    "criteria": {
+      "has_log": "2025-07-04 22:17:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-07-04 21:37:03 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cypress_planks": {
+    "criteria": {
+      "has_log": "2025-07-04 22:17:04 +0000"
     },
     "done": true
   },
@@ -7413,6 +7455,12 @@
   "minecraft:recipes/decorations/cobbled_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/cypress_sign": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:17:18 +0000"
     },
     "done": true
   },
@@ -7548,9 +7596,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/cypress_crafting_table": {
+    "criteria": {
+      "has_cypress_planks": "2025-07-04 22:17:18 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnituresbyg:recipes/cypress": {
+    "criteria": {
+      "has_wood": "2025-07-04 22:17:04 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-07-04 21:41:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomeswevegone/sign_post_cypress": {
+    "criteria": {
+      "has_item": "2025-07-04 22:17:18 +0000"
     },
     "done": true
   },
@@ -7593,6 +7659,12 @@
   "mca:recipes/decorations/blue_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/cypress_fence": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:17:18 +0000"
     },
     "done": true
   },
@@ -7962,6 +8034,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/cypress_slab": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:17:18 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-04 21:21:09 +0000"
@@ -7992,6 +8070,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/cypress_button": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-04 21:41:58 +0000"
@@ -8010,9 +8094,21 @@
     },
     "done": true
   },
+  "macawsroofsbyg:recipes/cypress_planks": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:17:18 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2025-07-04 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/cypress_door": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:17:18 +0000"
     },
     "done": true
   },
@@ -8166,6 +8262,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/cypress_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_brick_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
@@ -8205,6 +8307,12 @@
   "vampirism:recipes/decorations/cobbled_dark_stone_wall": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/cypress_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:17:18 +0000"
     },
     "done": true
   },

@@ -1828,3 +1828,32 @@ java.lang.Throwable: null
 [04Jul2025 21:53:25.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
 [04Jul2025 21:53:25.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
 [04Jul2025 21:53:25.414] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[04Jul2025 22:10:38.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jul2025 22:10:38.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[04Jul2025 22:11:00.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:57543] logged in with entity id 57062 at (-3419.800445566977, 61.49952774076774, -897.5643299789424)
+[04Jul2025 22:11:00.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[04Jul2025 22:11:00.361] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[04Jul2025 22:11:00.361] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[04Jul2025 22:11:00.367] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[04Jul2025 22:11:00.528] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[04Jul2025 22:11:00.529] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[04Jul2025 22:11:04.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[04Jul2025 22:11:05.695] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[04Jul2025 22:11:05.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[04Jul2025 22:11:42.162] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[04Jul2025 22:11:42.170] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 22:11:48.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[04Jul2025 22:11:48.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[04Jul2025 22:11:48.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was slain by Fire Dragon
+[04Jul2025 22:11:48.014] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[04Jul2025 22:14:57.263] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 22:14:57.268] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 22:15:12.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was incinerated by a dragon
+[04Jul2025 22:15:14.024] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jul2025 22:15:23.114] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-218, y=-24, z=-29}
+[04Jul2025 22:15:23.115] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-219, y=-24, z=-29}
+[04Jul2025 22:17:43.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JOA_KINGSITO7) moved wrongly! 0.2940987151964123
+[04Jul2025 22:17:43.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JOA_KINGSITO7) moved wrongly! 0.43960952066743175
+[04Jul2025 22:17:43.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JOA_KINGSITO7) moved wrongly! 0.5833166127600578
+[04Jul2025 22:17:43.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JOA_KINGSITO7) moved wrongly! 0.7247880555152051
+[04Jul2025 22:17:43.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of JOA_KINGSITO7) moved wrongly! 0.8636943759486826
