@@ -953,10 +953,12 @@
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-07-02 03:43:46 +0000",
       "biomeswevegone:white_mangrove_marshes": "2025-07-02 03:30:51 +0000",
+      "biomeswevegone:forgotten_forest": "2025-07-04 20:35:00 +0000",
       "biomeswevegone:lush_stacks": "2025-07-04 20:24:53 +0000",
       "biomeswevegone:cypress_swamplands": "2025-07-02 03:29:29 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-02 02:53:31 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 02:51:12 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-07-04 20:34:59 +0000",
       "biomeswevegone:bayou": "2025-07-02 03:28:52 +0000",
       "biomeswevegone:rainbow_beach": "2025-07-04 20:24:32 +0000"
     },
@@ -3323,7 +3325,8 @@
       "beef": "2025-07-04 20:16:30 +0000",
       "porkchop": "2025-07-02 03:31:41 +0000",
       "bread": "2025-07-02 03:50:20 +0000",
-      "melon_slice": "2025-07-02 03:42:23 +0000"
+      "melon_slice": "2025-07-02 03:42:23 +0000",
+      "carrot": "2025-07-04 20:38:04 +0000"
     },
     "done": false
   },
@@ -6049,12 +6052,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-07-04 20:29:41 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-07-04 20:29:35 +0000"
@@ -6064,6 +6061,12 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-07-04 20:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-07-04 20:29:41 +0000"
     },
     "done": true
   },

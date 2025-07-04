@@ -1633,12 +1633,14 @@
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-07-04 20:21:36 +0000",
       "biomeswevegone:white_mangrove_marshes": "2025-07-04 20:24:27 +0000",
+      "biomeswevegone:forgotten_forest": "2025-07-04 20:34:57 +0000",
       "biomeswevegone:lush_stacks": "2025-07-04 19:43:57 +0000",
       "biomeswevegone:cypress_swamplands": "2025-07-02 03:05:54 +0000",
       "biomeswevegone:orchard": "2025-07-02 03:04:00 +0000",
       "biomeswevegone:prairie": "2025-07-02 02:58:02 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-02 02:51:25 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 02:51:09 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-07-04 20:34:54 +0000",
       "biomeswevegone:rainbow_beach": "2025-07-04 19:44:00 +0000",
       "biomeswevegone:bayou": "2025-07-04 19:49:15 +0000"
     },
@@ -3650,7 +3652,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-07-02 03:05:02 +0000"
+      "apple": "2025-07-02 03:05:02 +0000",
+      "golden_apple": "2025-07-04 20:38:34 +0000"
     },
     "done": false
   },
@@ -3742,7 +3745,8 @@
     "criteria": {
       "cooked_beef": "2025-07-02 03:08:39 +0000",
       "apple": "2025-07-02 03:11:59 +0000",
-      "bread": "2025-07-04 19:55:27 +0000"
+      "bread": "2025-07-04 19:55:27 +0000",
+      "golden_apple": "2025-07-04 20:38:40 +0000"
     },
     "done": false
   },
@@ -4991,39 +4995,57 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 20:31:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 20:31:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 20:31:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 20:31:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 20:31:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 20:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-04 20:31:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 20:31:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-07-04 20:31:37 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/potato_chips": {
-    "criteria": {
-      "has_potato": "2025-07-04 20:31:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-04 20:31:36 +0000"
     },
     "done": true
   },
@@ -5039,27 +5061,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 20:31:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-04 20:31:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
     },
     "done": true
   },
@@ -5093,21 +5097,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
   "mcwdoors:recipes/bamboo": {
     "criteria": {
       "has_wood": "2025-07-04 20:31:37 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
-    "criteria": {
-      "has_diamonds": "2025-07-04 20:31:43 +0000"
     },
     "done": true
   },
@@ -5117,57 +5109,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/vampire/fog_diffuser": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-07-04 20:31:38 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/prism": {
-    "criteria": {
-      "has_item": "2025-07-04 20:33:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 20:31:37 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/hunter/garlic_diffuser_normal": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-07-04 20:31:38 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skelewag": {
-    "criteria": {
-      "killed_by": "2025-07-04 20:32:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-07-04 20:33:29 +0000"
     },
     "done": true
   },
@@ -5183,36 +5127,6 @@
     },
     "done": true
   },
-  "croptopia:recipes/french_fries": {
-    "criteria": {
-      "has_potato": "2025-07-04 20:31:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-04 20:31:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-04 20:31:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 20:31:37 +0000"
@@ -5225,21 +5139,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-07-04 20:31:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-07-04 20:31:43 +0000"
     },
     "done": true
   },
@@ -5249,63 +5151,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/tools/diamond_fillet_knife": {
-    "criteria": {
-      "has_items": "2025-07-04 20:31:43 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 20:31:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-07-04 20:31:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-04 20:31:36 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-04 20:31:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-04 20:31:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-04 20:31:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-07-04 20:31:36 +0000"
     },
     "done": true
   },
@@ -5327,15 +5181,165 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-04 20:31:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-07-04 20:31:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-04 20:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-04 20:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-04 20:31:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-07-04 20:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-04 20:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/fog_diffuser": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/garlic_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-07-04 20:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-04 20:31:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
-      "has_bamboo": "2025-07-04 20:31:37 +0000"
+      "killed_by": "2025-07-04 20:32:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2025-07-04 20:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-04 20:33:29 +0000"
     },
     "done": true
   },
