@@ -958,6 +958,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-07-02 03:43:46 +0000",
+      "biomeswevegone:temperate_grove": "2025-07-04 22:24:43 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-04 21:14:17 +0000",
       "biomeswevegone:white_mangrove_marshes": "2025-07-02 03:30:51 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-04 20:35:00 +0000",
@@ -965,6 +966,7 @@
       "biomeswevegone:cypress_swamplands": "2025-07-02 03:29:29 +0000",
       "biomeswevegone:orchard": "2025-07-04 21:04:09 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-02 02:53:31 +0000",
+      "biomeswevegone:aspen_boreal": "2025-07-04 22:24:42 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-04 21:17:50 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 02:51:12 +0000",
       "biomeswevegone:pumpkin_valley": "2025-07-04 20:34:59 +0000",
@@ -7182,9 +7184,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-07-04 22:32:32 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/dark_spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-04 21:46:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
     },
     "done": true
   },
@@ -7203,6 +7217,12 @@
   "biomeswevegone:recipes/redstone/cypress_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-04 22:17:18 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:21:06 +0000"
     },
     "done": true
   },
@@ -7230,6 +7250,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_item": "2025-07-04 21:26:57 +0000"
@@ -7245,6 +7271,18 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
     },
     "done": true
   },
@@ -7296,9 +7334,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
   "macawsroofsbyg:recipes/cypress": {
     "criteria": {
       "has_planks": "2025-07-04 22:17:04 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
     },
     "done": true
   },
@@ -7323,6 +7373,18 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-07-04 21:48:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-07-04 22:21:06 +0000"
     },
     "done": true
   },
@@ -7374,6 +7436,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/mustard_seed": {
+    "criteria": {
+      "has_mustard": "2025-07-04 22:32:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-07-04 22:16:15 +0000"
@@ -7404,9 +7472,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_bricks_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
     },
     "done": true
   },
@@ -7515,6 +7601,12 @@
   "another_furniture:recipes/mangrove_flower_box": {
     "criteria": {
       "has_slab": "2025-07-04 21:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-07-04 22:36:36 +0000"
     },
     "done": true
   },
@@ -7644,6 +7736,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-07-04 21:20:34 +0000"
@@ -7764,6 +7862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_dark_oak_crib": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-04 21:26:57 +0000"
@@ -7773,6 +7877,12 @@
   "minecraft:recipes/decorations/dark_stone_tiles_slab_from_dark_stone_bricks_stonecutting": {
     "criteria": {
       "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-04 22:21:06 +0000"
     },
     "done": true
   },
@@ -7932,6 +8042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_birch": {
     "criteria": {
       "has_item": "2025-07-04 21:21:09 +0000"
@@ -7974,9 +8090,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_stairs_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-04 21:49:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
     },
     "done": true
   },
@@ -8001,6 +8129,12 @@
   "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_blasting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 22:21:06 +0000"
     },
     "done": true
   },
@@ -8094,6 +8228,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
   "macawsroofsbyg:recipes/cypress_planks": {
     "criteria": {
       "has_planks": "2025-07-04 22:17:18 +0000"
@@ -8166,6 +8306,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-04 22:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-04 21:50:50 +0000"
@@ -8205,6 +8357,12 @@
   "vampirism:recipes/building_blocks/dark_spruce_wood": {
     "criteria": {
       "has_log": "2025-07-04 21:46:32 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
     },
     "done": true
   },
@@ -8328,6 +8486,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/green_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-04 21:21:09 +0000"
@@ -8343,6 +8507,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-07-04 21:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-04 22:35:32 +0000"
     },
     "done": true
   },
@@ -8382,6 +8552,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/cracked_dark_stone_bricks": {
     "criteria": {
       "has_dark_stone_bricks": "2025-07-04 21:50:46 +0000"
@@ -8400,6 +8576,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-04 22:21:06 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/dark_spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-04 21:46:36 +0000"
@@ -8409,6 +8591,12 @@
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2025-07-04 21:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-04 22:21:06 +0000"
     },
     "done": true
   },
