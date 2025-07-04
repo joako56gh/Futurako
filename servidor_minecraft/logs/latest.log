@@ -1722,3 +1722,60 @@ java.lang.Throwable: null
 [04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1457f291-d123-3a93-b230-242c3d4ef6de timed out
 [04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JOA_KINGSITO7
 [04Jul2025 21:17:46.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7
+[04Jul2025 21:17:46.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[04Jul2025 21:17:47.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1457f291-d123-3a93-b230-242c3d4ef6de
+[04Jul2025 21:17:47.940] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[04Jul2025 21:17:47.940] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[04Jul2025 21:17:48.050] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1457f291-d123-3a93-b230-242c3d4ef6de
+[04Jul2025 21:17:48.050] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat
+[04Jul2025 21:18:32.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Sky of Beginning]
+[04Jul2025 21:18:33.317] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[04Jul2025 21:18:33.318] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[04Jul2025 21:18:33.321] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[04Jul2025 21:18:34.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Mine? Mine? Mine?]
+[04Jul2025 21:19:21.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Futuuuro to JOA_KINGSITO7
+[04Jul2025 21:19:58.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved wrongly!
+[04Jul2025 21:19:58.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved wrongly!
+[04Jul2025 21:20:09.562] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[04Jul2025 21:20:56.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Futuuuro to JOA_KINGSITO7
+[04Jul2025 21:21:11.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[04Jul2025 21:21:11.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[04Jul2025 21:21:11.514] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[04Jul2025 21:21:22.436] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:50757] logged in with entity id 49122 at (-3191.318380230815, 63.0, -423.1507988090477)
+[04Jul2025 21:21:22.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[04Jul2025 21:21:22.527] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[04Jul2025 21:21:22.528] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[04Jul2025 21:21:22.534] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[04Jul2025 21:21:22.702] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[04Jul2025 21:21:22.703] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[04Jul2025 21:21:27.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[04Jul2025 21:21:28.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[04Jul2025 21:21:28.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[04Jul2025 21:22:15.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 539afb35-e210-35da-b6bb-7a8f5d937c65 timed out
+[04Jul2025 21:22:15.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Futuuuro
+[04Jul2025 21:22:15.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[04Jul2025 21:22:15.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[04Jul2025 21:22:16.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[04Jul2025 21:22:16.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[04Jul2025 21:22:27.313] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:22:27.322] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:22:31.620] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[04Jul2025 21:22:31.623] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[04Jul2025 21:22:40.151] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:23:31.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was doomed to fall
+[04Jul2025 21:23:33.648] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jul2025 21:23:39.161] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[04Jul2025 21:24:07.067] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:24:07.075] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:24:14.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: An entity is required to run this command here
+[04Jul2025 21:24:27.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Futuuuro to JOA_KINGSITO7
+[04Jul2025 21:25:07.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was frozen by a dragon
+[04Jul2025 21:25:10.027] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[04Jul2025 21:25:31.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[04Jul2025 21:25:35.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[04Jul2025 21:25:48.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 21:26:16.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JOA_KINGSITO7 to Futuuuro
+[04Jul2025 21:26:25.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Ashes 'n Bones]
+[04Jul2025 21:26:35.610] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[04Jul2025 21:26:35.694] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[04Jul2025 21:27:46.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Ice Bucket Challenge]
