@@ -1801,3 +1801,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Jul2025 21:54:29.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=320, y=132, z=7481} BlockPos{x=323, y=131, z=7481}
 [05Jul2025 21:59:57.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
 [05Jul2025 22:00:15.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 22:11:48.147] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[05Jul2025 22:11:48.151] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[05Jul2025 22:16:07.403] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[05Jul2025 22:16:07.406] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
