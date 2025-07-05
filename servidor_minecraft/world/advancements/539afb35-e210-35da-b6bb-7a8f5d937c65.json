@@ -8447,9 +8447,10 @@
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
+      "resurrected": "2025-07-05 20:17:18 +0000",
       "main": "2025-07-05 17:59:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
@@ -9595,9 +9596,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/horse_feed": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "has_golden_carrot": "2025-07-05 20:06:50 +0000"
+      "loot_bastion_other": "2025-07-05 20:05:24 +0000"
     },
     "done": true
   },
@@ -9619,9 +9620,9 @@
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
+  "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
-      "loot_bastion_other": "2025-07-05 20:05:24 +0000"
+      "has_golden_carrot": "2025-07-05 20:06:50 +0000"
     },
     "done": true
   },
