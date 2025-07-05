@@ -3265,6 +3265,7 @@
       "minecraft:vindicator": "2025-07-02 03:05:49 +0000",
       "minecraft:spider": "2025-07-04 21:51:54 +0000",
       "minecraft:creeper": "2025-07-05 18:06:27 +0000",
+      "minecraft:zombified_piglin": "2025-07-05 19:14:41 +0000",
       "minecraft:wither_skeleton": "2025-07-05 19:05:56 +0000",
       "minecraft:husk": "2025-07-04 21:26:25 +0000",
       "minecraft:cave_spider": "2025-07-02 03:51:58 +0000",
@@ -9965,6 +9966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-07-05 19:02:48 +0000",
@@ -9972,6 +9979,12 @@
       "minecraft:basalt_deltas": "2025-07-05 19:03:45 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-05 19:11:32 +0000"
+    },
+    "done": true
   },
   "mcwstairs:recipes/nether": {
     "criteria": {
@@ -9982,6 +9995,24 @@
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-07-05 18:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-05 19:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
     },
     "done": true
   },
@@ -10003,6 +10034,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-05 19:20:30 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2025-07-05 19:03:18 +0000"
@@ -10021,6 +10058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-07-05 19:03:07 +0000"
@@ -10033,9 +10076,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-07-05 19:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
     },
     "done": true
   },
@@ -10045,9 +10100,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-05 19:20:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-07-05 19:03:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-05 19:11:32 +0000"
     },
     "done": true
   },
@@ -10087,9 +10160,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_paper": "2025-07-05 18:58:42 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-05 19:11:32 +0000"
     },
     "done": true
   },
@@ -10111,6 +10202,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/nether_bricks": {
     "criteria": {
       "has_planks": "2025-07-05 19:03:07 +0000"
@@ -10129,6 +10226,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-07-05 18:58:42 +0000"
@@ -10144,6 +10253,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-07-05 19:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
     },
     "done": true
   },
@@ -10174,6 +10289,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-07-05 18:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-05 19:18:47 +0000"
     },
     "done": true
   },

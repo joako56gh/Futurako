@@ -1501,3 +1501,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Jul2025 19:13:05.201] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
 [05Jul2025 19:13:05.201] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
 [05Jul2025 19:13:05.205] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Jul2025 19:15:05.789] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:15:05.793] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[05Jul2025 19:15:11.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:15:16.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:16:03.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 539afb35-e210-35da-b6bb-7a8f5d937c65 timed out
+[05Jul2025 19:16:03.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Futuuuro
+[05Jul2025 19:16:03.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[05Jul2025 19:16:03.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[05Jul2025 19:16:04.783] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[05Jul2025 19:16:04.787] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[05Jul2025 19:16:04.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[05Jul2025 19:16:04.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[05Jul2025 19:18:17.674] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[05Jul2025 19:18:17.677] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[05Jul2025 19:19:03.902] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/5995, l='ServerLevel[world]', x=-202.00, y=31.00, z=198.00] as it would cause deadlock
+[05Jul2025 19:20:30.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Who is Cutting Onions?]
+[05Jul2025 19:20:54.122] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[05Jul2025 19:21:03.950] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/6277, l='ServerLevel[world]', x=-247.00, y=31.00, z=-129.00] as it would cause deadlock
+[05Jul2025 19:21:22.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 19:21:54.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:22:19.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:22:43.762] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/6995, l='ServerLevel[world]', x=-69.00, y=31.00, z=-181.00] as it would cause deadlock
+[05Jul2025 19:22:52.331] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[05Jul2025 19:22:52.334] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[05Jul2025 19:22:54.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:23:09.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Jul2025 19:23:09.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaa<--[HERE]
+[05Jul2025 19:23:37.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:23:48.959] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7250, l='ServerLevel[world]', x=-535.00, y=31.00, z=-122.00] as it would cause deadlock
+[05Jul2025 19:23:50.928] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7270, l='ServerLevel[world]', x=-559.00, y=31.00, z=-72.00] as it would cause deadlock
+[05Jul2025 19:23:51.089] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7275, l='ServerLevel[world]', x=-552.00, y=31.00, z=124.00] as it would cause deadlock
+[05Jul2025 19:23:59.214] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7301, l='ServerLevel[world]', x=-563.00, y=31.00, z=-150.00] as it would cause deadlock
+[05Jul2025 19:24:07.158] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7330, l='ServerLevel[world]', x=-405.00, y=31.00, z=269.00] as it would cause deadlock
+[05Jul2025 19:24:07.159] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7332, l='ServerLevel[world]', x=-405.00, y=31.00, z=267.00] as it would cause deadlock
+[05Jul2025 19:24:10.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Those Were the Days]
+[05Jul2025 19:24:17.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Those Were the Days]
