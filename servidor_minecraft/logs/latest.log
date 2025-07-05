@@ -3535,3 +3535,16 @@ java.net.http.HttpTimeoutException: request timed out
 [05Jul2025 17:36:10.838] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [05Jul2025 17:36:18.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
 [05Jul2025 17:36:19.042] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/phys/HitResult$Type
+[05Jul2025 17:36:29.381] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/api/entity/player/vampire/IVampirePlayer$BITE_TYPE
+[05Jul2025 17:36:46.480] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[05Jul2025 17:37:13.231] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[05Jul2025 17:38:21.630] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[05Jul2025 17:38:21.731] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/botania/api/mana/ManaCollisionGhost$Behaviour
+[05Jul2025 17:38:32.584] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[05Jul2025 17:38:35.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 17:38:41.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipState
+[05Jul2025 17:39:50.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[05Jul2025 17:43:03.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has reached the goal [Spectral Guardian]
+[05Jul2025 17:43:38.179] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[05Jul2025 17:43:38.180] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[05Jul2025 17:44:40.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Chompy]
