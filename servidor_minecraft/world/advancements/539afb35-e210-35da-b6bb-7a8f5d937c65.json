@@ -5718,6 +5718,7 @@
       "minecraft:spider": "2025-07-04 23:56:16 +0000",
       "minecraft:creeper": "2025-07-05 17:56:23 +0000",
       "minecraft:husk": "2025-07-04 21:25:32 +0000",
+      "minecraft:piglin": "2025-07-05 21:01:08 +0000",
       "minecraft:zombie": "2025-07-04 21:49:26 +0000"
     },
     "done": false
@@ -9633,6 +9634,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-05 21:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-07-05 20:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/baobab_door": {
     "criteria": {
       "has_planks": "2025-07-05 20:46:52 +0000"
@@ -9663,6 +9700,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-05 20:54:18 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/baobab_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-05 20:46:52 +0000"
@@ -9678,6 +9757,12 @@
   "alltheores:recipes/misc/raw_zinc_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-07-05 20:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-05 21:00:04 +0000"
     },
     "done": true
   },
@@ -9699,15 +9784,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/baobab_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-05 20:46:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/baobab_sign": {
     "criteria": {
       "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-05 21:00:04 +0000"
     },
     "done": true
   },
@@ -9723,6 +9826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-07-05 20:38:17 +0000"
@@ -9732,6 +9841,12 @@
   "biomeswevegone:recipes/building_blocks/baobab_stairs": {
     "criteria": {
       "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
     },
     "done": true
   },

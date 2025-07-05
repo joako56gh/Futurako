@@ -9560,3 +9560,330 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Jul2025 20:53:53.132] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [05Jul2025 20:53:57.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
 [05Jul2025 20:55:08.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 20:55:23.923] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=55, y=52, z=977}
+[05Jul2025 20:55:24.296] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=56, y=52, z=977}
+[05Jul2025 20:55:24.390] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=56, y=52, z=977}
+[05Jul2025 20:55:24.397] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=57, y=51, z=977}
+[05Jul2025 20:55:31.931] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[05Jul2025 20:55:31.935] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[05Jul2025 20:55:37.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 20:55:58.333] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[05Jul2025 20:55:58.336] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[05Jul2025 20:56:04.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 20:56:08.181] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[05Jul2025 20:56:08.185] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[05Jul2025 20:56:12.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 20:56:12.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 20:56:59.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was slain by Netherite Monstrosity
+[05Jul2025 20:56:59.429] [Server thread/DEBUG] [tombstone/]: A new grave of the player Futuuuro was created at position [x:62, y:45, z:954, dim:minecraft:the_nether]
+[05Jul2025 20:57:00.639] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Futuuuro has new faction level vampirism:vampire 1
+[05Jul2025 20:57:00.640] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Jul2025 20:57:04.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 20:57:09.011] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[05Jul2025 20:57:09.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> HASTA LA POYA
+[05Jul2025 20:57:25.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> dame bloques
+[05Jul2025 20:58:52.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 21:00:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Hidden in the Depths]
+[05Jul2025 21:00:56.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 21:01:05.591] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/33042, l='ServerLevel[world]', x=-258.00, y=31.00, z=1195.00] as it would cause deadlock
+[05Jul2025 21:01:05.892] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[05Jul2025 21:01:05.894] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[05Jul2025 21:01:12.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 21:01:12.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 21:01:50.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[05Jul2025 21:02:48.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> tpeame a ti
+[05Jul2025 21:02:59.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 21:03:11.290] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[05Jul2025 21:03:11.319] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[05Jul2025 21:03:11.321] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[05Jul2025 21:03:11.335] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[05Jul2025 21:03:11.405] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_2
+[05Jul2025 21:03:11.581] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[05Jul2025 21:03:11.751] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[05Jul2025 21:03:11.752] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[05Jul2025 21:03:11.932] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_3
+[05Jul2025 21:03:12.236] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_5
+[05Jul2025 21:03:12.348] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[05Jul2025 21:03:12.583] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_1
+[05Jul2025 21:03:12.624] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_6
+[05Jul2025 21:03:13.072] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[05Jul2025 21:03:14.702] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[05Jul2025 21:03:14.733] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[05Jul2025 21:03:17.737] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[05Jul2025 21:03:17.740] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[05Jul2025 21:03:17.746] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[05Jul2025 21:03:17.752] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[05Jul2025 21:03:17.770] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[05Jul2025 21:03:18.883] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[05Jul2025 21:03:19.330] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[05Jul2025 21:03:19.344] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_2
+[05Jul2025 21:03:19.345] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_8
+[05Jul2025 21:03:19.347] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_16
+[05Jul2025 21:03:19.347] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_3
+[05Jul2025 21:03:19.348] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_12
+[05Jul2025 21:03:19.349] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_11
+[05Jul2025 21:03:19.349] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_10
+[05Jul2025 21:03:19.350] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_5
+[05Jul2025 21:03:19.350] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_21
+[05Jul2025 21:03:19.350] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_6
+[05Jul2025 21:03:19.351] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_5
+[05Jul2025 21:03:19.351] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_6
+[05Jul2025 21:03:19.352] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_12
+[05Jul2025 21:03:19.353] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_9
+[05Jul2025 21:03:19.353] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_20
+[05Jul2025 21:03:19.354] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_4
+[05Jul2025 21:03:19.354] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_3
+[05Jul2025 21:03:19.355] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_9
+[05Jul2025 21:03:19.356] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_13
+[05Jul2025 21:03:19.357] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_16
+[05Jul2025 21:03:19.357] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_18
+[05Jul2025 21:03:19.358] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_4
+[05Jul2025 21:03:19.358] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_14
+[05Jul2025 21:03:19.359] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_1
+[05Jul2025 21:03:19.360] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_22
+[05Jul2025 21:03:19.360] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_20
+[05Jul2025 21:03:19.361] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_0
+[05Jul2025 21:03:19.361] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_11
+[05Jul2025 21:03:19.361] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_12
+[05Jul2025 21:03:19.362] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_5
+[05Jul2025 21:03:19.363] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_15
+[05Jul2025 21:03:19.363] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_14
+[05Jul2025 21:03:19.365] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_15
+[05Jul2025 21:03:19.366] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_20
+[05Jul2025 21:03:19.366] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_2
+[05Jul2025 21:03:19.367] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_18
+[05Jul2025 21:03:19.368] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_13
+[05Jul2025 21:03:19.369] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_7
+[05Jul2025 21:03:19.369] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_10
+[05Jul2025 21:03:19.370] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_18
+[05Jul2025 21:03:19.370] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_17
+[05Jul2025 21:03:19.370] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_10
+[05Jul2025 21:03:19.371] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_0
+[05Jul2025 21:03:19.371] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_17
+[05Jul2025 21:03:19.372] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_8
+[05Jul2025 21:03:19.372] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_20
+[05Jul2025 21:03:19.373] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_1
+[05Jul2025 21:03:19.373] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_0
+[05Jul2025 21:03:19.374] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_18
+[05Jul2025 21:03:19.374] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_16
+[05Jul2025 21:03:19.374] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_9
+[05Jul2025 21:03:19.375] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_14
+[05Jul2025 21:03:19.375] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_6
+[05Jul2025 21:03:19.376] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_5
+[05Jul2025 21:03:19.376] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_23
+[05Jul2025 21:03:19.377] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_19
+[05Jul2025 21:03:19.377] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_19
+[05Jul2025 21:03:19.377] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_2
+[05Jul2025 21:03:19.378] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_8
+[05Jul2025 21:03:19.378] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_2
+[05Jul2025 21:03:19.378] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_7
+[05Jul2025 21:03:19.379] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_0
+[05Jul2025 21:03:19.379] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_17
+[05Jul2025 21:03:19.379] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_11
+[05Jul2025 21:03:19.379] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_2
+[05Jul2025 21:03:19.380] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_21
+[05Jul2025 21:03:19.381] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_4
+[05Jul2025 21:03:19.381] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_3
+[05Jul2025 21:03:19.381] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_9
+[05Jul2025 21:03:19.382] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_1
+[05Jul2025 21:03:19.383] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_8
+[05Jul2025 21:03:19.383] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_4
+[05Jul2025 21:03:19.384] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_17
+[05Jul2025 21:03:19.384] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_19
+[05Jul2025 21:03:19.385] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_19
+[05Jul2025 21:03:19.385] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_13
+[05Jul2025 21:03:19.386] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_6
+[05Jul2025 21:03:19.386] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_3
+[05Jul2025 21:03:19.386] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_7
+[05Jul2025 21:03:19.386] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_10
+[05Jul2025 21:03:19.387] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_14
+[05Jul2025 21:03:19.387] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_7
+[05Jul2025 21:03:19.388] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_13
+[05Jul2025 21:03:19.388] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_15
+[05Jul2025 21:03:19.388] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_15
+[05Jul2025 21:03:19.388] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_16
+[05Jul2025 21:03:19.389] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_11
+[05Jul2025 21:03:19.389] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_12
+[05Jul2025 21:03:19.390] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_1
+[05Jul2025 21:03:19.451] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_7
+[05Jul2025 21:03:19.455] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_5
+[05Jul2025 21:03:19.460] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_2
+[05Jul2025 21:03:19.464] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_4
+[05Jul2025 21:03:19.470] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_3
+[05Jul2025 21:03:19.474] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_6
+[05Jul2025 21:03:19.482] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_11_special
+[05Jul2025 21:03:19.488] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_0
+[05Jul2025 21:03:19.490] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_0
+[05Jul2025 21:03:19.492] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_9
+[05Jul2025 21:03:19.497] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_6
+[05Jul2025 21:03:19.498] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_1
+[05Jul2025 21:03:19.503] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_8
+[05Jul2025 21:03:19.507] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_10
+[05Jul2025 21:03:19.512] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_1
+[05Jul2025 21:03:19.515] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bottom_0
+[05Jul2025 21:03:19.527] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_0
+[05Jul2025 21:03:19.531] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_5
+[05Jul2025 21:03:19.543] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_1
+[05Jul2025 21:03:19.560] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_2
+[05Jul2025 21:03:19.565] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_4
+[05Jul2025 21:03:19.569] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bottom_0_terminator
+[05Jul2025 21:03:19.573] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bottom_1
+[05Jul2025 21:03:19.579] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_0_terminator
+[05Jul2025 21:03:19.581] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_3
+[05Jul2025 21:03:19.582] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_5
+[05Jul2025 21:03:19.596] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_0
+[05Jul2025 21:03:19.602] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_2
+[05Jul2025 21:03:19.603] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_1
+[05Jul2025 21:03:19.603] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_4
+[05Jul2025 21:03:19.604] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_0
+[05Jul2025 21:03:19.604] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_3
+[05Jul2025 21:03:19.612] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_2
+[05Jul2025 21:03:19.623] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_2
+[05Jul2025 21:03:19.638] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_6_special
+[05Jul2025 21:03:19.670] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_7_special
+[05Jul2025 21:03:19.681] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_9
+[05Jul2025 21:03:19.700] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_4
+[05Jul2025 21:03:19.714] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_5
+[05Jul2025 21:03:19.743] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_10
+[05Jul2025 21:03:19.761] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_4
+[05Jul2025 21:03:19.776] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_0
+[05Jul2025 21:03:19.804] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_8_special
+[05Jul2025 21:03:19.819] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_5
+[05Jul2025 21:03:19.832] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_3
+[05Jul2025 21:03:19.846] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_1
+[05Jul2025 21:03:19.855] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_5
+[05Jul2025 21:03:19.857] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_6
+[05Jul2025 21:03:19.858] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_0
+[05Jul2025 21:03:19.859] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_8
+[05Jul2025 21:03:19.864] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_3
+[05Jul2025 21:03:19.866] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_2
+[05Jul2025 21:03:19.871] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_1
+[05Jul2025 21:03:19.873] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_1
+[05Jul2025 21:03:19.874] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_3
+[05Jul2025 21:03:19.927] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_8
+[05Jul2025 21:03:19.947] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_6
+[05Jul2025 21:03:19.959] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_5
+[05Jul2025 21:03:19.960] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_7
+[05Jul2025 21:03:19.961] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_4
+[05Jul2025 21:03:19.982] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_0
+[05Jul2025 21:03:20.012] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_3
+[05Jul2025 21:03:20.032] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_4
+[05Jul2025 21:03:20.076] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_1
+[05Jul2025 21:03:20.098] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_9
+[05Jul2025 21:03:20.107] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_7
+[05Jul2025 21:03:20.109] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Jul2025 21:03:20.130] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_6
+[05Jul2025 21:03:20.150] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_2
+[05Jul2025 21:03:20.176] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_7
+[05Jul2025 21:03:20.257] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Jul2025 21:03:20.290] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Jul2025 21:03:20.307] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_8
+[05Jul2025 21:03:20.341] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Jul2025 21:03:20.372] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Jul2025 21:03:20.401] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[05Jul2025 21:03:20.562] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[05Jul2025 21:03:27.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15854ms or 317 ticks behind
+[05Jul2025 21:03:29.779] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[05Jul2025 21:03:31.312] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[05Jul2025 21:03:34.215] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[05Jul2025 21:03:34.237] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[05Jul2025 21:03:34.246] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[05Jul2025 21:03:34.255] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[05Jul2025 21:03:34.262] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[05Jul2025 21:03:35.417] [Worker-Main-3/DEBUG] [ModernFix/]: Structure paraglider:kakariko_village_goddess_statue is being run through DFU (hash c50fb5697902e446ee0a2b13f542d5d630a079354ebfb228d3bb936652acc888), this will cause launch time delays
+[05Jul2025 21:03:35.943] [Worker-Main-3/DEBUG] [ModernFix/]: Structure vampirism:village/taiga/houses/hunter_trainer is being run through DFU (hash 167a9d46f4f48a1a3dd7fb7d5e1c853f4d253b64bff20e38b3aa1386134ca95d), this will cause launch time delays
+[05Jul2025 21:03:36.248] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/entities/hunter_trainer
+[05Jul2025 21:03:36.257] [Worker-Main-3/DEBUG] [ModernFix/]: Structure iceandfire:village/taiga_scriber_1 is being run through DFU (hash 46cb42baa6f67fe14d959fb0ea6208ae9fb55c570235dea6c716e52055308238), this will cause launch time delays
+[05Jul2025 21:03:36.478] [Worker-Main-3/DEBUG] [ModernFix/]: Structure paraglider:taiga_village_horned_statue is being run through DFU (hash 2055dd278244c733d1ca86f3eafb59152304b8fc89c22c6be15fbdf17aed686c), this will cause launch time delays
+[05Jul2025 21:03:36.501] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/totem
+[05Jul2025 21:03:36.518] [Worker-Main-3/DEBUG] [ModernFix/]: Structure vampirism:village/taiga/houses/taiga_temple_1 is being run through DFU (hash 0e1452265ae9fc43f1cde0e4f63d57263c1f6d3d8e11dbd7786e9d38a9759ba2), this will cause launch time delays
+[05Jul2025 21:03:36.545] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:priest_house_taiga is being run through DFU (hash 9f117e8cc42e857987c04d6a9ce33bca12377eb6160657f728880afeab584e49), this will cause launch time delays
+[05Jul2025 21:03:36.638] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[05Jul2025 21:03:36.639] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[05Jul2025 21:03:40.067] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[05Jul2025 21:03:40.069] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy4
+[05Jul2025 21:03:44.488] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[05Jul2025 21:03:45.308] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_trunk
+[05Jul2025 21:03:45.309] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_canopy
+[05Jul2025 21:03:46.702] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk2
+[05Jul2025 21:03:46.703] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy2
+[05Jul2025 21:03:46.714] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk5
+[05Jul2025 21:03:46.715] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy5
+[05Jul2025 21:03:51.450] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk1
+[05Jul2025 21:03:51.451] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy1
+[05Jul2025 21:03:51.453] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk4
+[05Jul2025 21:03:51.453] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy4
+[05Jul2025 21:03:51.478] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy3
+[05Jul2025 21:03:54.823] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk3
+[05Jul2025 21:03:54.824] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy3
+[05Jul2025 21:03:54.826] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[05Jul2025 21:03:57.026] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk3
+[05Jul2025 21:03:58.794] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[05Jul2025 21:03:58.821] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[05Jul2025 21:04:01.943] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy2
+[05Jul2025 21:04:02.275] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[05Jul2025 21:04:02.293] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[05Jul2025 21:04:02.299] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[05Jul2025 21:04:02.307] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[05Jul2025 21:04:02.314] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[05Jul2025 21:04:02.319] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[05Jul2025 21:04:02.323] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[05Jul2025 21:04:02.328] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[05Jul2025 21:04:02.341] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[05Jul2025 21:04:02.342] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[05Jul2025 21:04:02.346] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[05Jul2025 21:04:02.346] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[05Jul2025 21:04:02.346] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[05Jul2025 21:04:05.156] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk2
+[05Jul2025 21:04:09.371] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_trunk1
+[05Jul2025 21:04:09.372] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_canopy1
+[05Jul2025 21:04:09.373] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk1
+[05Jul2025 21:04:11.440] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy1
+[05Jul2025 21:04:11.570] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[05Jul2025 21:04:50.175] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[05Jul2025 21:04:50.182] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[05Jul2025 21:04:51.737] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_trunk3
+[05Jul2025 21:04:51.739] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_canopy3
+[05Jul2025 21:04:51.872] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/woodlands/woodlands_tree_trunk1
+[05Jul2025 21:04:51.877] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/woodlands/woodlands_tree_canopy1
+[05Jul2025 21:04:52.590] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[05Jul2025 21:04:52.593] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[05Jul2025 21:04:52.595] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[05Jul2025 21:04:52.597] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[05Jul2025 21:04:52.598] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[05Jul2025 21:04:52.599] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[05Jul2025 21:04:52.599] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[05Jul2025 21:04:52.601] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[05Jul2025 21:04:52.602] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[05Jul2025 21:04:52.604] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[05Jul2025 21:04:52.608] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[05Jul2025 21:04:52.611] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[05Jul2025 21:04:52.612] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[05Jul2025 21:04:52.612] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[05Jul2025 21:04:52.613] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[05Jul2025 21:04:52.615] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[05Jul2025 21:04:52.617] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[05Jul2025 21:04:52.618] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[05Jul2025 21:04:52.620] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[05Jul2025 21:04:52.621] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[05Jul2025 21:04:52.623] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[05Jul2025 21:04:52.627] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[05Jul2025 21:04:52.629] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[05Jul2025 21:04:52.630] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[05Jul2025 21:04:52.631] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[05Jul2025 21:04:52.633] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[05Jul2025 21:04:52.633] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[05Jul2025 21:04:52.634] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[05Jul2025 21:04:52.635] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[05Jul2025 21:04:52.640] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[05Jul2025 21:04:52.642] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[05Jul2025 21:04:52.643] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[05Jul2025 21:04:52.862] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[05Jul2025 21:04:56.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Jul2025 21:04:56.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa<--[HERE]
+[05Jul2025 21:05:19.233] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Jul2025 21:05:19.300] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Jul2025 21:05:19.328] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Jul2025 21:05:19.366] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Jul2025 21:05:19.388] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[05Jul2025 21:05:21.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
