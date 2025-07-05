@@ -1537,3 +1537,42 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Jul2025 19:24:07.159] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7332, l='ServerLevel[world]', x=-405.00, y=31.00, z=267.00] as it would cause deadlock
 [05Jul2025 19:24:10.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Those Were the Days]
 [05Jul2025 19:24:17.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Those Were the Days]
+[05Jul2025 19:25:02.376] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:25:02.386] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[05Jul2025 19:25:09.329] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:25:10.861] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:25:10.864] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[05Jul2025 19:25:16.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 fell from a high place, they gave up
+[05Jul2025 19:25:17.368] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Jul2025 19:26:16.402] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[05Jul2025 19:26:16.405] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[05Jul2025 19:26:18.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:26:30.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [War Pigs]
+[05Jul2025 19:26:58.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Nightmare Fuel]
+[05Jul2025 19:28:00.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Nightmare Fuel]
+[05Jul2025 19:28:01.332] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[05Jul2025 19:28:01.335] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[05Jul2025 19:29:07.605] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/9032, l='ServerLevel[world]', x=-535.00, y=31.00, z=-187.00] as it would cause deadlock
+[05Jul2025 19:30:26.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 19:31:20.180] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/10378, l='ServerLevel[world]', x=-228.00, y=31.00, z=386.00] as it would cause deadlock
+[05Jul2025 19:31:30.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:32:18.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 19:32:18.924] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-223, y=27, z=205}
+[05Jul2025 19:32:18.973] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-223, y=27, z=205}
+[05Jul2025 19:32:19.021] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-223, y=27, z=205}
+[05Jul2025 19:32:21.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:32:21.596] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:32:21.601] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[05Jul2025 19:32:42.107] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:32:42.110] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[05Jul2025 19:32:43.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 fell from a high place, they gave up
+[05Jul2025 19:32:43.793] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[05Jul2025 19:32:45.568] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Jul2025 19:32:49.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:32:55.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has reached the goal [Discreet Search]
+[05Jul2025 19:33:15.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:33:37.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:33:46.661] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/11886, l='ServerLevel[world]', x=-182.00, y=31.00, z=513.00] as it would cause deadlock
+[05Jul2025 19:33:51.154] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/11901, l='ServerLevel[world]', x=-550.00, y=31.00, z=399.00] as it would cause deadlock
+[05Jul2025 19:34:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Withering Heights]
+[05Jul2025 19:34:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Withering Heights]
