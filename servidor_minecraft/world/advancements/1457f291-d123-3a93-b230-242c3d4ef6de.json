@@ -933,6 +933,7 @@
       "minecraft:deep_ocean": "2025-07-04 20:28:06 +0000",
       "minecraft:frozen_river": "2025-07-04 23:44:31 +0000",
       "minecraft:sunflower_plains": "2025-07-02 03:02:50 +0000",
+      "minecraft:birch_forest": "2025-07-05 21:09:17 +0000",
       "minecraft:windswept_hills": "2025-07-05 18:29:35 +0000",
       "minecraft:beach": "2025-07-02 03:12:56 +0000",
       "minecraft:mangrove_swamp": "2025-07-04 20:00:05 +0000",
@@ -979,6 +980,7 @@
       "biomeswevegone:orchard": "2025-07-04 21:04:09 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-04 22:46:35 +0000",
       "biomeswevegone:prairie": "2025-07-05 18:10:31 +0000",
+      "biomeswevegone:rose_fields": "2025-07-05 21:10:41 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-02 02:53:31 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-04 22:24:42 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-04 21:17:50 +0000",
@@ -10641,6 +10643,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-05 21:08:44 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-07-05 20:33:55 +0000"
@@ -10686,6 +10694,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-07-05 20:41:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-07-05 21:08:44 +0000"
     },
     "done": true
   },
@@ -10746,6 +10760,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-07-05 20:29:37 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-05 21:08:44 +0000"
     },
     "done": true
   },

@@ -1705,3 +1705,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Jul2025 21:05:19.366] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
 [05Jul2025 21:05:19.388] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
 [05Jul2025 21:05:21.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
+[05Jul2025 21:07:47.395] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/potionstudios/biomeswevegone/world/entity/oddion/Oddion$Variant
+[05Jul2025 21:08:18.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> corta llamada
+[05Jul2025 21:08:20.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> y llama de nuevo
+[05Jul2025 21:09:45.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 21:09:54.437] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[05Jul2025 21:09:56.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 21:10:05.602] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[05Jul2025 21:10:28.388] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$HatType
+[05Jul2025 21:10:32.890] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[05Jul2025 21:10:32.891] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[05Jul2025 21:10:32.894] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[05Jul2025 21:10:38.004] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Jul2025 21:10:38.004] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Jul2025 21:10:40.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 21:10:45.234] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[05Jul2025 21:10:45.885] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[05Jul2025 21:10:49.318] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[05Jul2025 21:10:54.512] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Jul2025 21:10:54.519] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05Jul2025 21:10:54.780] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[05Jul2025 21:11:02.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Umida'/41783, l='ServerLevel[world]', x=251.88, y=112.50, z=7284.48] died, message: 'Umida suffocated in a wall'
+[05Jul2025 21:11:02.835] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[05Jul2025 21:11:02.839] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[05Jul2025 21:11:16.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$EquipmentType
+[05Jul2025 21:11:40.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=119, z=7279} BlockPos{x=205, y=119, z=7280}
+[05Jul2025 21:11:41.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=119, z=7279} BlockPos{x=205, y=119, z=7280}
+[05Jul2025 21:11:41.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=119, z=7279} BlockPos{x=205, y=119, z=7280}
+[05Jul2025 21:11:41.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=119, z=7279} BlockPos{x=205, y=119, z=7280}
+[05Jul2025 21:12:02.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 21:12:24.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[05Jul2025 21:12:24.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[05Jul2025 21:12:24.182] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
