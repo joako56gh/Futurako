@@ -10985,6 +10985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/rose_petal_block": {
+    "criteria": {
+      "has_rose": "2025-07-05 21:58:24 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-07-05 21:48:49 +0000"
@@ -11036,6 +11042,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-07-05 21:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-05 21:58:24 +0000"
     },
     "done": true
   },
