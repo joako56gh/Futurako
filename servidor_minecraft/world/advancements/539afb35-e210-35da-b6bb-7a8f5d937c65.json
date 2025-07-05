@@ -9627,6 +9627,24 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/baobab_button": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/baobab_door": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/baobab_fence": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-07-05 20:38:17 +0000"
@@ -9636,6 +9654,18 @@
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-07-05 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "macawsroofsbyg:recipes/baobab_planks": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/baobab_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
     },
     "done": true
   },
@@ -9651,15 +9681,57 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/baobab_bookshelf": {
+    "criteria": {
+      "has_baobab_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_polished_blackstone_slab": "2025-07-05 20:40:56 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/baobab_slab": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/baobab_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/baobab_sign": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomeswevegone/sign_post_baobab": {
+    "criteria": {
+      "has_item": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/baobab_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-07-05 20:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/baobab_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
     },
     "done": true
   },
