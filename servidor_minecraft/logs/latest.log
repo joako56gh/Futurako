@@ -1576,3 +1576,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Jul2025 19:33:51.154] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/11901, l='ServerLevel[world]', x=-550.00, y=31.00, z=399.00] as it would cause deadlock
 [05Jul2025 19:34:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Withering Heights]
 [05Jul2025 19:34:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Withering Heights]
+[05Jul2025 19:35:15.925] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:35:15.930] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[05Jul2025 19:35:22.339] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:35:25.877] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:35:25.881] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[05Jul2025 19:35:31.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was shot by a skull from Wither, they gave up
+[05Jul2025 19:35:33.060] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Jul2025 19:36:16.424] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[05Jul2025 19:36:16.428] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[05Jul2025 19:36:48.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Strong Undead]
+[05Jul2025 19:36:55.224] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:36:55.227] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[05Jul2025 19:36:57.574] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[05Jul2025 19:36:57.578] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[05Jul2025 19:37:07.524] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:37:33.022] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[05Jul2025 19:38:18.923] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:38:18.927] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[05Jul2025 19:38:24.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 19:43:24.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[05Jul2025 19:43:24.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[05Jul2025 19:43:24.623] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro

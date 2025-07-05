@@ -3267,6 +3267,7 @@
       "minecraft:spider": "2025-07-04 21:51:54 +0000",
       "minecraft:piglin_brute": "2025-07-05 19:26:49 +0000",
       "minecraft:creeper": "2025-07-05 18:06:27 +0000",
+      "minecraft:wither": "2025-07-05 19:36:48 +0000",
       "minecraft:zombified_piglin": "2025-07-05 19:14:41 +0000",
       "minecraft:wither_skeleton": "2025-07-05 19:05:56 +0000",
       "minecraft:husk": "2025-07-04 21:26:25 +0000",
@@ -10086,6 +10087,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-07-05 19:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-07-05 19:03:07 +0000"
@@ -10131,6 +10138,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-07-05 19:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-07-05 19:36:52 +0000"
     },
     "done": true
   },
@@ -10230,6 +10243,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-07-05 19:36:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-05 19:25:43 +0000"
@@ -10263,6 +10282,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-07-05 19:03:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-07-05 19:36:48 +0000"
     },
     "done": true
   },
@@ -10449,6 +10474,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-05 19:25:59 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2025-07-05 19:36:52 +0000"
     },
     "done": true
   },
