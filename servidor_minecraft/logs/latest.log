@@ -1759,3 +1759,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Jul2025 21:32:27.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=357, y=130, z=7445} BlockPos{x=357, y=132, z=7444}
 [05Jul2025 21:35:48.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [05Jul2025 21:35:48.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaa<--[HERE]
+[05Jul2025 21:36:35.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved wrongly!
+[05Jul2025 21:37:46.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOA_KINGSITO7[/127.37.118.126:35565] logged in with entity id 50761 at (332.646897508863, 135.0, 7453.152286704984)
+[05Jul2025 21:37:46.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 joined the game
+[05Jul2025 21:37:46.357] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'JOA_KINGSITO7'
+[05Jul2025 21:37:46.358] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'JOA_KINGSITO7'
+[05Jul2025 21:37:46.366] [Server thread/INFO] [Jade/]: Syncing config to JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de)
+[05Jul2025 21:37:54.245] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JOA_KINGSITO7 (18)
+[05Jul2025 21:37:54.246] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7
+[05Jul2025 21:39:01.795] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1457f291-d123-3a93-b230-242c3d4ef6de
+[05Jul2025 21:39:02.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1457f291-d123-3a93-b230-242c3d4ef6de
+[05Jul2025 21:39:02.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat
+[05Jul2025 21:40:12.333] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=302, y=134, z=7466}
+[05Jul2025 21:41:03.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[05Jul2025 21:41:26.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> hay delay
+[05Jul2025 21:41:30.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> y esta entrecortado
+[05Jul2025 21:41:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JOA_KINGSITO7> salte
+[05Jul2025 21:44:40.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> hay delay
+[05Jul2025 21:44:49.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> llamada por what mehorr
+[05Jul2025 21:44:57.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JOA_KINGSITO7> yaaa
+[05Jul2025 21:45:19.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Jul2025 21:45:19.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaa<--[HERE]
