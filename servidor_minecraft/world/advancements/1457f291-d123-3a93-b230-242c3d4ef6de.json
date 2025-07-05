@@ -933,6 +933,7 @@
       "minecraft:deep_ocean": "2025-07-04 20:28:06 +0000",
       "minecraft:frozen_river": "2025-07-04 23:44:31 +0000",
       "minecraft:sunflower_plains": "2025-07-02 03:02:50 +0000",
+      "minecraft:windswept_hills": "2025-07-05 18:29:35 +0000",
       "minecraft:beach": "2025-07-02 03:12:56 +0000",
       "minecraft:mangrove_swamp": "2025-07-04 20:00:05 +0000",
       "minecraft:sparse_jungle": "2025-07-02 03:36:50 +0000",
@@ -949,6 +950,7 @@
       "minecraft:jungle": "2025-07-04 22:42:13 +0000",
       "minecraft:snowy_beach": "2025-07-04 23:23:58 +0000",
       "minecraft:windswept_savanna": "2025-07-02 02:34:27 +0000",
+      "minecraft:flower_forest": "2025-07-05 18:30:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-04 21:45:32 +0000",
       "minecraft:meadow": "2025-07-04 23:20:42 +0000",
       "minecraft:savanna": "2025-07-04 20:06:41 +0000",
@@ -9805,9 +9807,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-07-05 18:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-05 18:34:35 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-07-05 18:24:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-07-05 18:26:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-07-05 18:32:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-07-05 18:32:14 +0000"
     },
     "done": true
   },
@@ -9829,9 +9861,27 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-07-05 18:26:43 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-07-05 18:24:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-05 18:32:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-07-05 18:32:14 +0000"
     },
     "done": true
   },

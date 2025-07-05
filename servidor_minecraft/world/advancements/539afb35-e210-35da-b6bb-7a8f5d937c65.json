@@ -4805,6 +4805,7 @@
       "greenbean_seed": "2025-07-04 20:20:57 +0000",
       "blueberry_seed": "2025-07-04 21:02:56 +0000",
       "leek_seed": "2025-07-04 20:17:07 +0000",
+      "squash_seed": "2025-07-05 18:26:40 +0000",
       "oat_seed": "2025-07-04 22:46:30 +0000",
       "mustard_seed": "2025-07-04 20:20:18 +0000"
     },
@@ -4824,7 +4825,8 @@
   },
   "croptopia:gather_savanna": {
     "criteria": {
-      "leek_seed": "2025-07-04 20:17:07 +0000"
+      "leek_seed": "2025-07-04 20:17:07 +0000",
+      "squash_seed": "2025-07-05 18:26:40 +0000"
     },
     "done": false
   },
@@ -8456,9 +8458,10 @@
   },
   "vampirism:vampire/first_blood": {
     "criteria": {
-      "main": "2025-07-05 17:59:00 +0000"
+      "main": "2025-07-05 17:59:00 +0000",
+      "flower": "2025-07-05 18:26:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/kill_mother": {
     "criteria": {
@@ -8790,9 +8793,105 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-05 18:33:43 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_tin_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2025-07-05 18:29:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-05 18:29:48 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-05 18:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-05 18:33:43 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
       "anger_wizard": "2025-07-05 18:23:14 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-05 18:33:43 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_white": {
+    "criteria": {
+      "has_wool": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-07-05 18:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-05 18:31:42 +0000"
     },
     "done": true
   },
@@ -8802,9 +8901,39 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2025-07-05 18:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-07-05 18:23:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-05 18:29:48 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-05 18:31:42 +0000"
     },
     "done": true
   },
