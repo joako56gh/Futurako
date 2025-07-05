@@ -3261,6 +3261,7 @@
       "minecraft:spider": "2025-07-04 21:51:54 +0000",
       "minecraft:husk": "2025-07-04 21:26:25 +0000",
       "minecraft:cave_spider": "2025-07-02 03:51:58 +0000",
+      "minecraft:enderman": "2025-07-05 17:58:07 +0000",
       "minecraft:zombie": "2025-07-02 03:40:49 +0000"
     },
     "done": false
@@ -9493,9 +9494,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-07-05 17:53:15 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/raw_silver_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-07-05 17:34:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-07-05 17:53:15 +0000"
     },
     "done": true
   },
@@ -9517,9 +9530,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-05 18:02:09 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/iron_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-07-05 17:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-05 17:56:46 +0000"
     },
     "done": true
   },
@@ -9529,9 +9554,81 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-05 18:02:03 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-05 17:54:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-05 18:00:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-05 17:54:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-05 17:58:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-07-05 17:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-05 17:56:46 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/gold_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-07-05 17:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-05 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-07-05 17:53:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-05 18:02:09 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_uranium_from_block": {
+    "criteria": {
+      "has_item": "2025-07-05 18:00:30 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_uranium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/uranium]": "2025-07-05 18:00:25 +0000"
     },
     "done": true
   },
@@ -9541,9 +9638,75 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-07-05 17:53:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-07-05 17:53:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-05 18:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-05 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-05 17:58:58 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-05 18:00:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_lead_from_block": {
+    "criteria": {
+      "has_item": "2025-07-05 18:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-05 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/diamond_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-05 17:54:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_lead_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-07-05 18:02:03 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/gold_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-07-05 17:34:33 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_nickel_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-07-05 17:58:58 +0000"
     },
     "done": true
   },

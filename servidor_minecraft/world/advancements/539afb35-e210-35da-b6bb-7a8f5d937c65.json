@@ -4838,12 +4838,6 @@
     },
     "done": false
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2025-07-04 20:20:37 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-07-04 20:20:37 +0000"
@@ -5708,6 +5702,7 @@
       "minecraft:skeleton": "2025-07-04 20:43:47 +0000",
       "minecraft:vindicator": "2025-07-04 21:10:16 +0000",
       "minecraft:spider": "2025-07-04 23:56:16 +0000",
+      "minecraft:creeper": "2025-07-05 17:56:23 +0000",
       "minecraft:husk": "2025-07-04 21:25:32 +0000",
       "minecraft:zombie": "2025-07-04 21:49:26 +0000"
     },
@@ -8179,9 +8174,99 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/willow_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-05 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-07-05 17:59:00 +0000"
+    },
+    "done": false
+  },
+  "macawsroofsbyg:recipes/white_mangrove": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:59:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomeswevegone/sign_post_willow": {
+    "criteria": {
+      "has_item": "2025-07-05 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-07-05 17:59:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/blue_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-05 18:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-05 17:55:09 +0000"
+    },
+    "done": true
+  },
+  "macawsroofsbyg:recipes/willow_planks": {
+    "criteria": {
+      "has_planks": "2025-07-05 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_mangrove_planks": {
+    "criteria": {
+      "has_log": "2025-07-05 17:59:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/white_mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:59:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:59:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/white_mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:59:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/white_mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:59:33 +0000"
+    },
+    "done": true
+  },
+  "macawsroofsbyg:recipes/white_mangrove_planks": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:59:33 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/iron_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-07-05 17:32:47 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_log": "2025-07-05 18:00:06 +0000"
     },
     "done": true
   },
@@ -8209,6 +8294,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_planks": "2025-07-05 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomeswevegone/sign_post_white_mangrove": {
+    "criteria": {
+      "has_item": "2025-07-05 17:59:33 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/iron_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-07-05 17:32:47 +0000"
@@ -8221,15 +8318,51 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_planks": "2025-07-05 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-05 17:55:09 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/redstone_root": {
     "criteria": {
       "has_item": "2025-07-05 17:40:11 +0000"
     },
     "done": true
   },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2025-07-05 17:59:00 +0000"
+    },
+    "done": false
+  },
   "alltheores:recipes/misc/diamond_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-05 17:32:47 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_planks": "2025-07-05 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/willow_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-05 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnituresbyg:recipes/willow": {
+    "criteria": {
+      "has_wood": "2025-07-05 18:00:06 +0000"
     },
     "done": true
   },
@@ -8245,15 +8378,39 @@
     },
     "done": true
   },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-07-05 17:59:00 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_planks": "2025-07-05 18:01:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-07-05 17:40:11 +0000"
     },
     "done": true
   },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-07-05 17:59:00 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_redstone": "2025-07-05 17:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-05 17:55:09 +0000"
     },
     "done": true
   },
@@ -8269,9 +8426,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/white_mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:59:33 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-07-05 17:32:47 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/white_mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:59:33 +0000"
     },
     "done": true
   },
@@ -8311,9 +8480,33 @@
     },
     "done": true
   },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-07-05 17:59:00 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/redstone/willow_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-05 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-05 17:59:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-07-05 17:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/willow_bookshelf": {
+    "criteria": {
+      "has_willow_planks": "2025-07-05 18:01:34 +0000"
     },
     "done": true
   },
@@ -8329,9 +8522,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/willow_crafting_table": {
+    "criteria": {
+      "has_willow_planks": "2025-07-05 18:01:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-07-05 17:40:11 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-07-05 17:59:00 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/redstone/white_mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:59:33 +0000"
     },
     "done": true
   },
@@ -8340,6 +8551,18 @@
       "has_redstone": "2025-07-05 17:40:11 +0000"
     },
     "done": true
+  },
+  "biomeswevegone:recipes/decorations/willow_sign": {
+    "criteria": {
+      "has_planks": "2025-07-05 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-07-05 17:59:00 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
@@ -8359,9 +8582,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/white_mangrove_crafting_table": {
+    "criteria": {
+      "has_white_mangrove_planks": "2025-07-05 17:59:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-07-05 17:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:59:33 +0000"
     },
     "done": true
   },
@@ -8371,9 +8606,57 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/misc/cattail_thatch": {
+    "criteria": {
+      "has_cattail_sprout": "2025-07-05 17:59:16 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/sapphire_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/sapphire]_ingot": "2025-07-05 17:32:47 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-07-05 18:00:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/willow_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-05 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/white_mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-07-05 17:59:33 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-07-05 17:59:00 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/white_mangrove_bookshelf": {
+    "criteria": {
+      "has_white_mangrove_planks": "2025-07-05 17:59:33 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnituresbyg:recipes/white_mangrove": {
+    "criteria": {
+      "has_wood": "2025-07-05 17:59:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-07-05 17:59:00 +0000"
     },
     "done": true
   },
@@ -8386,6 +8669,12 @@
   "alltheores:recipes/misc/diamond_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-05 17:32:47 +0000"
+    },
+    "done": true
+  },
+  "macawsroofsbyg:recipes/willow": {
+    "criteria": {
+      "has_planks": "2025-07-05 18:00:06 +0000"
     },
     "done": true
   },
