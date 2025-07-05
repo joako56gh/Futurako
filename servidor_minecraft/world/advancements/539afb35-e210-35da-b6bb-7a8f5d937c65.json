@@ -1648,7 +1648,9 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:redwood_thicket": "2025-07-05 18:40:42 +0000",
       "biomeswevegone:crag_gardens": "2025-07-04 20:21:36 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-07-05 18:41:38 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-04 21:14:15 +0000",
       "biomeswevegone:temperate_grove": "2025-07-04 22:37:36 +0000",
       "biomeswevegone:white_mangrove_marshes": "2025-07-04 20:24:27 +0000",
@@ -4802,6 +4804,7 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "sweetpotato_seed": "2025-07-05 18:40:14 +0000",
       "greenbean_seed": "2025-07-04 20:20:57 +0000",
       "blueberry_seed": "2025-07-04 21:02:56 +0000",
       "leek_seed": "2025-07-04 20:17:07 +0000",
@@ -4839,6 +4842,7 @@
   "croptopia:gather_plains": {
     "criteria": {
       "greenbean_seed": "2025-07-04 20:20:57 +0000",
+      "sweetpotato_seed": "2025-07-05 18:40:14 +0000",
       "oat_seed": "2025-07-04 22:46:30 +0000",
       "mustard_seed": "2025-07-04 20:20:18 +0000"
     },
@@ -8793,9 +8797,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-05 18:36:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-05 18:45:10 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtains": {
     "criteria": {
       "has_wood": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-05 18:45:10 +0000"
     },
     "done": true
   },
@@ -8811,9 +8833,39 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/baked_sweet_potato_from_smoking_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2025-07-05 18:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-07-05 18:36:15 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-07-05 18:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-05 18:43:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/sweet_potato_fries": {
+    "criteria": {
+      "has_sweetpotatos": "2025-07-05 18:40:14 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_bench": {
+    "criteria": {
+      "has_slab": "2025-07-05 18:36:13 +0000"
     },
     "done": true
   },
@@ -8829,6 +8881,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/mangrove_flower_box": {
+    "criteria": {
+      "has_slab": "2025-07-05 18:36:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-07-05 18:33:43 +0000"
@@ -8841,6 +8899,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/sweetpotato_seed": {
+    "criteria": {
+      "has_sweetpotato": "2025-07-05 18:40:14 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
       "anger_wizard": "2025-07-05 18:23:14 +0000"
@@ -8850,6 +8914,18 @@
   "another_furniture:recipes/white_tall_stool": {
     "criteria": {
       "has_wool": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_baked_sweet_potato": {
+    "criteria": {
+      "has_sweetpotato": "2025-07-05 18:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-05 18:45:10 +0000"
     },
     "done": true
   },
@@ -8868,6 +8944,12 @@
   "another_furniture:recipes/white_curtain": {
     "criteria": {
       "has_wool": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_sweet_potato_from_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2025-07-05 18:40:14 +0000"
     },
     "done": true
   },
@@ -8898,6 +8980,12 @@
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-07-05 18:23:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-07-05 18:45:10 +0000"
     },
     "done": true
   },
@@ -8934,6 +9022,24 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-07-05 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_shutter": {
+    "criteria": {
+      "has_slab": "2025-07-05 18:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-07-05 18:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-05 18:45:10 +0000"
     },
     "done": true
   },

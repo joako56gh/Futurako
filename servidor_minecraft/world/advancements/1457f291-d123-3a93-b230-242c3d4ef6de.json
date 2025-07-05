@@ -967,6 +967,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-07-02 03:43:46 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-07-05 18:41:54 +0000",
       "biomeswevegone:temperate_grove": "2025-07-04 22:24:43 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-04 21:14:17 +0000",
       "biomeswevegone:white_mangrove_marshes": "2025-07-02 03:30:51 +0000",
@@ -9843,6 +9844,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-05 18:43:53 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-07-05 18:24:30 +0000"
@@ -9876,6 +9883,12 @@
   "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
       "has_item": "2025-07-05 18:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-05 18:42:05 +0000"
     },
     "done": true
   },
