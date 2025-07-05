@@ -3548,3 +3548,9 @@ java.net.http.HttpTimeoutException: request timed out
 [05Jul2025 17:43:38.179] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [05Jul2025 17:43:38.180] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [05Jul2025 17:44:40.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Chompy]
+[05Jul2025 17:46:55.678] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[05Jul2025 17:47:09.655] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=116, y=-8, z=605}
+[05Jul2025 17:47:09.656] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=114, y=-8, z=605}
+[05Jul2025 17:47:22.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[05Jul2025 17:47:24.930] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[05Jul2025 17:47:27.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction

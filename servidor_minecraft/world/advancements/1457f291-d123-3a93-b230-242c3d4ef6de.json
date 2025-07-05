@@ -9499,6 +9499,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-07-05 17:49:20 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-07-05 17:34:33 +0000"
@@ -9511,9 +9517,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/iron_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-07-05 17:49:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-07-05 17:49:20 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/gold_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-07-05 17:34:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-07-05 17:44:40 +0000"
     },
     "done": true
   },
