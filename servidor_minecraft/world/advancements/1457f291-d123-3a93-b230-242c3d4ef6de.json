@@ -940,6 +940,7 @@
       "minecraft:stony_shore": "2025-07-04 21:00:06 +0000",
       "minecraft:dripstone_caves": "2025-07-02 03:43:54 +0000",
       "minecraft:snowy_taiga": "2025-07-04 23:26:17 +0000",
+      "minecraft:swamp": "2025-07-05 18:23:06 +0000",
       "minecraft:cold_ocean": "2025-07-04 21:04:54 +0000",
       "minecraft:forest": "2025-07-04 21:01:35 +0000",
       "minecraft:deep_cold_ocean": "2025-07-04 21:05:04 +0000",
@@ -974,6 +975,7 @@
       "biomeswevegone:cypress_swamplands": "2025-07-02 03:29:29 +0000",
       "biomeswevegone:orchard": "2025-07-04 21:04:09 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-04 22:46:35 +0000",
+      "biomeswevegone:prairie": "2025-07-05 18:10:31 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-02 02:53:31 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-04 22:24:42 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-04 21:17:50 +0000",
@@ -3259,6 +3261,7 @@
       "minecraft:skeleton": "2025-07-02 03:55:54 +0000",
       "minecraft:vindicator": "2025-07-02 03:05:49 +0000",
       "minecraft:spider": "2025-07-04 21:51:54 +0000",
+      "minecraft:creeper": "2025-07-05 18:06:27 +0000",
       "minecraft:husk": "2025-07-04 21:26:25 +0000",
       "minecraft:cave_spider": "2025-07-02 03:51:58 +0000",
       "minecraft:enderman": "2025-07-05 17:58:07 +0000",
@@ -5351,6 +5354,7 @@
       "sweetpotato_seed": "2025-07-04 19:45:08 +0000",
       "honeydew_seed": "2025-07-04 19:57:50 +0000",
       "greenbean_seed": "2025-07-04 20:21:05 +0000",
+      "pepper_seed": "2025-07-05 18:07:18 +0000",
       "blueberry_seed": "2025-07-04 21:03:18 +0000",
       "greenonion_seed": "2025-07-04 19:57:54 +0000",
       "corn_seed": "2025-07-04 19:51:08 +0000"
@@ -5385,6 +5389,7 @@
     "criteria": {
       "greenbean_seed": "2025-07-04 20:21:05 +0000",
       "sweetpotato_seed": "2025-07-04 19:45:08 +0000",
+      "pepper_seed": "2025-07-05 18:07:18 +0000",
       "corn_seed": "2025-07-04 19:51:08 +0000"
     },
     "done": false
@@ -9494,27 +9499,9 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/apothecary_deepslate": {
-    "criteria": {
-      "has_item": "2025-07-05 17:53:15 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/raw_silver_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-07-05 17:34:33 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/twig_wand": {
-    "criteria": {
-      "has_item": "2025-07-05 17:53:15 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/iron_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-07-05 17:49:20 +0000"
     },
     "done": true
   },
@@ -9530,9 +9517,27 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/silver_ingot_from_raw": {
+  "alltheores:recipes/misc/gold_rod": {
     "criteria": {
-      "has_item": "2025-07-05 18:02:09 +0000"
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-07-05 17:34:33 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-07-05 17:34:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-07-05 17:44:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-07-05 17:49:20 +0000"
     },
     "done": true
   },
@@ -9542,45 +9547,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-05 17:56:46 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/iron_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-07-05 17:49:20 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/lead_ingot_from_raw_blasting": {
+  "botania:recipes/decorations/apothecary_deepslate": {
     "criteria": {
-      "has_item": "2025-07-05 18:02:03 +0000"
+      "has_item": "2025-07-05 17:53:15 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/diamond_gear": {
+  "botania:recipes/tools/twig_wand": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-05 17:54:23 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-07-05 18:00:25 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/diamond_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-05 17:54:23 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-07-05 17:58:58 +0000"
+      "has_item": "2025-07-05 17:53:15 +0000"
     },
     "done": true
   },
@@ -9590,51 +9571,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-05 17:56:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/gold_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-07-05 17:34:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-05 17:56:46 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/decorations/apothecary_mossy": {
     "criteria": {
       "has_item": "2025-07-05 17:53:15 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-07-05 18:02:09 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_uranium_from_block": {
-    "criteria": {
-      "has_item": "2025-07-05 18:00:30 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_uranium_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/uranium]": "2025-07-05 18:00:25 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-07-05 17:44:40 +0000"
     },
     "done": true
   },
@@ -9650,39 +9589,15 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/lead_ingot_from_raw": {
+  "alltheores:recipes/misc/diamond_gear": {
     "criteria": {
-      "has_item": "2025-07-05 18:02:03 +0000"
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-05 17:54:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+  "alltheores:recipes/misc/diamond_rod": {
     "criteria": {
-      "has_moss_block": "2025-07-05 17:56:46 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_ingot_from_raw": {
-    "criteria": {
-      "has_item": "2025-07-05 17:58:58 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/uranium_ingot_from_raw": {
-    "criteria": {
-      "has_item": "2025-07-05 18:00:25 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_lead_from_block": {
-    "criteria": {
-      "has_item": "2025-07-05 18:02:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-07-05 17:56:46 +0000"
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-05 17:54:23 +0000"
     },
     "done": true
   },
@@ -9692,21 +9607,231 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/raw_lead_block": {
+  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
     "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-07-05 18:02:03 +0000"
+      "has_moss_block": "2025-07-05 17:56:46 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/gold_plate": {
+  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-07-05 17:34:33 +0000"
+      "has_moss_block": "2025-07-05 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-05 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-05 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-05 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-05 17:58:58 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-05 17:58:58 +0000"
     },
     "done": true
   },
   "alltheores:recipes/misc/raw_nickel_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-07-05 17:58:58 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-05 18:00:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_uranium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/uranium]": "2025-07-05 18:00:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/uranium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-05 18:00:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_uranium_from_block": {
+    "criteria": {
+      "has_item": "2025-07-05 18:00:30 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-05 18:02:03 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-05 18:02:03 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_lead_from_block": {
+    "criteria": {
+      "has_item": "2025-07-05 18:02:03 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_lead_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-07-05 18:02:03 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-05 18:02:09 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-05 18:02:09 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-05 18:02:35 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-05 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-05 18:03:42 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_tin_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2025-07-05 18:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-05 18:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_tin_from_block": {
+    "criteria": {
+      "has_item": "2025-07-05 18:04:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-05 18:04:46 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-05 18:05:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_pepper": "2025-07-05 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pepper_seed": {
+    "criteria": {
+      "has_pepper": "2025-07-05 18:07:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-05 18:11:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-05 18:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-05 18:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-05 18:11:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-05 18:11:22 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-07-05 18:24:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-07-05 18:24:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-07-05 18:24:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-07-05 18:24:07 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-07-05 18:24:15 +0000"
     },
     "done": true
   },
