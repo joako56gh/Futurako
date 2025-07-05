@@ -9808,45 +9808,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_leggings": {
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
-      "has_item": "2025-07-05 18:32:14 +0000"
+      "anger_wizard": "2025-07-05 18:24:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
-      "has_coal_block": "2025-07-05 18:34:35 +0000"
+      "requirement": "2025-07-05 18:24:15 +0000"
     },
     "done": true
   },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-07-05 18:24:30 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-07-05 18:26:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_boots": {
-    "criteria": {
-      "has_item": "2025-07-05 18:32:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
-    "criteria": {
-      "has_dragonscales_black": "2025-07-05 18:32:14 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-07-05 18:43:53 +0000"
     },
     "done": true
   },
@@ -9862,9 +9838,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+  "supplementaries:recipes/feather_block": {
     "criteria": {
-      "anger_wizard": "2025-07-05 18:24:07 +0000"
+      "has_feather": "2025-07-05 18:26:25 +0000"
     },
     "done": true
   },
@@ -9874,9 +9850,21 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
+  "iceandfire:recipes/combat/armor_black_leggings": {
     "criteria": {
-      "requirement": "2025-07-05 18:24:15 +0000"
+      "has_item": "2025-07-05 18:32:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-07-05 18:32:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-07-05 18:32:14 +0000"
     },
     "done": true
   },
@@ -9886,15 +9874,129 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-07-05 18:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-05 18:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-07-05 18:42:05 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_helmet": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "has_item": "2025-07-05 18:32:14 +0000"
+      "coded_trigger": "2025-07-05 18:43:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-07-05 18:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-05 18:48:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-07-05 18:48:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-07-05 18:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-05 18:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-05 18:48:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-07-05 18:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-05 18:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-05 18:49:38 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-07-05 18:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-05 18:49:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-07-05 18:58:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-07-05 18:58:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-07-05 18:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-05 18:58:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-07-05 18:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-05 18:58:42 +0000"
     },
     "done": true
   },
