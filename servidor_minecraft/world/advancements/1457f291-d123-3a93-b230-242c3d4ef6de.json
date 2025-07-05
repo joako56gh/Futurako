@@ -10601,9 +10601,27 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_item": "2025-07-05 20:29:37 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-07-05 21:14:36 +0000"
     },
     "done": true
   },
@@ -10637,9 +10655,57 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-07-05 21:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-07-05 20:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-05 21:13:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
     },
     "done": true
   },
@@ -10661,6 +10727,18 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-07-05 20:41:55 +0000"
@@ -10670,6 +10748,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-07-05 20:41:55 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-07-05 21:14:36 +0000"
     },
     "done": true
   },
@@ -10685,6 +10769,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-07-05 20:29:37 +0000"
@@ -10697,9 +10787,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-05 21:12:37 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/raw_zinc_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-07-05 21:08:44 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
     },
     "done": true
   },
@@ -10715,9 +10823,21 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-07-05 20:41:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
     },
     "done": true
   },
@@ -10727,15 +10847,45 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-07-05 20:41:55 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2025-07-05 20:50:26 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
     },
     "done": true
   },
@@ -10748,6 +10898,36 @@
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-07-05 20:50:26 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-05 21:14:36 +0000"
     },
     "done": true
   },

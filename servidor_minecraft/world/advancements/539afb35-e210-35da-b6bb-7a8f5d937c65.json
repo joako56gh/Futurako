@@ -9631,15 +9631,123 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-07-05 20:33:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-05 20:38:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-07-05 20:38:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-05 20:38:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "axe": "2025-07-05 20:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-07-05 20:40:56 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/baobab_button": {
     "criteria": {
       "has_planks": "2025-07-05 20:46:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "biomeswevegone:recipes/redstone/baobab_door": {
     "criteria": {
-      "has_ancient_debris": "2025-07-05 21:00:04 +0000"
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/baobab_fence": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "macawsroofsbyg:recipes/baobab_planks": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/baobab_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/baobab_bookshelf": {
+    "criteria": {
+      "has_baobab_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/baobab_slab": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/baobab_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/baobab_sign": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomeswevegone/sign_post_baobab": {
+    "criteria": {
+      "has_item": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/baobab_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/baobab_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-05 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-07-05 20:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-05 20:54:18 +0000"
     },
     "done": true
   },
@@ -9661,45 +9769,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flint_block": {
-    "criteria": {
-      "has_flint": "2025-07-05 20:54:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/baobab_door": {
-    "criteria": {
-      "has_planks": "2025-07-05 20:46:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/baobab_fence": {
-    "criteria": {
-      "has_planks": "2025-07-05 20:46:52 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-07-05 20:38:17 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-07-05 20:33:38 +0000"
-    },
-    "done": true
-  },
-  "macawsroofsbyg:recipes/baobab_planks": {
-    "criteria": {
-      "has_planks": "2025-07-05 20:46:52 +0000"
     },
     "done": true
   },
@@ -9739,63 +9811,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-05 20:54:18 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/baobab_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-05 20:46:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonsteel_weapon": {
-    "criteria": {
-      "axe": "2025-07-05 20:39:42 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_zinc_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-07-05 20:38:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-07-05 21:00:04 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/baobab_bookshelf": {
-    "criteria": {
-      "has_baobab_planks": "2025-07-05 20:46:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
-    "criteria": {
-      "has_polished_blackstone_slab": "2025-07-05 20:40:56 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/baobab_slab": {
-    "criteria": {
-      "has_planks": "2025-07-05 20:46:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/baobab_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-05 20:46:52 +0000"
     },
     "done": true
   },
@@ -9805,9 +9823,27 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/decorations/baobab_sign": {
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
-      "has_planks": "2025-07-05 20:46:52 +0000"
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-05 21:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-05 21:00:04 +0000"
     },
     "done": true
   },
@@ -9817,39 +9853,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/biomeswevegone/sign_post_baobab": {
+  "botania:recipes/redstone/red_string_container": {
     "criteria": {
-      "has_item": "2025-07-05 20:46:52 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/baobab_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-05 20:46:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
-    "criteria": {
-      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/zinc_ingot_from_raw": {
-    "criteria": {
-      "has_item": "2025-07-05 20:38:17 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/baobab_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-05 20:46:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
-    "criteria": {
-      "has_polished_blackstone": "2025-07-05 20:57:33 +0000"
+      "has_base_block": "2025-07-05 21:16:52 +0000"
     },
     "done": true
   },

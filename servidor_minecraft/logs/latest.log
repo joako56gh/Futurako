@@ -1737,3 +1737,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Jul2025 21:12:24.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
 [05Jul2025 21:12:24.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
 [05Jul2025 21:12:24.182] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[05Jul2025 21:16:15.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:39769] logged in with entity id 44777 at (322.25782052601886, 137.0, 7444.999004142976)
+[05Jul2025 21:16:15.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[05Jul2025 21:16:15.705] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[05Jul2025 21:16:15.706] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[05Jul2025 21:16:15.715] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[05Jul2025 21:16:15.947] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[05Jul2025 21:16:15.948] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[05Jul2025 21:16:22.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[05Jul2025 21:16:23.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[05Jul2025 21:16:23.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[05Jul2025 21:19:26.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[05Jul2025 21:22:06.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[05Jul2025 21:22:32.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> TP
+[05Jul2025 21:23:19.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
