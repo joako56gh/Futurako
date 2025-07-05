@@ -1598,3 +1598,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Jul2025 19:43:24.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
 [05Jul2025 19:43:24.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
 [05Jul2025 19:43:24.623] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[05Jul2025 19:52:34.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Jul2025 19:52:34.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaa<--[HERE]
+[05Jul2025 19:53:05.624] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:53:05.628] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[05Jul2025 19:53:12.231] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:54:12.075] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[05Jul2025 19:54:12.079] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[05Jul2025 19:54:18.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was blown up by Nether Gauntlet
+[05Jul2025 19:54:19.784] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Jul2025 19:54:52.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Through the Gauntlet]
+[05Jul2025 19:55:04.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Hidden in the Depths]
