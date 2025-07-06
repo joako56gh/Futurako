@@ -9853,21 +9853,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+  "botania:recipes/redstone/red_string_container": {
     "criteria": {
-      "fried_egg": "2025-07-05 21:44:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-07-05 21:48:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_bwg_2_dye_tag": {
-    "criteria": {
-      "has_2_dye_tag": "2025-07-05 21:29:10 +0000"
+      "has_base_block": "2025-07-05 21:16:52 +0000"
     },
     "done": true
   },
@@ -9883,15 +9871,39 @@
     },
     "done": true
   },
-  "supplementaries:recipes/pancake_fd": {
+  "minecraft:recipes/misc/blue_dye_from_bwg_2_dye_tag": {
     "criteria": {
-      "forge:eggs": "2025-07-05 21:44:43 +0000"
+      "has_2_dye_tag": "2025-07-05 21:29:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/rose_petal_block": {
     "criteria": {
       "has_rose": "2025-07-05 21:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-05 21:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-07-05 21:30:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-07-05 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-07-05 21:44:43 +0000"
     },
     "done": true
   },
@@ -9910,18 +9922,6 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-07-05 21:44:43 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/red_string_container": {
-    "criteria": {
-      "has_base_block": "2025-07-05 21:16:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-07-05 21:30:02 +0000"
     },
     "done": true
   },
@@ -9949,15 +9949,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-07-05 21:29:33 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-07-05 21:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-05 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-05 22:17:01 +0000"
     },
     "done": true
   },
