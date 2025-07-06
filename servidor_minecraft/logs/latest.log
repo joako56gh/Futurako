@@ -1429,3 +1429,43 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Jul2025 16:01:42.676] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$EquipmentType
 [06Jul2025 16:03:08.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [06Jul2025 16:03:51.321] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[06Jul2025 16:06:06.040] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jelena'/3421, l='ServerLevel[world]', x=250.28, y=106.98, z=7305.77] died, message: 'Jelena was slain by Vindicator'
+[06Jul2025 16:06:06.046] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jelena'/3421, l='ServerLevel[world]', x=250.28, y=106.98, z=7305.77] died: Jelena was slain by Vindicator
+[06Jul2025 16:06:06.052] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[06Jul2025 16:06:06.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[06Jul2025 16:06:06.096] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[06Jul2025 16:07:43.075] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[06Jul2025 16:08:03.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has completed the challenge [The Power of the Sun]
+[06Jul2025 16:08:18.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Jul2025 16:08:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaa<--[HERE]
+[06Jul2025 16:08:21.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOA_KINGSITO7[/127.37.118.126:41397] logged in with entity id 3997 at (335.22328117617, 136.0, 7447.582099227964)
+[06Jul2025 16:08:21.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 joined the game
+[06Jul2025 16:08:21.521] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'JOA_KINGSITO7'
+[06Jul2025 16:08:21.521] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'JOA_KINGSITO7'
+[06Jul2025 16:08:21.534] [Server thread/INFO] [Jade/]: Syncing config to JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de)
+[06Jul2025 16:08:24.504] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JOA_KINGSITO7 (18)
+[06Jul2025 16:08:24.504] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7
+[06Jul2025 16:08:47.810] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1457f291-d123-3a93-b230-242c3d4ef6de
+[06Jul2025 16:08:48.810] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1457f291-d123-3a93-b230-242c3d4ef6de
+[06Jul2025 16:08:48.811] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat
+[06Jul2025 16:10:04.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[06Jul2025 16:10:49.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[06Jul2025 16:13:21.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1457f291-d123-3a93-b230-242c3d4ef6de timed out
+[06Jul2025 16:13:21.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JOA_KINGSITO7
+[06Jul2025 16:13:21.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7
+[06Jul2025 16:13:21.882] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1457f291-d123-3a93-b230-242c3d4ef6de
+[06Jul2025 16:13:22.885] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1457f291-d123-3a93-b230-242c3d4ef6de
+[06Jul2025 16:13:22.885] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat
+[06Jul2025 16:13:41.478] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=312, y=114, z=7526}
+[06Jul2025 16:13:41.627] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=312, y=114, z=7526}
+[06Jul2025 16:13:42.126] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=307, y=113, z=7526}
+[06Jul2025 16:13:42.627] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=306, y=113, z=7524}
+[06Jul2025 16:13:42.828] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=305, y=112, z=7522}
+[06Jul2025 16:13:44.514] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=305, y=113, z=7523}
+[06Jul2025 16:13:44.876] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=304, y=113, z=7522}
+[06Jul2025 16:15:12.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1457f291-d123-3a93-b230-242c3d4ef6de timed out
+[06Jul2025 16:15:12.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JOA_KINGSITO7
+[06Jul2025 16:15:12.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7
+[06Jul2025 16:15:12.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1457f291-d123-3a93-b230-242c3d4ef6de
+[06Jul2025 16:15:13.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1457f291-d123-3a93-b230-242c3d4ef6de
+[06Jul2025 16:15:13.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat

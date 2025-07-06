@@ -10961,12 +10961,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-07-05 21:48:49 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-05 21:46:39 +0000"
@@ -10979,27 +10973,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-05 21:46:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-07-05 21:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-05 21:46:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-07-05 21:48:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2025-07-05 21:48:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/rose_petal_block": {
-    "criteria": {
-      "has_rose": "2025-07-05 21:58:24 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-07-05 21:48:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-07-05 21:46:39 +0000"
     },
     "done": true
   },
@@ -11012,12 +11018,6 @@
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-07-05 21:48:49 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/french_fries": {
-    "criteria": {
-      "has_potato": "2025-07-05 21:46:39 +0000"
     },
     "done": true
   },
@@ -11039,21 +11039,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
-      "has_potato": "2025-07-05 21:46:39 +0000"
+      "fried_egg": "2025-07-05 21:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/rose_petal_block": {
+    "criteria": {
+      "has_rose": "2025-07-05 21:58:24 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/red_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-07-05 21:58:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg": {
-    "criteria": {
-      "fried_egg": "2025-07-05 21:48:49 +0000"
     },
     "done": true
   },
