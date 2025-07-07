@@ -10245,3 +10245,141 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [07Jul2025 23:39:26.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
 [07Jul2025 23:39:26.381] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=322, y=135, z=7461}
 [07Jul2025 23:39:26.553] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=313, y=111, z=7504}
+[07Jul2025 23:42:12.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:42:12.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:42:14.709] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=324, y=138, z=7455}
+[07Jul2025 23:43:00.421] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[07Jul2025 23:43:19.016] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[07Jul2025 23:43:19.021] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[07Jul2025 23:43:19.022] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 23:43:19.026] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[07Jul2025 23:43:19.028] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[07Jul2025 23:43:19.029] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[07Jul2025 23:43:19.029] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 23:43:19.030] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell
+[07Jul2025 23:43:19.030] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening
+[07Jul2025 23:43:19.031] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped
+[07Jul2025 23:43:19.032] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[07Jul2025 23:43:19.032] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
+[07Jul2025 23:43:19.033] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
+[07Jul2025 23:43:19.034] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage
+[07Jul2025 23:43:19.034] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks
+[07Jul2025 23:43:19.035] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[07Jul2025 23:43:19.036] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn
+[07Jul2025 23:43:19.036] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[07Jul2025 23:43:19.037] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[07Jul2025 23:43:19.037] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall
+[07Jul2025 23:43:20.633] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
+[07Jul2025 23:43:25.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[07Jul2025 23:43:26.140] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=418, y=-49, z=7062}
+[07Jul2025 23:43:26.140] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=418, y=-49, z=7064}
+[07Jul2025 23:43:27.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Akmaral'/17737, l='ServerLevel[world]', x=267.96, y=123.20, z=7256.01] died, message: 'Akmaral was slain by Cyclops'
+[07Jul2025 23:43:27.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Akmaral'/17737, l='ServerLevel[world]', x=267.96, y=123.20, z=7256.01] died: Akmaral was slain by Cyclops
+[07Jul2025 23:43:27.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[07Jul2025 23:43:27.776] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[07Jul2025 23:43:27.787] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[07Jul2025 23:43:27.794] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[07Jul2025 23:43:27.798] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[07Jul2025 23:43:27.802] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[07Jul2025 23:43:27.806] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[07Jul2025 23:43:27.810] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[07Jul2025 23:43:27.813] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[07Jul2025 23:43:27.816] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[07Jul2025 23:43:27.820] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[07Jul2025 23:43:27.826] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[07Jul2025 23:43:27.832] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[07Jul2025 23:43:27.836] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[07Jul2025 23:43:27.838] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[07Jul2025 23:43:27.839] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[07Jul2025 23:43:27.839] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[07Jul2025 23:43:27.840] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[07Jul2025 23:43:27.840] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[07Jul2025 23:43:27.841] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[07Jul2025 23:43:27.841] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[07Jul2025 23:43:27.842] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[07Jul2025 23:43:27.842] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[07Jul2025 23:43:27.843] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[07Jul2025 23:43:27.843] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[07Jul2025 23:43:27.844] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_normal
+[07Jul2025 23:43:27.845] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 23:43:27.845] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 23:43:30.398] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=323, y=104, z=7056}
+[07Jul2025 23:43:30.418] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk4
+[07Jul2025 23:43:30.420] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy4
+[07Jul2025 23:43:30.421] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk3
+[07Jul2025 23:43:30.421] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy3
+[07Jul2025 23:43:30.422] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk1
+[07Jul2025 23:43:30.423] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy1
+[07Jul2025 23:43:30.426] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[07Jul2025 23:43:30.438] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=317, y=104, z=7056}
+[07Jul2025 23:43:30.461] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk5
+[07Jul2025 23:43:30.462] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy5
+[07Jul2025 23:43:30.463] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk2
+[07Jul2025 23:43:30.464] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy2
+[07Jul2025 23:43:30.857] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy1
+[07Jul2025 23:43:30.866] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_trunk2
+[07Jul2025 23:43:30.869] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy4
+[07Jul2025 23:43:31.602] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy4
+[07Jul2025 23:43:31.669] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[07Jul2025 23:43:31.673] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_roof_0 is being run through DFU (hash b1453eefe9fe5d2fcb8cb824eb32fadd5135c7912a75e73bcf7fd3c9058cd538), this will cause launch time delays
+[07Jul2025 23:43:32.170] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_1_support is being run through DFU (hash 4f7f810cf939a890bb4b32e34167f81ea04a577dcff291f172cf62917655d9ca), this will cause launch time delays
+[07Jul2025 23:43:32.218] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_0 is being run through DFU (hash 2b547d239388e0eb8fd8040780a38a0a3da7c931a373b80cca729cef06dd6d9e), this will cause launch time delays
+[07Jul2025 23:43:32.257] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator is being run through DFU (hash 11c0e78c12fd58e12e33bec70ef8dd82e72a0bced08c6b33bff1247255a1b70f), this will cause launch time delays
+[07Jul2025 23:43:32.261] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom is being run through DFU (hash 9170499fda863c43f8a6e86acf965a7f243abb8ff34c1e857053ee7c934a0008), this will cause launch time delays
+[07Jul2025 23:43:32.271] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1 is being run through DFU (hash 468fbcac7fa194bb12b8fabeb5ebda2d31426066f5f23c2ed70564b9cbbbf70f), this will cause launch time delays
+[07Jul2025 23:43:32.330] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2 is being run through DFU (hash ff9b3355f235952236a63127ffb6c51054ad072ec299d432390cd262d2cfac40), this will cause launch time delays
+[07Jul2025 23:43:32.355] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1 is being run through DFU (hash b8f28ad9e1cfd236ae193a019f8865360be850d000af02970faa6a2b2a9edc33), this will cause launch time delays
+[07Jul2025 23:43:32.373] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main is being run through DFU (hash e6624f80f72fa3676beb8d0be9eea6e31f0e2b61268eca22949954e725b1a9e5), this will cause launch time delays
+[07Jul2025 23:43:32.407] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken is being run through DFU (hash 45541e09b3e555457704d88eed1c069c12ad7cb8201f04e9eaa89a0ecd931d6e), this will cause launch time delays
+[07Jul2025 23:43:32.438] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top is being run through DFU (hash 6da0377dd10d6289c253445eddc2769f618447f9d04f280fda441830f42ebcd8), this will cause launch time delays
+[07Jul2025 23:43:32.455] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower is being run through DFU (hash c3030a4d3e6cba3a1131585a6597e2c33da2dcd0aea48e45f390812ab2382267), this will cause launch time delays
+[07Jul2025 23:43:32.465] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_roof_1 is being run through DFU (hash 94b6c76aff3d00ebc7166d94420a4be61f22e3785876404546dbe88d8758205d), this will cause launch time delays
+[07Jul2025 23:43:32.483] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_2_terminator is being run through DFU (hash 4c0385480aa572ddeb8ce09046d5498323b15bfdcd374b9c210e6f8436c5cc79), this will cause launch time delays
+[07Jul2025 23:43:32.485] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small is being run through DFU (hash 463216b9566337e5b052dcb5b4f32427b54e3ea9fe0d0e09ea94b95788bb2621), this will cause launch time delays
+[07Jul2025 23:43:32.490] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2 is being run through DFU (hash 177d1d6f80e09c2e860eeec7a45a480ace442e555b7819a982771037cc8d6d4c), this will cause launch time delays
+[07Jul2025 23:43:32.512] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0 is being run through DFU (hash 4a785ac9b5fa70e5c5234147ac8a926a554fb1fbf975b36af07a3fa647ed8098), this will cause launch time delays
+[07Jul2025 23:43:32.532] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0 is being run through DFU (hash a7af0175c7cd1930eb98bafb2ec195a9e02e67887feb5a18a4e4b47538c8caff), this will cause launch time delays
+[07Jul2025 23:43:32.552] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower is being run through DFU (hash 1e955fc596f3b485b90ff0140594d0752667721a8e2bd3bf9062b88e59bfd233), this will cause launch time delays
+[07Jul2025 23:43:32.560] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0 is being run through DFU (hash fce82562a7d01bf6066ef0f9f0e1fa925e0ff8f734bae5e85273d018e36d09c8), this will cause launch time delays
+[07Jul2025 23:43:32.689] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[07Jul2025 23:43:32.851] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0 is being run through DFU (hash 8d46d982fdb95c3bb9f24627c6ddd89345c1a344ba0c9e9d26aa85eb6af9111d), this will cause launch time delays
+[07Jul2025 23:43:32.864] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0 is being run through DFU (hash 847273b60978f5ce5b6994818888dbe2dad4ad5e663777c73e0cc957410ebce1), this will cause launch time delays
+[07Jul2025 23:43:32.893] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_1 is being run through DFU (hash 53bf0dd65c9acac44c1d91ea6ada46a9ce25659447de6c90588a2b86915cc19f), this will cause launch time delays
+[07Jul2025 23:43:32.922] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_witch_0 is being run through DFU (hash 16c54db650aada13f4bd51639ed76af958381de145d0a99d928825ce5cd9ef79), this will cause launch time delays
+[07Jul2025 23:43:32.936] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1 is being run through DFU (hash 0ceea9e380ec4d5694214df5430b48cd4ffcecd41717f34ebc5365268ca002d1), this will cause launch time delays
+[07Jul2025 23:43:32.965] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_3 is being run through DFU (hash cdd42b7ad3a91a84b244dd890a53eac3368c7fbee27c45ac18fced742117f86a), this will cause launch time delays
+[07Jul2025 23:43:32.997] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0 is being run through DFU (hash cd6068f01900209645d6014ce3ae526efc80e57902085f2df7593e67abfc43e2), this will cause launch time delays
+[07Jul2025 23:43:33.008] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0 is being run through DFU (hash a27ba48cef2f61f0ea23b997bbef6bc37b438f77d82daba1234dfa8efebc5a14), this will cause launch time delays
+[07Jul2025 23:43:33.022] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_0 is being run through DFU (hash 2934969fc51ffa8d6e35d4ef46383ba4af678237ab0965e859947ba418839cea), this will cause launch time delays
+[07Jul2025 23:43:33.042] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_2 is being run through DFU (hash 64e73649b5c4c2ceec30791970ee5841dcb99c8cf97cc51a5d0a3665a48e98ba), this will cause launch time delays
+[07Jul2025 23:43:33.066] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_5 is being run through DFU (hash 5fbcb18a3532751d49fbe33451677e198ce28a5d5e0240c50fdb41c712a9c9ae), this will cause launch time delays
+[07Jul2025 23:43:33.122] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_4 is being run through DFU (hash 733765f3fe42d05854d16482362b4ba3f798419df69e56e282336d01e6775dd4), this will cause launch time delays
+[07Jul2025 23:43:34.203] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy2
+[07Jul2025 23:43:34.405] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy3
+[07Jul2025 23:43:37.232] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[07Jul2025 23:43:47.558] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[07Jul2025 23:43:48.204] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[07Jul2025 23:43:48.210] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[07Jul2025 23:43:48.217] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_5 is being run through DFU (hash 149ee8c3ee5b20593dc9bfe3399281b2cc7621ee72cfd00040b59a3cc4d749a5), this will cause launch time delays
+[07Jul2025 23:43:48.284] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[07Jul2025 23:43:48.294] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[07Jul2025 23:43:48.296] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[07Jul2025 23:43:48.297] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[07Jul2025 23:43:48.316] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[07Jul2025 23:43:48.343] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[07Jul2025 23:43:48.369] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[07Jul2025 23:43:53.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[07Jul2025 23:44:20.284] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[07Jul2025 23:44:38.455] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=280, y=118, z=7231}
+[07Jul2025 23:47:11.828] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[07Jul2025 23:47:11.833] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[07Jul2025 23:47:12.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:47:12.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:47:22.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[07Jul2025 23:47:22.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[07Jul2025 23:47:22.527] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[07Jul2025 23:47:22.527] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Futuuuro
+[07Jul2025 23:47:22.527] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[07Jul2025 23:47:22.531] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[07Jul2025 23:47:22.559] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[07Jul2025 23:47:22.577] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 539afb35-e210-35da-b6bb-7a8f5d937c65 does not have a secret

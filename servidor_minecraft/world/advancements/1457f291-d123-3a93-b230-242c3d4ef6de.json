@@ -11118,6 +11118,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-07-07 23:37:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-07 23:18:01 +0000"

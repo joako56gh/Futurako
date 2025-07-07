@@ -1957,3 +1957,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [07Jul2025 23:39:26.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
 [07Jul2025 23:39:26.381] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=322, y=135, z=7461}
 [07Jul2025 23:39:26.553] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=313, y=111, z=7504}
+[07Jul2025 23:42:14.709] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=324, y=138, z=7455}
+[07Jul2025 23:43:00.421] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[07Jul2025 23:43:19.022] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 23:43:19.029] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 23:43:25.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[07Jul2025 23:43:26.140] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=418, y=-49, z=7062}
+[07Jul2025 23:43:26.140] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=418, y=-49, z=7064}
+[07Jul2025 23:43:27.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Akmaral'/17737, l='ServerLevel[world]', x=267.96, y=123.20, z=7256.01] died, message: 'Akmaral was slain by Cyclops'
+[07Jul2025 23:43:27.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Akmaral'/17737, l='ServerLevel[world]', x=267.96, y=123.20, z=7256.01] died: Akmaral was slain by Cyclops
+[07Jul2025 23:43:27.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[07Jul2025 23:43:27.845] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 23:43:27.845] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 23:43:30.398] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=323, y=104, z=7056}
+[07Jul2025 23:43:30.438] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=317, y=104, z=7056}
+[07Jul2025 23:43:53.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[07Jul2025 23:44:20.284] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[07Jul2025 23:44:38.455] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=280, y=118, z=7231}
+[07Jul2025 23:47:11.828] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[07Jul2025 23:47:11.833] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[07Jul2025 23:47:22.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[07Jul2025 23:47:22.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[07Jul2025 23:47:22.527] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[07Jul2025 23:47:22.527] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[07Jul2025 23:47:22.531] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[07Jul2025 23:47:22.559] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved

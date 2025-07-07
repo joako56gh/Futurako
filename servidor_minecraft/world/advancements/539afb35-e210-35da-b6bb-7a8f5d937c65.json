@@ -10272,6 +10272,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-07 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-07 23:43:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge": {
     "criteria": {
       "has_planks": "2025-07-07 23:05:35 +0000"
@@ -10287,6 +10299,12 @@
   "mcwpaths:recipes/birch": {
     "criteria": {
       "has_wood": "2025-07-07 23:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-07 23:44:09 +0000"
     },
     "done": true
   },
@@ -10350,6 +10368,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-07-07 23:43:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-07-07 23:18:00 +0000"
@@ -10380,9 +10404,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-07 23:44:09 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2025-07-07 23:18:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_leggings": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:41:51 +0000"
     },
     "done": true
   },
@@ -10422,6 +10458,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-07-07 23:39:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-07 23:18:00 +0000"
@@ -10431,6 +10473,12 @@
   "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-07-07 23:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-07 23:43:35 +0000"
     },
     "done": true
   },
@@ -10461,6 +10509,12 @@
   "mca:recipes/decorations/brown_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-07 23:18:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:42:01 +0000"
     },
     "done": true
   },
@@ -10536,6 +10590,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-07 23:44:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:42:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-07-07 23:05:35 +0000"
@@ -10551,6 +10617,12 @@
   "another_furniture:recipes/birch_shelf": {
     "criteria": {
       "has_planks": "2025-07-07 23:18:00 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-07-07 23:39:23 +0000"
     },
     "done": true
   },
