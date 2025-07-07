@@ -1442,3 +1442,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07Jul2025 23:00:09.028] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [07Jul2025 23:00:13.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [07Jul2025 23:00:13.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaa<--[HERE]
+[07Jul2025 23:01:25.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Jul2025 23:01:25.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa<--[HERE]
+[07Jul2025 23:03:06.624] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[07Jul2025 23:04:02.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOA_KINGSITO7[/127.37.118.126:44571] logged in with entity id 2877 at (316.44713696257367, 123.0, 7503.20469566731)
+[07Jul2025 23:04:02.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 joined the game
+[07Jul2025 23:04:02.694] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'JOA_KINGSITO7'
+[07Jul2025 23:04:02.695] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'JOA_KINGSITO7'
+[07Jul2025 23:04:02.703] [Server thread/INFO] [Jade/]: Syncing config to JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de)
+[07Jul2025 23:04:07.939] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JOA_KINGSITO7 (18)
+[07Jul2025 23:04:07.939] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7
+[07Jul2025 23:04:41.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1457f291-d123-3a93-b230-242c3d4ef6de
+[07Jul2025 23:04:42.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1457f291-d123-3a93-b230-242c3d4ef6de
+[07Jul2025 23:04:42.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat
+[07Jul2025 23:04:54.780] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1457f291-d123-3a93-b230-242c3d4ef6de timed out
+[07Jul2025 23:04:54.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JOA_KINGSITO7
+[07Jul2025 23:04:54.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7
+[07Jul2025 23:04:55.035] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1457f291-d123-3a93-b230-242c3d4ef6de
+[07Jul2025 23:04:56.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1457f291-d123-3a93-b230-242c3d4ef6de
+[07Jul2025 23:04:56.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat
+[07Jul2025 23:05:48.974] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/botania/api/mana/ManaCollisionGhost$Behaviour
+[07Jul2025 23:06:22.827] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[07Jul2025 23:06:22.828] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[07Jul2025 23:06:22.831] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[07Jul2025 23:07:32.738] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[07Jul2025 23:07:32.756] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[07Jul2025 23:07:32.759] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[07Jul2025 23:07:38.997] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[07Jul2025 23:07:39.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> es chiquita pero te duele
+[07Jul2025 23:07:58.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
