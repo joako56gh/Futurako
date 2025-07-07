@@ -11148,6 +11148,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-07 23:27:34 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass_pink_pane2": {
     "criteria": {
       "recipe_condition2": "2025-07-07 23:19:50 +0000"
@@ -11178,9 +11184,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_osmium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2025-07-07 23:27:34 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_blue2": {
     "criteria": {
       "recipe_condition2": "2025-07-07 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-07 23:27:34 +0000"
     },
     "done": true
   },

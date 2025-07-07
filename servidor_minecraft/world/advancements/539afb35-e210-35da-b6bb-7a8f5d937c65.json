@@ -934,6 +934,7 @@
       "minecraft:deep_ocean": "2025-07-04 19:56:25 +0000",
       "minecraft:frozen_river": "2025-07-04 23:23:34 +0000",
       "minecraft:sunflower_plains": "2025-07-02 03:10:19 +0000",
+      "minecraft:cherry_grove": "2025-07-07 23:31:11 +0000",
       "minecraft:birch_forest": "2025-07-05 21:09:46 +0000",
       "minecraft:windswept_hills": "2025-07-02 03:07:08 +0000",
       "minecraft:beach": "2025-07-02 02:58:03 +0000",
@@ -5722,6 +5723,7 @@
       "minecraft:spider": "2025-07-04 23:56:16 +0000",
       "minecraft:piglin_brute": "2025-07-05 21:01:23 +0000",
       "minecraft:creeper": "2025-07-05 17:56:23 +0000",
+      "minecraft:witch": "2025-07-07 23:27:45 +0000",
       "minecraft:husk": "2025-07-04 21:25:32 +0000",
       "minecraft:piglin": "2025-07-05 21:01:08 +0000",
       "minecraft:zombie": "2025-07-04 21:49:26 +0000"
@@ -10306,6 +10308,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-07 23:34:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_cyan": {
     "criteria": {
       "has_item": "2025-07-07 22:54:02 +0000"
@@ -10348,9 +10356,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_osmium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2025-07-07 23:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-07 23:18:00 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-07 23:34:18 +0000"
     },
     "done": true
   },

@@ -1937,3 +1937,23 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [07Jul2025 23:27:24.639] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [07Jul2025 23:30:27.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [07Jul2025 23:31:02.827] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[07Jul2025 23:32:11.723] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[07Jul2025 23:32:11.733] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[07Jul2025 23:32:19.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[07Jul2025 23:32:44.877] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[07Jul2025 23:32:44.882] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[07Jul2025 23:32:56.463] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[07Jul2025 23:32:56.527] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[07Jul2025 23:33:46.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[07Jul2025 23:33:53.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[07Jul2025 23:34:27.878] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[07Jul2025 23:34:27.919] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[07Jul2025 23:35:26.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[07Jul2025 23:37:34.882] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[07Jul2025 23:37:34.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Magic Siphoner]
+[07Jul2025 23:37:34.886] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[07Jul2025 23:39:20.167] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[07Jul2025 23:39:20.179] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[07Jul2025 23:39:26.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[07Jul2025 23:39:26.381] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=322, y=135, z=7461}
+[07Jul2025 23:39:26.553] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=313, y=111, z=7504}
