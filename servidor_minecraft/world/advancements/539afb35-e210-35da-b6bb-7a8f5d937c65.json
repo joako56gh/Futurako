@@ -4813,6 +4813,7 @@
       "blueberry_seed": "2025-07-04 21:02:56 +0000",
       "leek_seed": "2025-07-04 20:17:07 +0000",
       "squash_seed": "2025-07-05 18:26:40 +0000",
+      "blackberry_seed": "2025-07-07 23:13:49 +0000",
       "oat_seed": "2025-07-04 22:46:30 +0000",
       "mustard_seed": "2025-07-04 20:20:18 +0000"
     },
@@ -6106,6 +6107,7 @@
   },
   "croptopia:gather_forest": {
     "criteria": {
+      "blackberry_seed": "2025-07-07 23:13:49 +0000",
       "blueberry_seed": "2025-07-04 21:02:56 +0000"
     },
     "done": false
@@ -10279,6 +10281,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/blackberry_jam": {
+    "criteria": {
+      "has_blackberry": "2025-07-07 23:13:49 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/cyan_shiny_flower": {
     "criteria": {
       "has_item": "2025-07-07 22:54:02 +0000"
@@ -10300,6 +10308,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-07 23:05:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blackberry_seed": {
+    "criteria": {
+      "has_blackberry": "2025-07-07 23:13:49 +0000"
     },
     "done": true
   },
