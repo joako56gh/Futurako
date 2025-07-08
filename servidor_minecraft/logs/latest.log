@@ -1553,3 +1553,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2025 01:45:39.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was slain by Vampire Hunter
 [08Jul2025 01:45:40.406] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [08Jul2025 01:45:43.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[08Jul2025 01:55:22.382] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=349, y=139, z=7452}
+[08Jul2025 01:55:22.383] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=349, y=139, z=7452}
+[08Jul2025 01:55:22.977] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=349, y=138, z=7452}
+[08Jul2025 01:58:43.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=136, z=7454} BlockPos{x=352, y=135, z=7454}
+[08Jul2025 01:58:43.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=136, z=7454} BlockPos{x=352, y=135, z=7454}
+[08Jul2025 01:58:43.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=136, z=7454} BlockPos{x=352, y=135, z=7454}
+[08Jul2025 01:58:43.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=136, z=7454} BlockPos{x=352, y=135, z=7454}
+[08Jul2025 01:58:43.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=136, z=7454} BlockPos{x=352, y=135, z=7454}
+[08Jul2025 01:58:43.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=136, z=7454} BlockPos{x=352, y=135, z=7454}

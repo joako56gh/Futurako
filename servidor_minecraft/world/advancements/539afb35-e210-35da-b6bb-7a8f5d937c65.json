@@ -11075,6 +11075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-08 01:52:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/witch_hazel_sign": {
     "criteria": {
       "has_planks": "2025-07-08 01:36:29 +0000"
@@ -11126,6 +11132,12 @@
   "mca:recipes/decorations/pink_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-07-08 01:40:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-07-08 01:52:35 +0000"
     },
     "done": true
   },
@@ -11186,6 +11198,12 @@
   "biomeswevegone:recipes/decorations/witch_hazel_crafting_table": {
     "criteria": {
       "has_witch_hazel_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-08 01:52:35 +0000"
     },
     "done": true
   },
