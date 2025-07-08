@@ -1597,3 +1597,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2025 00:58:34.840] [Worker-Main-22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=32, y=64, z=7069}
 [08Jul2025 01:00:06.350] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=582, y=-40, z=7132}
 [08Jul2025 01:00:06.366] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=617, y=-49, z=7121}
+[08Jul2025 01:01:11.522] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[08Jul2025 01:03:30.425] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=451, y=77, z=6912}
+[08Jul2025 01:03:31.422] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=445, y=77, z=6912}
+[08Jul2025 01:04:14.960] [Worker-Main-22/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[08Jul2025 01:04:33.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[08Jul2025 01:04:43.850] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/potionstudios/biomeswevegone/world/entity/oddion/Oddion$Variant
+[08Jul2025 01:06:58.478] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:06:58.509] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 01:07:22.768] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:07:36.664] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:07:36.670] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 01:08:21.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was obliterated by a sonically-charged shriek
+[08Jul2025 01:08:22.002] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[08Jul2025 01:08:23.041] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 01:08:39.191] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[08Jul2025 01:09:33.315] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:09:33.321] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 01:09:48.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> TP
+[08Jul2025 01:09:50.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> mmwb
+[08Jul2025 01:09:51.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[08Jul2025 01:10:53.317] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[08Jul2025 01:10:53.317] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[08Jul2025 01:10:53.321] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[08Jul2025 01:10:58.502] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult

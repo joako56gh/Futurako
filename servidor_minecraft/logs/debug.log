@@ -10272,3 +10272,186 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2025 00:58:40.736] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-4, y=-12, z=7234}
 [08Jul2025 01:00:06.350] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=582, y=-40, z=7132}
 [08Jul2025 01:00:06.366] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=617, y=-49, z=7121}
+[08Jul2025 01:01:11.522] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[08Jul2025 01:01:19.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:01:19.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:02:08.641] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk7
+[08Jul2025 01:02:08.644] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy7
+[08Jul2025 01:03:30.425] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=451, y=77, z=6912}
+[08Jul2025 01:03:31.422] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=445, y=77, z=6912}
+[08Jul2025 01:04:02.086] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/totem
+[08Jul2025 01:04:14.960] [Worker-Main-22/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[08Jul2025 01:04:33.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[08Jul2025 01:04:43.850] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/potionstudios/biomeswevegone/world/entity/oddion/Oddion$Variant
+[08Jul2025 01:04:46.538] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_trunk2
+[08Jul2025 01:04:46.539] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy2
+[08Jul2025 01:04:46.947] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk3
+[08Jul2025 01:04:46.950] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy3
+[08Jul2025 01:04:47.553] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/prairie/prairie_shrub_canopy2
+[08Jul2025 01:04:50.882] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/prairie/prairie_shrub_canopy1
+[08Jul2025 01:05:17.752] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_trunk1
+[08Jul2025 01:05:17.754] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy1
+[08Jul2025 01:05:20.608] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 15.782s
+[08Jul2025 01:05:44.882] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk2
+[08Jul2025 01:05:44.884] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy2
+[08Jul2025 01:05:50.674] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[08Jul2025 01:05:51.359] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_canopy3
+[08Jul2025 01:05:51.484] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_canopy1
+[08Jul2025 01:05:59.463] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_canopy2
+[08Jul2025 01:05:59.465] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_shrub_canopy2
+[08Jul2025 01:05:59.466] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/meadow/meadow_shrub_canopy1
+[08Jul2025 01:06:08.227] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk3
+[08Jul2025 01:06:08.228] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy3
+[08Jul2025 01:06:12.459] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[08Jul2025 01:06:19.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:06:20.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 01:06:24.463] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[08Jul2025 01:06:25.340] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[08Jul2025 01:06:27.214] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[08Jul2025 01:06:27.214] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[08Jul2025 01:06:27.414] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[08Jul2025 01:06:33.817] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[08Jul2025 01:06:33.818] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[08Jul2025 01:06:40.555] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[08Jul2025 01:06:40.556] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[08Jul2025 01:06:40.556] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[08Jul2025 01:06:40.557] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[08Jul2025 01:06:40.563] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[08Jul2025 01:06:40.569] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[08Jul2025 01:06:40.570] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[08Jul2025 01:06:40.592] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[08Jul2025 01:06:40.592] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[08Jul2025 01:06:41.266] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[08Jul2025 01:06:43.417] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[08Jul2025 01:06:43.815] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[08Jul2025 01:06:50.148] [Worker-Main-8/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_tree_canopy2 is being run through DFU (hash 06f1a9d3bf6642ddbd7287945d7856b3639ed0c5c851198d982b7dce128da5b4), this will cause launch time delays
+[08Jul2025 01:06:50.155] [Worker-Main-8/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_tree_canopy1 is being run through DFU (hash e07ec7fdd0393b13bdb4869cf9a233635bec56a9fa06140f0ed81d974464e9d4), this will cause launch time delays
+[08Jul2025 01:06:50.164] [Worker-Main-8/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_tree_canopy4 is being run through DFU (hash c561af19f0dfbee5507e80e0d3f881759e643a93eb71ee1dc5fe665238220662), this will cause launch time delays
+[08Jul2025 01:06:53.060] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy3
+[08Jul2025 01:06:58.478] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:06:58.509] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 01:07:14.117] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:ice_dragon
+[08Jul2025 01:07:22.768] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:07:36.664] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:07:36.670] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 01:08:14.865] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:priest_house is being run through DFU (hash d76810475d0e95759e3aba14294cb4faa0f372ebdd371e669f8740fcad373d48), this will cause launch time delays
+[08Jul2025 01:08:14.935] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/hunter_trainer
+[08Jul2025 01:08:14.941] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[08Jul2025 01:08:14.971] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[08Jul2025 01:08:15.026] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[08Jul2025 01:08:15.032] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/plains_temple_3
+[08Jul2025 01:08:15.241] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/straight_02
+[08Jul2025 01:08:15.394] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/plains_temple_4
+[08Jul2025 01:08:21.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was obliterated by a sonically-charged shriek
+[08Jul2025 01:08:21.792] [Server thread/DEBUG] [tombstone/]: A new grave of the player Futuuuro was created at position [x:218, y:-58, z:7547, dim:minecraft:overworld]
+[08Jul2025 01:08:22.002] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[08Jul2025 01:08:23.040] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Futuuuro has new faction level vampirism:vampire 1
+[08Jul2025 01:08:23.041] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 01:08:39.191] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[08Jul2025 01:08:41.331] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[08Jul2025 01:08:41.331] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[08Jul2025 01:08:41.331] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[08Jul2025 01:08:56.588] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/cika/cika_trunk2 is being run through DFU (hash 5f6f3db09096d4fd11fe97bc2d055960c77a0f27cdda0f197a42f09b75241cf0), this will cause launch time delays
+[08Jul2025 01:08:56.589] [Worker-Main-5/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/cika/cika_canopy2 is being run through DFU (hash b6a2327e767675be77d4a3a4b21e3d5b8fe18f0757d05cbee52a2c094a4697df), this will cause launch time delays
+[08Jul2025 01:08:56.593] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk1
+[08Jul2025 01:08:56.594] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy1
+[08Jul2025 01:08:56.595] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk3
+[08Jul2025 01:08:56.596] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy3
+[08Jul2025 01:08:57.925] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk4
+[08Jul2025 01:08:57.927] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy5
+[08Jul2025 01:09:29.619] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/cika/cika_trunk1 is being run through DFU (hash d1b6f8e3c45bf3daf120a1bc979bf930148177e47d830b831e43e9f4e55019e2), this will cause launch time delays
+[08Jul2025 01:09:29.622] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/cika/cika_canopy1 is being run through DFU (hash 265bdd1da716e39dbe7513689730562ae9cff0239617be0f92250a4ae096f7c8), this will cause launch time delays
+[08Jul2025 01:09:29.852] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy4
+[08Jul2025 01:09:29.854] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_trunk1
+[08Jul2025 01:09:29.855] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy2
+[08Jul2025 01:09:29.861] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_trunk2
+[08Jul2025 01:09:29.862] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/maple/maple_canopy2
+[08Jul2025 01:09:29.863] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy1
+[08Jul2025 01:09:33.315] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:09:33.321] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 01:09:36.957] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[08Jul2025 01:09:36.958] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[08Jul2025 01:09:36.958] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[08Jul2025 01:09:36.958] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[08Jul2025 01:09:48.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> TP
+[08Jul2025 01:09:50.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> mmwb
+[08Jul2025 01:09:51.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[08Jul2025 01:10:09.902] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/cika/cika_trunk3 is being run through DFU (hash 0fe3e11581c3f0ecfe16963b7c37664f080a8e31e34ad933ea5a5930d261c5b2), this will cause launch time delays
+[08Jul2025 01:10:09.905] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/cika/cika_canopy3 is being run through DFU (hash 36c5676e90df7a81879b02ecacd7117a80e7bbcdbf8515d8691ed6eec87b3b45), this will cause launch time delays
+[08Jul2025 01:10:14.314] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[08Jul2025 01:10:14.314] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[08Jul2025 01:10:14.315] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[08Jul2025 01:10:19.030] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[08Jul2025 01:10:53.317] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[08Jul2025 01:10:53.317] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[08Jul2025 01:10:53.321] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[08Jul2025 01:10:58.502] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[08Jul2025 01:10:58.506] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_0
+[08Jul2025 01:10:58.549] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[08Jul2025 01:10:58.557] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[08Jul2025 01:10:58.710] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[08Jul2025 01:10:58.723] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0 is being run through DFU (hash e2ac74f2492c7f2ca3db9a33497751cab9c13ed04d32afc18dc39b3619361e78), this will cause launch time delays
+[08Jul2025 01:10:58.738] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0 is being run through DFU (hash ca9e0e2b70f65a0980baf59dd19382a9724c1e1907fbe9eb6c9609ec1393c020), this will cause launch time delays
+[08Jul2025 01:10:58.782] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[08Jul2025 01:10:58.804] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2 is being run through DFU (hash 40b15fe9c80a15adfc4f38946177cfa77d41454b5c5095aa4b33741140c3987c), this will cause launch time delays
+[08Jul2025 01:10:58.954] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[08Jul2025 01:10:58.982] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[08Jul2025 01:10:58.986] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_mounted_skeleton_0 is being run through DFU (hash 70a90e8c18ab6c070683eb4b74586eeb5a9fff618e1bf05559f2e79d06e382be), this will cause launch time delays
+[08Jul2025 01:10:59.003] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_husk_0 is being run through DFU (hash 5f68ab39c1cb14a4114477af61576bd5f6e525508cd2a227b181530e6c94d0b7), this will cause launch time delays
+[08Jul2025 01:10:59.012] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_mounted_melee_0 is being run through DFU (hash a0e72b4097fde5418b6f9cf8fd344d7daa2847aa565502b1357c0f45785d099b), this will cause launch time delays
+[08Jul2025 01:10:59.056] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[08Jul2025 01:10:59.078] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_2 is being run through DFU (hash 3b98e8aeaf403e69a3fad7de7f17c48bf822826c5e01fcfd693001b357c0af8a), this will cause launch time delays
+[08Jul2025 01:10:59.151] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_6 is being run through DFU (hash f4356fb8f275788a589554bf241b86713195775fa70fe48c170a215033f5115d), this will cause launch time delays
+[08Jul2025 01:10:59.192] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_4 is being run through DFU (hash e4e2ac3dbc54f6aa23720b182d0821748a01b073d7c346cab7be1507253a123d), this will cause launch time delays
+[08Jul2025 01:10:59.236] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_5 is being run through DFU (hash 932538a089ddc38719b508440e7ebda0a8ffe97ab0459509cd799e7e77fe5758), this will cause launch time delays
+[08Jul2025 01:10:59.268] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_7 is being run through DFU (hash 9cd1d4b11c269bf11f5f5ef9a9ad48ec4834d6639326442efbd57cdaf37e847e), this will cause launch time delays
+[08Jul2025 01:10:59.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_turn_0
+[08Jul2025 01:10:59.551] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[08Jul2025 01:10:59.557] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[08Jul2025 01:10:59.564] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_1
+[08Jul2025 01:10:59.570] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_4
+[08Jul2025 01:10:59.573] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_2
+[08Jul2025 01:10:59.575] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[08Jul2025 01:10:59.582] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_0
+[08Jul2025 01:10:59.585] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[08Jul2025 01:10:59.588] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_3
+[08Jul2025 01:10:59.591] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_roots_0
+[08Jul2025 01:10:59.592] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_2
+[08Jul2025 01:10:59.592] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_0
+[08Jul2025 01:10:59.593] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_1
+[08Jul2025 01:10:59.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_descent_0
+[08Jul2025 01:10:59.656] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_4 is being run through DFU (hash 7f2025ab1d354267130f1a96c309e6ab7d6afe06ea925aaa7836305d25745969), this will cause launch time delays
+[08Jul2025 01:10:59.675] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_vindicator_1 is being run through DFU (hash 1129a2cdccc6062b097dca606c97e7dba621e451413d3846830d33de61225eab), this will cause launch time delays
+[08Jul2025 01:10:59.679] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_pillager_0 is being run through DFU (hash 4f6418d8793538812f40b3cad48d103447de9054e0e7920d296a2a60cba50fe8), this will cause launch time delays
+[08Jul2025 01:10:59.683] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_witch_2 is being run through DFU (hash 0b6e8fb951eb52bd628ece6dac3281894833c4fc6d12d1f3c35bb4171a3c8bfd), this will cause launch time delays
+[08Jul2025 01:10:59.696] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_2 is being run through DFU (hash 49d608108637cabd9be898562076920feec7ea873c9a8556f11c2f6c51104cf1), this will cause launch time delays
+[08Jul2025 01:10:59.709] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_0 is being run through DFU (hash 56399e8a7ad4cb5f3492fcdba2c3ed9f13aa33d4f675142c5ec2160b7ba36988), this will cause launch time delays
+[08Jul2025 01:10:59.721] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_1 is being run through DFU (hash 838e46056670e5e4d0733967cc594841e9e552d6ffd62c9a752a5326e0169017), this will cause launch time delays
+[08Jul2025 01:10:59.728] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_3 is being run through DFU (hash 8bc9932226adcc9f828b30bf861fd128616101a3cf3a24f4549a7583f0b88dfb), this will cause launch time delays
+[08Jul2025 01:10:59.752] [Worker-Main-22/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_part_1 is being run through DFU (hash aab7a31f17e08b142bdbd3cd6cd6527bfe6694a16e52232355ec3bd07f61e701), this will cause launch time delays
+[08Jul2025 01:11:00.460] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[08Jul2025 01:11:00.477] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[08Jul2025 01:11:00.483] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[08Jul2025 01:11:00.483] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[08Jul2025 01:11:00.484] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[08Jul2025 01:11:00.484] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[08Jul2025 01:11:00.485] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[08Jul2025 01:11:00.487] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad
+[08Jul2025 01:11:00.504] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[08Jul2025 01:11:00.509] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[08Jul2025 01:11:00.511] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_6_stairway
+[08Jul2025 01:11:00.513] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[08Jul2025 01:11:00.515] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_5_straight_debris
+[08Jul2025 01:11:00.517] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway
+[08Jul2025 01:11:00.518] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[08Jul2025 01:11:00.520] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[08Jul2025 01:11:00.522] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[08Jul2025 01:11:00.523] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[08Jul2025 01:11:00.523] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[08Jul2025 01:11:00.540] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[08Jul2025 01:11:00.564] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[08Jul2025 01:11:00.568] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[08Jul2025 01:11:00.570] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_4_terminator
+[08Jul2025 01:11:00.571] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_terminator
+[08Jul2025 01:11:00.590] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[08Jul2025 01:11:00.615] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_2_stairway
