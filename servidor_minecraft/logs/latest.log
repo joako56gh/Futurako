@@ -1512,3 +1512,44 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2025 01:40:10.187] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1019, y=108, z=3009}
 [08Jul2025 01:40:10.419] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1019, y=108, z=3009}
 [08Jul2025 01:40:10.561] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1019, y=109, z=3009}
+[08Jul2025 01:40:42.303] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 01:40:42.309] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 01:40:49.801] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 01:40:50.906] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 01:40:50.910] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 01:40:57.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Vindicator, they gave up
+[08Jul2025 01:40:58.402] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 01:41:40.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[08Jul2025 01:41:40.906] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[08Jul2025 01:41:52.565] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:41:52.570] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 01:41:56.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/botania/api/mana/ManaCollisionGhost$Behaviour
+[08Jul2025 01:42:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[08Jul2025 01:42:15.186] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[08Jul2025 01:42:43.357] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:42:43.362] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 01:43:32.305] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:43:32.312] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 01:43:41.404] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:43:41.416] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 01:43:45.353] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 01:43:45.360] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 01:43:52.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was turned into KFC by a dragon
+[08Jul2025 01:43:53.995] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 01:43:59.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[08Jul2025 01:44:45.361] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 01:44:45.366] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 01:44:51.409] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 01:44:52.593] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 01:44:52.606] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 01:44:58.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 burned to ashes, they gave up
+[08Jul2025 01:44:59.391] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 01:45:12.617] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1364, y=-16, z=2658}
+[08Jul2025 01:45:23.975] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:45:23.979] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 01:45:30.654] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:45:33.159] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 01:45:33.164] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 01:45:39.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was slain by Vampire Hunter
+[08Jul2025 01:45:40.406] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 01:45:43.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
