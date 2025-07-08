@@ -1612,3 +1612,63 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2025 02:46:13.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
 [08Jul2025 02:47:57.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
 [08Jul2025 02:47:57.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: whitelist deko_354<--[HERE]
+[08Jul2025 02:51:35.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 02:51:35.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa<--[HERE]
+[08Jul2025 02:53:39.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 02:53:39.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaa<--[HERE]
+[08Jul2025 02:57:42.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[08Jul2025 02:57:42.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[08Jul2025 02:57:42.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[08Jul2025 02:57:53.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:57743] logged in with entity id 30326 at (350.8425520611423, 141.0, 7457.682288781545)
+[08Jul2025 02:57:53.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[08Jul2025 02:57:53.879] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[08Jul2025 02:57:53.879] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[08Jul2025 02:57:53.885] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[08Jul2025 02:57:54.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[08Jul2025 02:57:54.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[08Jul2025 02:57:54.053] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[08Jul2025 02:58:52.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:43813] logged in with entity id 30371 at (350.8425520611423, 141.0, 7457.682288781545)
+[08Jul2025 02:58:52.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[08Jul2025 02:58:52.251] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[08Jul2025 02:58:52.252] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[08Jul2025 02:58:52.257] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[08Jul2025 02:58:52.457] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[08Jul2025 02:58:52.458] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[08Jul2025 02:58:59.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[08Jul2025 02:59:00.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[08Jul2025 02:59:00.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[08Jul2025 03:00:23.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 lost connection: Disconnected
+[08Jul2025 03:00:23.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 left the game
+[08Jul2025 03:00:23.451] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO7
+[08Jul2025 03:00:23.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[08Jul2025 03:00:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[08Jul2025 03:00:23.472] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[08Jul2025 03:00:23.509] [pool-13-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Stopping PendingImageUpdateThread
+[08Jul2025 03:00:23.511] [pool-5-thread-1/ERROR] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Interrupted during recomputeThreadpool wait
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method) ~[?:?]
+	at com.dairymoose.modernlife.core.ModernLifeCommon$2.run(ModernLifeCommon.java:695) ~[modernlife-1.20.1-1.75.jar%23326!/:1.20.1-1.75]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[08Jul2025 03:00:23.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jul2025 03:00:23.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jul2025 03:00:23.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jul2025 03:00:23.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jul2025 03:00:23.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[08Jul2025 03:00:23.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[08Jul2025 03:00:23.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[08Jul2025 03:00:23.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jul2025 03:00:23.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jul2025 03:00:23.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jul2025 03:00:23.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[08Jul2025 03:00:23.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[08Jul2025 03:00:23.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[08Jul2025 03:00:23.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jul2025 03:00:23.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jul2025 03:00:23.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jul2025 03:00:23.944] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Jul2025 03:00:23.945] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[08Jul2025 03:00:23.947] [Server thread/INFO] [Framework/]: Finished unloading server configs
