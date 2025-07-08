@@ -930,6 +930,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-08 01:09:38 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-08 01:21:31 +0000",
       "minecraft:taiga": "2025-07-04 21:18:37 +0000",
       "minecraft:deep_ocean": "2025-07-04 20:28:06 +0000",
       "minecraft:frozen_river": "2025-07-04 23:44:31 +0000",
@@ -973,6 +974,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-07-02 03:43:46 +0000",
+      "biomeswevegone:sakura_grove": "2025-07-08 01:22:44 +0000",
       "biomeswevegone:enchanted_tangle": "2025-07-05 18:41:54 +0000",
       "biomeswevegone:temperate_grove": "2025-07-04 22:24:43 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-04 21:14:17 +0000",
@@ -984,12 +986,14 @@
       "biomeswevegone:cypress_swamplands": "2025-07-02 03:29:29 +0000",
       "biomeswevegone:orchard": "2025-07-04 21:04:09 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-04 22:46:35 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-07-08 01:36:50 +0000",
       "biomeswevegone:prairie": "2025-07-05 18:10:31 +0000",
       "biomeswevegone:rose_fields": "2025-07-05 21:10:41 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-02 02:53:31 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-04 22:24:42 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-04 21:17:50 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2025-07-04 23:23:30 +0000",
+      "biomeswevegone:skyrise_vale": "2025-07-08 01:20:25 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-02 02:51:12 +0000",
       "biomeswevegone:pumpkin_valley": "2025-07-04 20:34:59 +0000",
       "biomeswevegone:baobab_savanna": "2025-07-04 22:48:16 +0000",
@@ -11333,6 +11337,90 @@
     },
     "done": true
   },
+  "chipped:recipes/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2025-07-08 00:20:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/slow_falling_oil": {
     "criteria": {
       "has_bottles": "2025-07-08 00:42:53 +0000"
@@ -11345,27 +11433,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-07-08 01:12:11 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/wrench": {
-    "criteria": {
-      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/alchemy_table/alchemy_table/healing_oil": {
     "criteria": {
       "has_bottles": "2025-07-08 00:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
     },
     "done": true
   },
@@ -11393,51 +11463,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/copper_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-07-08 00:40:25 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/alchemy_table/alchemy_table/poison_oil": {
     "criteria": {
       "has_bottles": "2025-07-08 00:42:53 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/copper_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-08 00:40:25 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
-    "criteria": {
-      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/copper_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-08 00:40:25 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-07-08 01:16:12 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-07-08 01:16:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
-    "criteria": {
-      "has_item": "2025-07-08 00:40:25 +0000"
     },
     "done": true
   },
@@ -11447,69 +11475,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/vampire/chandelier_candle": {
-    "criteria": {
-      "has_honey": "2025-07-08 00:46:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/cog_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
-    "criteria": {
-      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/alchemy_table/alchemy_table/smelt_oil": {
     "criteria": {
       "has_bottles": "2025-07-08 00:42:53 +0000"
-    },
-    "done": true
-  },
-  "chipped:recipes/carpenters_table": {
-    "criteria": {
-      "has_carpenters_table": "2025-07-08 00:20:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-07-08 01:08:24 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/roasted_sunflower_seeds": {
-    "criteria": {
-      "has_sunflower": "2025-07-08 01:12:35 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-07-08 01:16:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-07-08 01:12:35 +0000"
     },
     "done": true
   },
@@ -11519,27 +11487,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/copper_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-08 00:40:25 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/copper_stuff": {
-    "criteria": {
-      "has_wood": "2025-07-08 00:40:25 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/alchemy_table/alchemy_table/luck_oil": {
     "criteria": {
       "has_bottles": "2025-07-08 00:42:53 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-07-08 01:16:12 +0000"
     },
     "done": true
   },
@@ -11570,6 +11520,66 @@
   "vampirism:recipes/alchemy_table/alchemy_table/weakness_oil": {
     "criteria": {
       "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2025-07-08 00:46:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-08 01:08:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-07-08 01:12:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_sunflower_seeds": {
+    "criteria": {
+      "has_sunflower": "2025-07-08 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-08 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-08 01:16:12 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-08 01:16:12 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-08 01:16:12 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-08 01:16:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-07-08 01:36:37 +0000"
     },
     "done": true
   },
