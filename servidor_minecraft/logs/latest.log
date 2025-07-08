@@ -1572,3 +1572,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2025 02:10:35.276] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
 [08Jul2025 02:10:40.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 hit the ground too hard, they gave up
 [08Jul2025 02:10:43.474] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 02:24:38.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 02:24:38.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaa<--[HERE]
