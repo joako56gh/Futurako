@@ -1562,3 +1562,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2025 01:58:43.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=136, z=7454} BlockPos{x=352, y=135, z=7454}
 [08Jul2025 01:58:43.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=136, z=7454} BlockPos{x=352, y=135, z=7454}
 [08Jul2025 01:58:43.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=136, z=7454} BlockPos{x=352, y=135, z=7454}
+[08Jul2025 02:01:35.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[08Jul2025 02:01:35.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[08Jul2025 02:01:35.854] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[08Jul2025 02:10:26.864] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 02:10:26.868] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 02:10:34.031] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 02:10:35.272] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 02:10:35.276] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 02:10:40.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 hit the ground too hard, they gave up
+[08Jul2025 02:10:43.474] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

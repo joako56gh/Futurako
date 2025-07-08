@@ -11584,6 +11584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-08 01:58:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-07-08 01:40:28 +0000"
@@ -11596,6 +11602,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-07-08 01:58:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-07-08 01:40:28 +0000"
@@ -11605,6 +11617,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-07-08 01:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-08 01:58:14 +0000"
     },
     "done": true
   },
