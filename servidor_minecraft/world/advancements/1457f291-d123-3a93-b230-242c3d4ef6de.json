@@ -929,10 +929,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-08 01:09:38 +0000",
       "minecraft:taiga": "2025-07-04 21:18:37 +0000",
       "minecraft:deep_ocean": "2025-07-04 20:28:06 +0000",
       "minecraft:frozen_river": "2025-07-04 23:44:31 +0000",
       "minecraft:sunflower_plains": "2025-07-02 03:02:50 +0000",
+      "minecraft:cherry_grove": "2025-07-08 01:06:23 +0000",
       "minecraft:birch_forest": "2025-07-05 21:09:17 +0000",
       "minecraft:windswept_hills": "2025-07-05 18:29:35 +0000",
       "minecraft:beach": "2025-07-02 03:12:56 +0000",
@@ -944,6 +946,7 @@
       "minecraft:snowy_taiga": "2025-07-04 23:26:17 +0000",
       "minecraft:swamp": "2025-07-05 18:23:06 +0000",
       "minecraft:grove": "2025-07-08 00:41:08 +0000",
+      "minecraft:jagged_peaks": "2025-07-08 01:10:30 +0000",
       "minecraft:cold_ocean": "2025-07-04 21:04:54 +0000",
       "minecraft:forest": "2025-07-04 21:01:35 +0000",
       "minecraft:deep_cold_ocean": "2025-07-04 21:05:04 +0000",
@@ -3279,6 +3282,7 @@
       "minecraft:cave_spider": "2025-07-02 03:51:58 +0000",
       "minecraft:piglin": "2025-07-05 19:24:31 +0000",
       "minecraft:enderman": "2025-07-05 17:58:07 +0000",
+      "minecraft:stray": "2025-07-08 01:08:41 +0000",
       "minecraft:zombie": "2025-07-02 03:40:49 +0000"
     },
     "done": false
@@ -11341,6 +11345,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-07-08 01:12:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-07-08 00:40:25 +0000"
@@ -11413,6 +11423,18 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-08 01:16:12 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-08 01:16:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-07-08 00:40:25 +0000"
@@ -11467,6 +11489,30 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-08 01:08:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_sunflower_seeds": {
+    "criteria": {
+      "has_sunflower": "2025-07-08 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-08 01:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-07-08 01:12:35 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/alchemy_table/alchemy_table/slowness_oil": {
     "criteria": {
       "has_bottles": "2025-07-08 00:42:53 +0000"
@@ -11488,6 +11534,12 @@
   "vampirism:recipes/alchemy_table/alchemy_table/luck_oil": {
     "criteria": {
       "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-07-08 01:16:12 +0000"
     },
     "done": true
   },

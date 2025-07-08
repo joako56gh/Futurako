@@ -929,6 +929,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-08 01:09:52 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-04 23:22:59 +0000",
       "minecraft:taiga": "2025-07-04 21:19:22 +0000",
       "minecraft:deep_ocean": "2025-07-04 19:56:25 +0000",
@@ -946,6 +947,7 @@
       "minecraft:dripstone_caves": "2025-07-04 20:22:27 +0000",
       "minecraft:snowy_taiga": "2025-07-04 23:24:00 +0000",
       "minecraft:swamp": "2025-07-05 18:22:39 +0000",
+      "minecraft:jagged_peaks": "2025-07-08 01:10:19 +0000",
       "minecraft:cold_ocean": "2025-07-04 21:02:25 +0000",
       "minecraft:forest": "2025-07-04 21:01:23 +0000",
       "minecraft:deep_cold_ocean": "2025-07-04 21:05:04 +0000",
@@ -10704,6 +10706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-08 01:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-07-08 00:28:50 +0000"
@@ -10713,6 +10721,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-07-08 00:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-07-08 01:10:52 +0000"
     },
     "done": true
   },
@@ -10809,6 +10823,12 @@
   "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-08 01:00:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-08 01:10:32 +0000"
     },
     "done": true
   },
