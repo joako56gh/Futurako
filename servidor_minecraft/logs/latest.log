@@ -1486,3 +1486,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2025 00:19:48.072] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [08Jul2025 00:20:06.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [08Jul2025 00:20:06.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[08Jul2025 00:20:49.664] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 00:20:49.764] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 00:20:49.866] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 00:20:49.964] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 00:20:50.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 00:20:50.164] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 00:20:50.266] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jul2025 00:20:58.570] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:20:58.575] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 00:21:05.379] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:22:04.272] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3375, l='ServerLevel[world]', x=107.00, y=31.00, z=668.00] as it would cause deadlock
+[08Jul2025 00:22:16.719] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3494, l='ServerLevel[world]', x=123.00, y=31.00, z=633.00] as it would cause deadlock
+[08Jul2025 00:23:55.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 539afb35-e210-35da-b6bb-7a8f5d937c65 timed out
+[08Jul2025 00:23:55.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Futuuuro
+[08Jul2025 00:23:55.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[08Jul2025 00:23:55.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[08Jul2025 00:23:56.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[08Jul2025 00:23:56.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[08Jul2025 00:24:31.170] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:24:31.175] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 00:24:39.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[08Jul2025 00:29:49.670] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:29:49.675] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 00:29:55.531] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:29:55.535] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved

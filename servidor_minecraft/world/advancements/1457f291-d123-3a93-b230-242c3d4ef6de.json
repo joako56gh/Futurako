@@ -11328,5 +11328,11 @@
     },
     "done": true
   },
+  "chipped:recipes/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2025-07-08 00:20:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
