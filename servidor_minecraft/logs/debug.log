@@ -9726,3 +9726,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2025 02:10:40.851] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:319, y:136, z:7464, dim:minecraft:overworld]
 [08Jul2025 02:10:43.474] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
 [08Jul2025 02:10:43.474] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 02:12:04.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 02:12:04.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 02:17:04.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 02:17:04.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
