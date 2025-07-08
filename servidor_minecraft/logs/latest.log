@@ -1574,3 +1574,41 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2025 02:10:43.474] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [08Jul2025 02:24:38.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [08Jul2025 02:24:38.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaa<--[HERE]
+[08Jul2025 02:42:02.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:35657] logged in with entity id 26820 at (336.98362489396663, 136.0, 7462.2233456148215)
+[08Jul2025 02:42:02.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[08Jul2025 02:42:02.927] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[08Jul2025 02:42:02.927] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[08Jul2025 02:42:02.938] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[08Jul2025 02:42:03.115] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[08Jul2025 02:42:03.115] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[08Jul2025 02:42:09.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[08Jul2025 02:42:10.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[08Jul2025 02:42:10.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[08Jul2025 02:44:18.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[08Jul2025 02:44:18.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[08Jul2025 02:44:18.701] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[08Jul2025 02:44:26.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:47895] logged in with entity id 27268 at (351.6334619679387, 136.0, 7456.110302627684)
+[08Jul2025 02:44:26.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[08Jul2025 02:44:26.751] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[08Jul2025 02:44:26.751] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[08Jul2025 02:44:26.759] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[08Jul2025 02:44:26.975] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[08Jul2025 02:44:26.975] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[08Jul2025 02:44:33.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[08Jul2025 02:44:34.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[08Jul2025 02:44:34.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[08Jul2025 02:45:54.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[08Jul2025 02:45:54.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[08Jul2025 02:45:54.202] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[08Jul2025 02:46:05.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:51323] logged in with entity id 27558 at (351.44196290191957, 141.0, 7455.335566786099)
+[08Jul2025 02:46:05.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[08Jul2025 02:46:05.400] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[08Jul2025 02:46:05.400] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[08Jul2025 02:46:05.408] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[08Jul2025 02:46:05.613] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[08Jul2025 02:46:05.613] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[08Jul2025 02:46:12.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[08Jul2025 02:46:13.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[08Jul2025 02:46:13.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[08Jul2025 02:47:57.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[08Jul2025 02:47:57.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: whitelist deko_354<--[HERE]

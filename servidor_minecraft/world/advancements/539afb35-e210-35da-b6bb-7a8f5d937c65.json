@@ -10949,9 +10949,111 @@
     },
     "done": true
   },
-  "morevanillaarmor:recipes/combat/obsidian_helmet": {
+  "biomeswevegone:recipes/building_blocks/witch_hazel_planks": {
     "criteria": {
-      "already_crafted": "2025-07-08 01:43:14 +0000"
+      "has_log": "2025-07-08 01:36:27 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnituresbyg:recipes/witch_hazel": {
+    "criteria": {
+      "has_wood": "2025-07-08 01:36:27 +0000"
+    },
+    "done": true
+  },
+  "macawsroofsbyg:recipes/witch_hazel": {
+    "criteria": {
+      "has_planks": "2025-07-08 01:36:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_wood": {
+    "criteria": {
+      "has_log": "2025-07-08 01:36:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_slab": {
+    "criteria": {
+      "has_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomeswevegone/sign_post_witch_hazel": {
+    "criteria": {
+      "has_item": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "macawsroofsbyg:recipes/witch_hazel_planks": {
+    "criteria": {
+      "has_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_sign": {
+    "criteria": {
+      "has_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_door": {
+    "criteria": {
+      "has_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_crafting_table": {
+    "criteria": {
+      "has_witch_hazel_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_bookshelf": {
+    "criteria": {
+      "has_witch_hazel_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_fence": {
+    "criteria": {
+      "has_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_button": {
+    "criteria": {
+      "has_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-08 01:36:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-07-08 01:39:19 +0000"
     },
     "done": true
   },
@@ -10985,21 +11087,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/witch_hazel_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-08 01:36:29 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/crimson_chair": {
     "criteria": {
       "has_planks": "2025-07-08 01:40:28 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/witch_hazel_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-08 01:36:29 +0000"
     },
     "done": true
   },
@@ -11027,33 +11117,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_slab": {
-    "criteria": {
-      "has_planks": "2025-07-08 01:36:29 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_planks": {
-    "criteria": {
-      "has_log": "2025-07-08 01:36:27 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/biomeswevegone/sign_post_witch_hazel": {
-    "criteria": {
-      "has_item": "2025-07-08 01:36:29 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/crimson_shelf": {
     "criteria": {
       "has_planks": "2025-07-08 01:40:28 +0000"
-    },
-    "done": true
-  },
-  "macawsroofsbyg:recipes/witch_hazel_planks": {
-    "criteria": {
-      "has_planks": "2025-07-08 01:36:29 +0000"
     },
     "done": true
   },
@@ -11075,33 +11141,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-07-08 01:52:35 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/witch_hazel_sign": {
-    "criteria": {
-      "has_planks": "2025-07-08 01:36:29 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-08 01:36:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-07-08 01:40:28 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/witch_hazel_door": {
-    "criteria": {
-      "has_planks": "2025-07-08 01:36:29 +0000"
     },
     "done": true
   },
@@ -11135,18 +11177,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/planter_rich": {
-    "criteria": {
-      "has_bone_meal": "2025-07-08 01:52:35 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnituresbyg:recipes/witch_hazel": {
-    "criteria": {
-      "has_wood": "2025-07-08 01:36:27 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/sign_post_crimson": {
     "criteria": {
       "has_the_recipe": "2025-07-08 01:40:28 +0000"
@@ -11171,12 +11201,6 @@
     },
     "done": true
   },
-  "macawsroofsbyg:recipes/witch_hazel": {
-    "criteria": {
-      "has_planks": "2025-07-08 01:36:27 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/gray_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-07-08 01:40:28 +0000"
@@ -11192,18 +11216,6 @@
   "mca:recipes/decorations/yellow_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-07-08 01:40:28 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/witch_hazel_crafting_table": {
-    "criteria": {
-      "has_witch_hazel_planks": "2025-07-08 01:36:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-07-08 01:52:35 +0000"
     },
     "done": true
   },
@@ -11225,33 +11237,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_bookshelf": {
-    "criteria": {
-      "has_witch_hazel_planks": "2025-07-08 01:36:29 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/witch_hazel_fence": {
-    "criteria": {
-      "has_planks": "2025-07-08 01:36:29 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/light_gray_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-07-08 01:40:28 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/witch_hazel_button": {
-    "criteria": {
-      "has_planks": "2025-07-08 01:36:29 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/witch_hazel_wood": {
-    "criteria": {
-      "has_log": "2025-07-08 01:36:27 +0000"
     },
     "done": true
   },
@@ -11267,21 +11255,9 @@
     },
     "done": true
   },
-  "morevanillaarmor:recipes/combat/lapis_leggings": {
-    "criteria": {
-      "already_crafted": "2025-07-08 01:43:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-08 01:40:28 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/witch_hazel_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-08 01:36:29 +0000"
     },
     "done": true
   },
@@ -11297,12 +11273,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_windmill": {
-    "criteria": {
-      "location0": "2025-07-08 01:39:19 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/red_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-07-08 01:40:28 +0000"
@@ -11312,6 +11282,36 @@
   "mcwbridges:recipes/rope_crimson_bridge": {
     "criteria": {
       "has_planks": "2025-07-08 01:40:28 +0000"
+    },
+    "done": true
+  },
+  "morevanillaarmor:recipes/combat/obsidian_helmet": {
+    "criteria": {
+      "already_crafted": "2025-07-08 01:43:14 +0000"
+    },
+    "done": true
+  },
+  "morevanillaarmor:recipes/combat/lapis_leggings": {
+    "criteria": {
+      "already_crafted": "2025-07-08 01:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-08 01:52:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-07-08 01:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-08 01:52:35 +0000"
     },
     "done": true
   },
