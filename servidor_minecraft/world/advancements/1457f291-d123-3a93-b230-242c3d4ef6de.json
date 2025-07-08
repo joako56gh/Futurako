@@ -943,6 +943,7 @@
       "minecraft:dripstone_caves": "2025-07-02 03:43:54 +0000",
       "minecraft:snowy_taiga": "2025-07-04 23:26:17 +0000",
       "minecraft:swamp": "2025-07-05 18:23:06 +0000",
+      "minecraft:grove": "2025-07-08 00:41:08 +0000",
       "minecraft:cold_ocean": "2025-07-04 21:04:54 +0000",
       "minecraft:forest": "2025-07-04 21:01:35 +0000",
       "minecraft:deep_cold_ocean": "2025-07-04 21:05:04 +0000",
@@ -11328,9 +11329,195 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/slow_falling_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/jump_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/healing_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/regeneration_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/swiftness_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/fire_resistance_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/strength_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/poison_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/water_breathing_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2025-07-08 00:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/smelt_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
   "chipped:recipes/carpenters_table": {
     "criteria": {
       "has_carpenters_table": "2025-07-08 00:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/slowness_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2025-07-08 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/luck_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/night_vision_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/evasion_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/invisibility_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/teleport_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/weakness_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-08 00:42:53 +0000"
     },
     "done": true
   },

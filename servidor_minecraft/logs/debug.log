@@ -10044,3 +10044,109 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2025 00:40:26.581] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_2
 [08Jul2025 00:40:26.585] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_5
 [08Jul2025 00:40:26.589] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_room_4
+[08Jul2025 00:41:08.222] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[08Jul2025 00:41:08.230] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[08Jul2025 00:41:08.256] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[08Jul2025 00:41:08.309] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[08Jul2025 00:41:08.377] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[08Jul2025 00:41:08.443] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[08Jul2025 00:41:08.460] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[08Jul2025 00:41:08.464] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[08Jul2025 00:41:08.470] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[08Jul2025 00:41:08.485] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[08Jul2025 00:41:08.490] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[08Jul2025 00:41:08.500] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[08Jul2025 00:41:08.504] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[08Jul2025 00:41:08.509] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_1 is being run through DFU (hash 27a5819e089e69b638f99afa4b0105b5b46d21c207dbe76709c0e743455e5fc5), this will cause launch time delays
+[08Jul2025 00:41:08.930] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[08Jul2025 00:41:08.959] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_2
+[08Jul2025 00:41:08.988] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[08Jul2025 00:41:09.052] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[08Jul2025 00:41:09.072] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[08Jul2025 00:41:09.079] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[08Jul2025 00:41:09.122] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[08Jul2025 00:41:09.176] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[08Jul2025 00:41:09.187] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_1 is being run through DFU (hash 1b76022040df1733fa807a501281a93fdc996931b659899e009d837d595dfe05), this will cause launch time delays
+[08Jul2025 00:41:10.317] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[08Jul2025 00:41:10.465] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[08Jul2025 00:41:19.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:41:19.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:41:37.501] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[08Jul2025 00:41:37.503] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[08Jul2025 00:41:44.189] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_tree_trunk1 is being run through DFU (hash 573a03d353fe2b1f01b122001a5ee1feec1fa36f67608af5f5f67c37d090cc51), this will cause launch time delays
+[08Jul2025 00:41:44.190] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/birch/birch_tree_canopy3 is being run through DFU (hash f92b7e0a66dc74d8a2bed2cdea76ae5a22b5e00ec9ee143e2dd631ac5dcb72d3), this will cause launch time delays
+[08Jul2025 00:41:49.662] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:blue_jay
+[08Jul2025 00:41:50.048] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/orchard/orchard_canopy3
+[08Jul2025 00:41:51.664] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[08Jul2025 00:41:59.678] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk2
+[08Jul2025 00:41:59.678] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy2
+[08Jul2025 00:41:59.680] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk3
+[08Jul2025 00:41:59.680] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy3
+[08Jul2025 00:41:59.682] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk5
+[08Jul2025 00:41:59.682] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy5
+[08Jul2025 00:41:59.683] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk1
+[08Jul2025 00:41:59.684] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy1
+[08Jul2025 00:41:59.695] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_trunk2
+[08Jul2025 00:41:59.696] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy3
+[08Jul2025 00:42:08.420] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk4
+[08Jul2025 00:42:08.423] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy4
+[08Jul2025 00:42:08.559] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk5
+[08Jul2025 00:42:08.568] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy5
+[08Jul2025 00:42:08.572] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk1
+[08Jul2025 00:42:08.573] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy1
+[08Jul2025 00:42:09.066] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[08Jul2025 00:42:09.649] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk4
+[08Jul2025 00:42:09.649] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy4
+[08Jul2025 00:42:09.664] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[08Jul2025 00:42:09.730] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy2
+[08Jul2025 00:42:10.062] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_trunk
+[08Jul2025 00:42:10.063] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_canopy
+[08Jul2025 00:42:10.064] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.58 and blood value 4 for entity alexsmobs:raccoon
+[08Jul2025 00:42:17.002] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk6
+[08Jul2025 00:42:17.002] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy6
+[08Jul2025 00:42:20.800] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_trunk1
+[08Jul2025 00:42:20.801] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_canopy1
+[08Jul2025 00:42:21.868] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy1
+[08Jul2025 00:42:34.603] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy3
+[08Jul2025 00:42:34.647] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy4
+[08Jul2025 00:42:34.721] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy2
+[08Jul2025 00:42:34.728] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy4
+[08Jul2025 00:43:03.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[08Jul2025 00:43:35.316] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 00:43:35.321] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 00:43:50.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[08Jul2025 00:43:58.763] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:43:58.767] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 00:44:05.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> :'V
+[08Jul2025 00:44:08.613] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 00:44:08.617] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 00:44:15.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Vampire Hunter Trainer
+[08Jul2025 00:44:15.152] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:823, y:118, z:7394, dim:minecraft:overworld]
+[08Jul2025 00:44:16.353] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
+[08Jul2025 00:44:16.354] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 00:44:46.615] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 00:44:46.624] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 00:44:56.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Vampire Hunter Trainer
+[08Jul2025 00:44:56.466] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:824, y:114, z:7399, dim:minecraft:overworld]
+[08Jul2025 00:44:57.691] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
+[08Jul2025 00:44:57.692] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 00:46:19.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:46:19.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:46:22.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 00:46:22.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaa<--[HERE]
+[08Jul2025 00:47:18.137] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:47:18.141] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 00:48:23.614] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 00:48:23.625] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 00:48:23.913] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:48:23.917] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 00:48:30.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Vampire Hunter Trainer
+[08Jul2025 00:48:30.715] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:822, y:111, z:7398, dim:minecraft:overworld]
+[08Jul2025 00:48:31.946] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
+[08Jul2025 00:48:31.947] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 00:48:48.413] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:48:48.417] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 00:49:10.813] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:49:10.818] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 00:49:48.012] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:49:48.016] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
