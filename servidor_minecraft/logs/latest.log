@@ -1564,3 +1564,36 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jul2025 00:49:10.818] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
 [08Jul2025 00:49:48.012] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
 [08Jul2025 00:49:48.016] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 00:51:13.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[08Jul2025 00:51:13.915] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=814, y=110, z=7395}
+[08Jul2025 00:51:18.963] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:51:18.967] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 00:51:36.485] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 00:51:36.488] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 00:51:39.063] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 00:51:39.067] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 00:51:40.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Futuuuro, they gave up
+[08Jul2025 00:51:40.249] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 00:51:41.412] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 00:51:43.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[08Jul2025 00:51:52.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[08Jul2025 00:52:19.963] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[08Jul2025 00:52:19.967] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[08Jul2025 00:52:25.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Vampire Hunter
+[08Jul2025 00:52:26.986] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 00:52:59.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Vampire Diaries]
+[08Jul2025 00:53:31.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[08Jul2025 00:54:59.163] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[08Jul2025 00:54:59.171] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[08Jul2025 00:55:07.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was slain by Vampire Hunter
+[08Jul2025 00:55:09.032] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[08Jul2025 00:56:10.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[08Jul2025 00:57:52.113] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[08Jul2025 00:57:55.291] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Jul2025 00:57:55.297] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Jul2025 00:57:55.530] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Jul2025 00:57:55.530] [Worker-Main-22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Jul2025 00:58:34.840] [Worker-Main-22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=29, y=64, z=7072}
+[08Jul2025 00:58:34.840] [Worker-Main-22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=32, y=64, z=7069}
+[08Jul2025 01:00:06.350] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=582, y=-40, z=7132}
+[08Jul2025 01:00:06.366] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=617, y=-49, z=7121}
