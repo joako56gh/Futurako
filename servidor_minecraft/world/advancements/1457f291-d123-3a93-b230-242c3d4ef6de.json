@@ -11578,33 +11578,27 @@
     },
     "done": true
   },
-  "morevanillaarmor:recipes/combat/obsidian_helmet": {
-    "criteria": {
-      "already_crafted": "2025-07-08 01:37:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-07-08 01:58:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-08 01:40:28 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-07-08 01:36:37 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/spruce_beam": {
+  "morevanillaarmor:recipes/combat/obsidian_helmet": {
     "criteria": {
-      "has_stripped_log": "2025-07-08 01:58:14 +0000"
+      "already_crafted": "2025-07-08 01:37:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-07-08 01:39:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-08 01:40:28 +0000"
     },
     "done": true
   },
@@ -11620,21 +11614,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-08 01:58:14 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/chocolate": {
     "criteria": {
       "has_cocoa_beans": "2025-07-08 01:40:28 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_illager_windmill": {
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
-      "location0": "2025-07-08 01:39:57 +0000"
+      "has_log": "2025-07-08 01:58:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-07-08 01:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-08 01:58:14 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-07-08 03:14:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-07-08 03:14:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-08 03:14:56 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-07-08 03:14:56 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-07-08 03:14:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2025-07-08 03:14:56 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-07-08 03:14:56 +0000"
     },
     "done": true
   },
