@@ -1447,3 +1447,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [09Jul2025 01:46:45.041] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/botania/api/mana/ManaCollisionGhost$Behaviour
 [09Jul2025 01:47:10.630] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=361, y=-25, z=7877}
 [09Jul2025 01:47:10.631] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=361, y=-25, z=7875}
+[09Jul2025 01:49:29.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 lost connection: Disconnected
+[09Jul2025 01:49:29.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 left the game
+[09Jul2025 01:49:29.544] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO7

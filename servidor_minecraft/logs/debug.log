@@ -9024,3 +9024,12 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [09Jul2025 01:47:11.220] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
 [09Jul2025 01:47:12.896] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk5
 [09Jul2025 01:47:12.901] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy5
+[09Jul2025 01:47:34.788] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:cockroach
+[09Jul2025 01:48:23.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 01:48:23.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 01:49:29.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 lost connection: Disconnected
+[09Jul2025 01:49:29.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 left the game
+[09Jul2025 01:49:29.543] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of JOA_KINGSITO7
+[09Jul2025 01:49:29.544] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO7
+[09Jul2025 01:53:23.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 01:53:23.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
