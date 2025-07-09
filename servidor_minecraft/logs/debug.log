@@ -9293,3 +9293,86 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [09Jul2025 00:38:56.057] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
 [09Jul2025 00:38:56.060] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [09Jul2025 00:39:07.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[09Jul2025 00:40:46.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 00:40:46.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 00:42:07.054] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:42:07.059] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[09Jul2025 00:42:13.800] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:42:15.016] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:42:15.021] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[09Jul2025 00:42:21.652] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:42:21.661] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[09Jul2025 00:42:21.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 fell from a high place, they gave up
+[09Jul2025 00:42:21.801] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:375, y:53, z:7398, dim:minecraft:overworld]
+[09Jul2025 00:42:22.872] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.13.jar%23358!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.network.ServerboundSimpleInputEvent.lambda$handle$4(ServerboundSimpleInputEvent.java:43) ~[Vampirism-1.20.1-1.10.13.jar%23358!/:1.20.1-1.10.13]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[09Jul2025 00:42:22.873] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:142) ~[Vampirism-1.20.1-1.10.13.jar%23358!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.network.ServerboundSimpleInputEvent.lambda$handle$4(ServerboundSimpleInputEvent.java:73) ~[Vampirism-1.20.1-1.10.13.jar%23358!/:1.20.1-1.10.13]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[09Jul2025 00:42:24.217] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
+[09Jul2025 00:42:24.218] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[09Jul2025 00:42:55.246] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[09Jul2025 00:43:40.095] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:cockroach
+[09Jul2025 00:45:46.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 00:45:46.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 00:45:52.557] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[09Jul2025 00:46:19.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has completed the challenge [It Spreads]
+[09Jul2025 00:46:34.451] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:46:34.457] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[09Jul2025 00:46:40.663] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:46:42.050] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:46:42.055] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[09Jul2025 00:46:47.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Warden, they gave up
+[09Jul2025 00:46:47.602] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:327, y:-29, z:7342, dim:minecraft:overworld]
+[09Jul2025 00:46:48.751] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
+[09Jul2025 00:46:48.752] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[09Jul2025 00:47:38.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[09Jul2025 00:47:38.453] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[09Jul2025 00:48:19.494] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[09Jul2025 00:49:45.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[09Jul2025 00:49:45.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[09Jul2025 00:49:45.552] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Futuuuro
+[09Jul2025 00:49:45.553] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[09Jul2025 00:49:45.558] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 539afb35-e210-35da-b6bb-7a8f5d937c65 does not have a secret
+[09Jul2025 00:49:46.649] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:49:46.653] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[09Jul2025 00:49:52.596] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:49:53.710] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:49:53.713] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[09Jul2025 00:49:59.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Warden, they gave up
+[09Jul2025 00:49:59.447] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:376, y:-21, z:7352, dim:minecraft:overworld]
+[09Jul2025 00:50:00.587] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
+[09Jul2025 00:50:00.588] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
