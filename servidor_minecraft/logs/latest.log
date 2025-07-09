@@ -1530,3 +1530,10 @@ java.lang.Throwable: null
 [09Jul2025 00:49:53.713] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
 [09Jul2025 00:49:59.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Warden, they gave up
 [09Jul2025 00:50:00.588] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[09Jul2025 00:50:11.200] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:50:11.204] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[09Jul2025 00:50:17.146] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:50:18.404] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:50:18.408] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[09Jul2025 00:50:24.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Warden, they gave up
+[09Jul2025 00:50:25.349] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
