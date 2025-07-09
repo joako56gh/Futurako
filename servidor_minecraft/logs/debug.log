@@ -8956,3 +8956,71 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [09Jul2025 01:29:15.346] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@56f14240 for service interface com.blamejared.clumps.platform.IPlatformHelper
 [09Jul2025 01:33:23.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jul2025 01:33:23.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 01:38:23.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 01:38:23.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 01:42:53.209] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[09Jul2025 01:43:23.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 01:43:23.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 01:46:17.582] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[09Jul2025 01:46:17.633] [Worker-Main-4/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[09Jul2025 01:46:17.653] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[09Jul2025 01:46:17.664] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[09Jul2025 01:46:17.692] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[09Jul2025 01:46:17.827] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[09Jul2025 01:46:18.030] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_5
+[09Jul2025 01:46:18.444] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_1
+[09Jul2025 01:46:18.551] [Worker-Main-37/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Jul2025 01:46:18.551] [Worker-Main-37/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Jul2025 01:46:19.502] [Worker-Main-42/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Jul2025 01:46:19.503] [Worker-Main-42/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Jul2025 01:46:19.503] [Worker-Main-42/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Jul2025 01:46:19.503] [Worker-Main-42/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[09Jul2025 01:46:19.508] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[09Jul2025 01:46:19.508] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[09Jul2025 01:46:19.569] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[09Jul2025 01:46:20.143] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[09Jul2025 01:46:20.171] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[09Jul2025 01:46:20.191] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[09Jul2025 01:46:20.204] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[09Jul2025 01:46:20.214] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[09Jul2025 01:46:20.272] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[09Jul2025 01:46:20.300] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_6
+[09Jul2025 01:46:20.644] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_3
+[09Jul2025 01:46:20.692] [Worker-Main-37/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[09Jul2025 01:46:20.854] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk3
+[09Jul2025 01:46:21.463] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:blue_jay
+[09Jul2025 01:46:26.388] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk2
+[09Jul2025 01:46:29.350] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_trunk1
+[09Jul2025 01:46:29.363] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_canopy1
+[09Jul2025 01:46:29.462] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_trunk
+[09Jul2025 01:46:29.462] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_canopy
+[09Jul2025 01:46:31.726] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[09Jul2025 01:46:35.237] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[09Jul2025 01:46:37.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[09Jul2025 01:46:38.009] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[09Jul2025 01:46:45.041] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/botania/api/mana/ManaCollisionGhost$Behaviour
+[09Jul2025 01:46:54.053] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk1
+[09Jul2025 01:47:08.047] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[09Jul2025 01:47:08.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[09Jul2025 01:47:08.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[09Jul2025 01:47:08.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[09Jul2025 01:47:08.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[09Jul2025 01:47:08.060] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[09Jul2025 01:47:08.060] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[09Jul2025 01:47:08.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[09Jul2025 01:47:08.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[09Jul2025 01:47:08.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[09Jul2025 01:47:08.064] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[09Jul2025 01:47:08.538] [Worker-Main-4/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[09Jul2025 01:47:09.886] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[09Jul2025 01:47:10.403] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_trunk3
+[09Jul2025 01:47:10.405] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_canopy3
+[09Jul2025 01:47:10.407] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_trunk2
+[09Jul2025 01:47:10.408] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_canopy2
+[09Jul2025 01:47:10.597] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/woodlands/woodlands_tree_trunk1
+[09Jul2025 01:47:10.602] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/woodlands/woodlands_tree_canopy1
+[09Jul2025 01:47:10.630] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=361, y=-25, z=7877}
+[09Jul2025 01:47:10.631] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=361, y=-25, z=7875}
+[09Jul2025 01:47:11.220] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[09Jul2025 01:47:12.896] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk5
+[09Jul2025 01:47:12.901] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy5
