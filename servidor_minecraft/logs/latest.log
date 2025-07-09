@@ -1431,3 +1431,32 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [09Jul2025 00:27:48.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [09Jul2025 00:27:48.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aa<--[HERE]
 [09Jul2025 00:29:06.496] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[09Jul2025 00:30:37.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=366, y=130, z=7441} BlockPos{x=364, y=128, z=7441}
+[09Jul2025 00:30:48.794] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[09Jul2025 00:35:12.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved wrongly!
+[09Jul2025 00:35:28.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JOA_KINGSITO7[/127.37.118.126:59389] logged in with entity id 7169 at (338.6922648163324, 136.0, 7486.600645010631)
+[09Jul2025 00:35:28.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 joined the game
+[09Jul2025 00:35:28.247] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'JOA_KINGSITO7'
+[09Jul2025 00:35:28.247] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'JOA_KINGSITO7'
+[09Jul2025 00:35:28.257] [Server thread/INFO] [Jade/]: Syncing config to JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de)
+[09Jul2025 00:35:28.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[09Jul2025 00:35:33.280] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JOA_KINGSITO7 (18)
+[09Jul2025 00:35:33.280] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7
+[09Jul2025 00:36:18.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1457f291-d123-3a93-b230-242c3d4ef6de
+[09Jul2025 00:36:19.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1457f291-d123-3a93-b230-242c3d4ef6de
+[09Jul2025 00:36:19.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat
+[09Jul2025 00:37:44.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved wrongly!
+[09Jul2025 00:37:54.611] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[09Jul2025 00:37:57.196] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[09Jul2025 00:38:27.495] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/botania/api/mana/ManaCollisionGhost$Behaviour
+[09Jul2025 00:38:29.265] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[09Jul2025 00:38:29.286] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[09Jul2025 00:38:29.289] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[09Jul2025 00:38:54.654] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[09Jul2025 00:38:54.655] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[09Jul2025 00:38:54.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Vampire Hunter
+[09Jul2025 00:38:54.665] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[09Jul2025 00:38:56.056] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[09Jul2025 00:38:56.057] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[09Jul2025 00:38:56.060] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[09Jul2025 00:39:07.595] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget

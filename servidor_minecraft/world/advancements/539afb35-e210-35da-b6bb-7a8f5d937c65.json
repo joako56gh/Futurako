@@ -11315,5 +11315,17 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-07-09 00:29:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-07-09 00:29:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
