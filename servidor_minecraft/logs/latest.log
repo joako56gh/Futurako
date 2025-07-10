@@ -1629,3 +1629,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 03:50:58.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 moved too quickly! 24.75767707627756,30.0,-59.07198414027789
 [10Jul2025 03:57:56.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 moved too quickly! -25.08749742210432,20.246800019478798,21.68364694858701
 [10Jul2025 03:59:39.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 moved too quickly! 11.2173864285553,29.125,-60.58033808858818
+[10Jul2025 04:10:54.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 lost connection: Disconnected
+[10Jul2025 04:10:54.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 left the game
+[10Jul2025 04:10:54.096] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO7
