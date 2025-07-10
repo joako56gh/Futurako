@@ -10355,3 +10355,15 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 02:33:19.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
 [10Jul2025 02:36:45.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jul2025 02:36:45.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:41:45.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:41:45.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:42:14.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jul2025 02:42:14.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaaaaa<--[HERE]
+[10Jul2025 02:46:45.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:46:45.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:47:07.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 moved too quickly! 56.74614519378963,80.0,-90.88137521052522
+[10Jul2025 02:49:15.745] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[10Jul2025 02:49:15.946] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[10Jul2025 02:49:59.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 moved too quickly! -13.361155170423899,169.0,98.00673507365718
+[10Jul2025 02:51:45.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:51:45.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
