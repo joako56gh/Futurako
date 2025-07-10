@@ -10313,3 +10313,37 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 02:21:08.247] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
 [10Jul2025 02:21:09.655] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
 [10Jul2025 02:21:09.659] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:21:15.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Futuuuro fell from a high place, they gave up
+[10Jul2025 02:21:15.709] [Server thread/DEBUG] [tombstone/]: A new grave of the player Futuuuro was created at position [x:328, y:136, z:7460, dim:minecraft:overworld]
+[10Jul2025 02:21:16.910] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Futuuuro has new faction level vampirism:vampire 1
+[10Jul2025 02:21:16.910] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 02:21:29.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 moved too quickly! -10.093294293683186,0.0,0.9422174489345707
+[10Jul2025 02:21:29.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3159ms or 63 ticks behind
+[10Jul2025 02:21:29.319] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[10Jul2025 02:21:29.324] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[10Jul2025 02:21:30.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[10Jul2025 02:21:30.952] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[10Jul2025 02:21:37.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Hot Stuff]
+[10Jul2025 02:21:45.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:21:45.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:21:46.400] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 26.14 and blood value 0 for entity alexsmobs:laviathan
+[10Jul2025 02:21:49.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 02:22:00.747] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=342, y=141, z=7462}
+[10Jul2025 02:22:46.246] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
+[10Jul2025 02:23:46.241] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:23:46.249] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:23:54.148] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:23:54.152] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:24:00.359] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:24:01.621] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:24:01.625] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:24:07.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Futuuuro froze to death, they gave up
+[10Jul2025 02:24:07.510] [Server thread/DEBUG] [tombstone/]: A new grave of the player Futuuuro was created at position [x:345, y:136, z:7466, dim:minecraft:overworld]
+[10Jul2025 02:24:08.692] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Futuuuro has new faction level vampirism:vampire 1
+[10Jul2025 02:24:08.692] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 02:26:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jul2025 02:26:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaaa<--[HERE]
+[10Jul2025 02:26:45.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:26:45.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:28:57.196] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=135, z=7480}
+[10Jul2025 02:31:11.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]

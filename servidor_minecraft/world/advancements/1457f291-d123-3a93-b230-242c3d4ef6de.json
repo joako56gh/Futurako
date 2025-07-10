@@ -12837,6 +12837,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-07-10 02:17:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
       "has_item": "2025-07-10 02:02:12 +0000"
