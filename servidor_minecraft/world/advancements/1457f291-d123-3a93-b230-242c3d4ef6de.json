@@ -12377,6 +12377,12 @@
     },
     "done": true
   },
+  "chipped:recipes/mason_table": {
+    "criteria": {
+      "has_mason_table": "2025-07-10 00:51:13 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass1": {
     "criteria": {
       "recipe_condition": "2025-07-10 00:44:28 +0000"

@@ -1466,3 +1466,22 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 00:50:11.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
 [10Jul2025 00:52:15.619] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=346, y=141, z=7452}
 [10Jul2025 00:54:40.967] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=355, y=147, z=7452}
+[10Jul2025 00:56:18.004] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=356, y=142, z=7452}
+[10Jul2025 00:56:18.204] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=357, y=141, z=7452}
+[10Jul2025 00:56:18.722] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=357, y=141, z=7452}
+[10Jul2025 00:56:39.632] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=147, z=7453}
+[10Jul2025 00:56:39.957] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=147, z=7453}
+[10Jul2025 00:56:40.473] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=147, z=7453}
+[10Jul2025 00:56:41.067] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=147, z=7454}
+[10Jul2025 00:56:41.992] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=147, z=7454}
+[10Jul2025 00:56:42.545] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=147, z=7455}
+[10Jul2025 00:56:43.772] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=147, z=7456}
+[10Jul2025 00:56:44.393] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=147, z=7456}
+[10Jul2025 00:56:53.918] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=147, z=7459}
+[10Jul2025 00:57:03.607] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=147, z=7467}
+[10Jul2025 00:57:03.960] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=147, z=7467}
+[10Jul2025 00:57:04.828] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=149, z=7467}
+[10Jul2025 00:58:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jul2025 00:58:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaa<--[HERE]
+[10Jul2025 01:00:41.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jul2025 01:00:41.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaa<--[HERE]
