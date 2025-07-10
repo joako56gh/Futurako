@@ -9895,3 +9895,252 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 01:32:48.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
 [10Jul2025 01:32:50.781] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
 [10Jul2025 01:32:50.787] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 01:35:36.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 01:35:36.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 01:36:51.521] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 01:36:51.525] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 01:36:58.904] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 01:37:01.023] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 01:37:01.028] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 01:37:06.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was shot by Skeleton, they gave up
+[10Jul2025 01:37:06.670] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:27, y:153, z:6843, dim:minecraft:overworld]
+[10Jul2025 01:37:07.838] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
+[10Jul2025 01:37:07.839] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 01:39:04.990] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_trunk1
+[10Jul2025 01:39:05.001] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_canopy1
+[10Jul2025 01:39:05.008] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_trunk
+[10Jul2025 01:39:05.008] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_canopy
+[10Jul2025 01:39:13.611] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[10Jul2025 01:39:13.634] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[10Jul2025 01:39:13.653] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[10Jul2025 01:39:14.062] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk3
+[10Jul2025 01:39:17.655] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk1
+[10Jul2025 01:39:19.447] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_canopy2
+[10Jul2025 01:39:21.503] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk2
+[10Jul2025 01:39:22.786] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy2
+[10Jul2025 01:39:22.793] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_canopy3
+[10Jul2025 01:39:22.796] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_canopy4
+[10Jul2025 01:39:22.799] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/holly/holly_canopy1
+[10Jul2025 01:39:22.805] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_large_trunk1
+[10Jul2025 01:39:22.812] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_large_canopy1
+[10Jul2025 01:39:24.995] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy2
+[10Jul2025 01:39:27.721] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy3
+[10Jul2025 01:39:28.099] [Worker-Main-65/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/potionstudios/biomeswevegone/world/entity/oddion/Oddion$Variant
+[10Jul2025 01:39:51.192] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[10Jul2025 01:39:52.177] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy4
+[10Jul2025 01:40:00.593] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[10Jul2025 01:40:01.781] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy3
+[10Jul2025 01:40:04.670] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity alexsmobs:sugar_glider
+[10Jul2025 01:40:29.325] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.61 and blood value 0 for entity alexsmobs:grizzly_bear
+[10Jul2025 01:40:36.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 01:40:37.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 01:40:43.033] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[10Jul2025 01:40:43.097] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[10Jul2025 01:40:43.158] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_3
+[10Jul2025 01:40:43.161] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_1
+[10Jul2025 01:40:43.164] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_6
+[10Jul2025 01:40:43.168] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_4
+[10Jul2025 01:40:43.170] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_2
+[10Jul2025 01:40:43.173] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_0
+[10Jul2025 01:40:43.176] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_7
+[10Jul2025 01:40:43.178] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_5
+[10Jul2025 01:40:46.327] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/prairie/prairie_shrub_canopy1
+[10Jul2025 01:40:47.751] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk3
+[10Jul2025 01:40:47.755] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy3
+[10Jul2025 01:40:47.862] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/prairie/prairie_shrub_canopy2
+[10Jul2025 01:41:06.036] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/woodlands/woodlands_tree_trunk1
+[10Jul2025 01:41:06.041] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/woodlands/woodlands_tree_canopy1
+[10Jul2025 01:41:06.044] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_trunk3
+[10Jul2025 01:41:06.045] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_canopy3
+[10Jul2025 01:41:06.053] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_trunk2
+[10Jul2025 01:41:06.055] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_canopy2
+[10Jul2025 01:41:07.523] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[10Jul2025 01:41:07.544] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[10Jul2025 01:41:07.549] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[10Jul2025 01:41:07.553] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[10Jul2025 01:41:07.555] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[10Jul2025 01:41:07.561] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[10Jul2025 01:41:07.570] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[10Jul2025 01:41:07.571] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[10Jul2025 01:41:07.571] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[10Jul2025 01:41:07.572] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[10Jul2025 01:41:07.573] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[10Jul2025 01:41:07.573] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[10Jul2025 01:41:09.091] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[10Jul2025 01:41:33.096] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy3
+[10Jul2025 01:41:38.523] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[10Jul2025 01:41:48.079] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[10Jul2025 01:42:00.514] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_trunk1
+[10Jul2025 01:42:00.515] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy1
+[10Jul2025 01:42:02.325] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_trunk2
+[10Jul2025 01:42:02.326] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy2
+[10Jul2025 01:42:03.697] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk
+[10Jul2025 01:42:03.698] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy1
+[10Jul2025 01:43:11.764] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[10Jul2025 01:43:11.774] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[10Jul2025 01:43:49.261] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_3
+[10Jul2025 01:43:49.261] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_3
+[10Jul2025 01:43:49.350] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_1
+[10Jul2025 01:43:49.351] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_1
+[10Jul2025 01:43:49.356] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_2
+[10Jul2025 01:43:49.356] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_2
+[10Jul2025 01:43:49.357] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_5
+[10Jul2025 01:43:49.358] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_5
+[10Jul2025 01:43:50.000] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_4
+[10Jul2025 01:43:50.000] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_4
+[10Jul2025 01:43:53.286] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_trunk1
+[10Jul2025 01:43:53.286] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy1
+[10Jul2025 01:43:53.287] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen-shrub/aspen_shrub_canopy2
+[10Jul2025 01:43:58.355] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/hunter_trainer
+[10Jul2025 01:43:58.382] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
+[10Jul2025 01:43:58.384] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[10Jul2025 01:43:58.413] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[10Jul2025 01:43:58.415] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[10Jul2025 01:43:58.579] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/plains_temple_3
+[10Jul2025 01:43:58.674] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/straight_02
+[10Jul2025 01:43:58.753] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/plains/houses/plains_temple_4
+[10Jul2025 01:44:04.903] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/villagers/baby
+[10Jul2025 01:44:04.907] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/villagers/unemployed
+[10Jul2025 01:44:04.929] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_toolsmith_1
+[10Jul2025 01:44:04.936] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_cartographer_house_1
+[10Jul2025 01:44:04.939] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_medium_house_2
+[10Jul2025 01:44:04.941] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_weaponsmith_1
+[10Jul2025 01:44:04.944] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_armorsmith_1
+[10Jul2025 01:44:04.946] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_butcher_shop_1
+[10Jul2025 01:44:04.948] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_medium_house_1
+[10Jul2025 01:44:04.950] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_small_house_2
+[10Jul2025 01:44:04.952] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_forager_1
+[10Jul2025 01:44:04.956] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_small_house_3
+[10Jul2025 01:44:04.958] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_medium_house_3
+[10Jul2025 01:44:04.972] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_large_farm_1
+[10Jul2025 01:44:04.979] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_tannery_1
+[10Jul2025 01:44:04.982] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_shepherd_house_1
+[10Jul2025 01:44:04.984] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_fisher_1
+[10Jul2025 01:44:04.989] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_medium_house_4
+[10Jul2025 01:44:05.070] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_small_farm_2
+[10Jul2025 01:44:05.071] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_mason_1
+[10Jul2025 01:44:05.108] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_fletcher_house_1
+[10Jul2025 01:44:05.192] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_animal_pen_1
+[10Jul2025 01:44:05.287] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_small_farm_1
+[10Jul2025 01:44:17.007] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[10Jul2025 01:44:17.020] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[10Jul2025 01:44:17.033] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[10Jul2025 01:44:17.161] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[10Jul2025 01:44:17.186] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[10Jul2025 01:44:17.194] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[10Jul2025 01:44:17.197] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[10Jul2025 01:44:17.204] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_3
+[10Jul2025 01:44:17.211] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[10Jul2025 01:44:17.219] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[10Jul2025 01:44:17.279] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[10Jul2025 01:44:17.304] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[10Jul2025 01:44:18.311] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[10Jul2025 01:44:18.517] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[10Jul2025 01:44:18.530] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[10Jul2025 01:44:18.583] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[10Jul2025 01:44:18.655] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[10Jul2025 01:44:18.727] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[10Jul2025 01:44:18.798] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[10Jul2025 01:44:18.876] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[10Jul2025 01:44:18.933] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[10Jul2025 01:44:18.953] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[10Jul2025 01:44:18.986] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[10Jul2025 01:44:19.008] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_1
+[10Jul2025 01:44:19.033] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[10Jul2025 01:44:19.059] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[10Jul2025 01:44:41.510] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[10Jul2025 01:44:41.512] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[10Jul2025 01:44:41.519] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[10Jul2025 01:44:41.525] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[10Jul2025 01:44:41.528] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[10Jul2025 01:44:41.534] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[10Jul2025 01:44:41.542] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[10Jul2025 01:44:41.545] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[10Jul2025 01:44:42.233] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Jul2025 01:44:42.234] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Jul2025 01:44:42.236] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage
+[10Jul2025 01:44:42.237] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[10Jul2025 01:44:42.238] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn
+[10Jul2025 01:44:42.239] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[10Jul2025 01:44:42.241] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
+[10Jul2025 01:44:42.242] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell
+[10Jul2025 01:44:42.242] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped
+[10Jul2025 01:44:42.243] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening
+[10Jul2025 01:44:51.403] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[10Jul2025 01:44:58.164] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2254, y=-7, z=6110}
+[10Jul2025 01:44:58.171] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2265, y=-7, z=6109}
+[10Jul2025 01:44:58.174] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2254, y=-7, z=6110}
+[10Jul2025 01:45:01.659] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2272, y=0, z=6093}
+[10Jul2025 01:45:01.659] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2254, y=-7, z=6110}
+[10Jul2025 01:45:07.269] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2304, y=0, z=6096}
+[10Jul2025 01:45:07.281] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2304, y=0, z=6096}
+[10Jul2025 01:45:10.493] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2304, y=0, z=6096}
+[10Jul2025 01:45:10.504] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2304, y=0, z=6096}
+[10Jul2025 01:45:10.742] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2273, y=0, z=6112}
+[10Jul2025 01:45:10.742] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2275, y=0, z=6117}
+[10Jul2025 01:45:10.798] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2304, y=0, z=6096}
+[10Jul2025 01:45:10.802] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2303, y=0, z=6112}
+[10Jul2025 01:45:10.802] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2273, y=0, z=6112}
+[10Jul2025 01:45:10.802] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2275, y=0, z=6117}
+[10Jul2025 01:45:10.806] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2304, y=0, z=6096}
+[10Jul2025 01:45:26.739] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2304, y=0, z=6096}
+[10Jul2025 01:45:26.867] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2304, y=0, z=6096}
+[10Jul2025 01:45:27.055] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2304, y=0, z=6096}
+[10Jul2025 01:45:27.063] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2333, y=0, z=6104}
+[10Jul2025 01:45:28.715] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2347, y=20, z=6137}
+[10Jul2025 01:45:28.763] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2350, y=20, z=6132}
+[10Jul2025 01:45:28.763] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2347, y=20, z=6137}
+[10Jul2025 01:45:28.880] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2333, y=0, z=6104}
+[10Jul2025 01:45:28.880] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2352, y=13, z=6097}
+[10Jul2025 01:45:30.640] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2347, y=20, z=6137}
+[10Jul2025 01:45:30.647] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2354, y=13, z=6123}
+[10Jul2025 01:45:30.648] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2368, y=13, z=6121}
+[10Jul2025 01:45:30.649] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2350, y=20, z=6132}
+[10Jul2025 01:45:30.649] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2347, y=20, z=6137}
+[10Jul2025 01:45:30.832] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2353, y=13, z=6114}
+[10Jul2025 01:45:30.833] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2385, y=13, z=6120}
+[10Jul2025 01:45:30.834] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2354, y=13, z=6123}
+[10Jul2025 01:45:30.835] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2365, y=13, z=6113}
+[10Jul2025 01:45:30.835] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2378, y=13, z=6115}
+[10Jul2025 01:45:30.835] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2368, y=13, z=6121}
+[10Jul2025 01:45:32.602] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2368, y=13, z=6121}
+[10Jul2025 01:45:32.885] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2385, y=13, z=6120}
+[10Jul2025 01:45:32.886] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2378, y=13, z=6115}
+[10Jul2025 01:45:32.886] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2368, y=13, z=6121}
+[10Jul2025 01:45:32.948] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2272, y=0, z=6093}
+[10Jul2025 01:45:32.949] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2265, y=-7, z=6109}
+[10Jul2025 01:45:32.950] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2254, y=-7, z=6110}
+[10Jul2025 01:45:32.958] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2289, y=0, z=6111}
+[10Jul2025 01:45:32.958] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2273, y=0, z=6109}
+[10Jul2025 01:45:32.963] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2304, y=0, z=6096}
+[10Jul2025 01:45:32.968] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2289, y=0, z=6111}
+[10Jul2025 01:45:33.077] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2304, y=0, z=6096}
+[10Jul2025 01:45:33.086] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2304, y=0, z=6096}
+[10Jul2025 01:45:33.090] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2345, y=13, z=6098}
+[10Jul2025 01:45:33.090] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2333, y=0, z=6104}
+[10Jul2025 01:45:33.091] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2340, y=0, z=6086}
+[10Jul2025 01:45:33.103] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2345, y=13, z=6098}
+[10Jul2025 01:45:33.103] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2333, y=0, z=6104}
+[10Jul2025 01:45:33.104] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2352, y=13, z=6097}
+[10Jul2025 01:45:33.104] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2345, y=0, z=6086}
+[10Jul2025 01:45:33.105] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2346, y=0, z=6096}
+[10Jul2025 01:45:33.105] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2340, y=0, z=6086}
+[10Jul2025 01:45:33.105] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2352, y=0, z=6089}
+[10Jul2025 01:45:33.232] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2353, y=11, z=6110}
+[10Jul2025 01:45:33.234] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2365, y=13, z=6113}
+[10Jul2025 01:45:33.234] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2352, y=0, z=6089}
+[10Jul2025 01:45:33.234] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2353, y=0, z=6098}
+[10Jul2025 01:45:33.238] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2353, y=11, z=6110}
+[10Jul2025 01:45:33.239] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2374, y=0, z=6096}
+[10Jul2025 01:45:35.023] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2368, y=13, z=6121}
+[10Jul2025 01:45:35.024] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2394, y=0, z=6138}
+[10Jul2025 01:45:35.025] [Worker-Main-65/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2393, y=0, z=6122}
+[10Jul2025 01:45:35.031] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2385, y=13, z=6120}
+[10Jul2025 01:45:35.031] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2368, y=13, z=6121}
+[10Jul2025 01:45:35.032] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2393, y=0, z=6120}
+[10Jul2025 01:45:35.033] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2394, y=0, z=6138}
+[10Jul2025 01:45:35.033] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2393, y=0, z=6122}
+[10Jul2025 01:45:36.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 01:45:37.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 01:45:39.738] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2406, y=0, z=6132}
+[10Jul2025 01:45:39.739] [Worker-Main-8/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2407, y=0, z=6142}

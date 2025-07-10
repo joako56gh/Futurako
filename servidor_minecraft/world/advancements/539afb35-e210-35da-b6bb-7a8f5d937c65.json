@@ -4818,9 +4818,12 @@
       "sweetpotato_seed": "2025-07-05 18:40:14 +0000",
       "cantaloupe_seed": "2025-07-08 01:17:28 +0000",
       "elderberry_seed": "2025-07-08 01:17:29 +0000",
+      "tomato_seed": "2025-07-10 01:40:00 +0000",
       "greenbean_seed": "2025-07-04 20:20:57 +0000",
       "kale_seed": "2025-07-05 19:00:32 +0000",
       "blueberry_seed": "2025-07-04 21:02:56 +0000",
+      "grape_seed": "2025-07-10 01:44:55 +0000",
+      "celery_seed": "2025-07-10 01:40:06 +0000",
       "leek_seed": "2025-07-04 20:17:07 +0000",
       "squash_seed": "2025-07-05 18:26:40 +0000",
       "blackberry_seed": "2025-07-07 23:13:49 +0000",
@@ -6122,7 +6125,10 @@
       "blackberry_seed": "2025-07-07 23:13:49 +0000",
       "cantaloupe_seed": "2025-07-08 01:17:28 +0000",
       "elderberry_seed": "2025-07-08 01:17:29 +0000",
-      "blueberry_seed": "2025-07-04 21:02:56 +0000"
+      "blueberry_seed": "2025-07-04 21:02:56 +0000",
+      "tomato_seed": "2025-07-10 01:40:00 +0000",
+      "grape_seed": "2025-07-10 01:44:55 +0000",
+      "celery_seed": "2025-07-10 01:40:06 +0000"
     },
     "done": false
   },
@@ -11363,6 +11369,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/raisins_from_grape": {
+    "criteria": {
+      "has_grape": "2025-07-10 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/celery_seed": {
+    "criteria": {
+      "has_celery": "2025-07-10 01:39:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomato_seed": {
+    "criteria": {
+      "has_tomato": "2025-07-10 01:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-07-10 01:30:28 +0000"
@@ -11393,9 +11429,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/mead": {
     "criteria": {
       "has_honey": "2025-07-10 01:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
     },
     "done": true
   },
@@ -11405,15 +11453,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 01:33:43 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
     "criteria": {
       "has_glass": "2025-07-10 01:27:01 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2025-07-10 01:40:00 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/brick_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-10 01:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/grape_seed": {
+    "criteria": {
+      "has_grape": "2025-07-10 01:44:55 +0000"
     },
     "done": true
   },
@@ -11435,6 +11519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-07-10 01:30:29 +0000"
@@ -11446,6 +11536,12 @@
       "has_glass": "2025-07-10 01:27:01 +0000"
     },
     "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
+    "criteria": {
+      "prairie_house": "2025-07-10 01:41:23 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
@@ -11465,6 +11561,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 01:33:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/grape_juice": {
+    "criteria": {
+      "has_grape": "2025-07-10 01:44:55 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-07-10 01:27:01 +0000"
@@ -11474,6 +11582,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-10 01:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
     },
     "done": true
   },
@@ -11495,6 +11609,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/raisins_from_smoking_grape": {
+    "criteria": {
+      "has_grape": "2025-07-10 01:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-07-10 01:30:29 +0000"
@@ -11504,6 +11636,18 @@
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-07-10 01:27:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-07-10 01:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
     },
     "done": true
   },
@@ -11531,9 +11675,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-07-10 01:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/grape_jam": {
+    "criteria": {
+      "has_grape": "2025-07-10 01:44:55 +0000"
     },
     "done": true
   },
@@ -11549,6 +11711,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/wine": {
+    "criteria": {
+      "has_grapes": "2025-07-10 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/brick_bridge": {
     "criteria": {
       "has_planks": "2025-07-10 01:30:29 +0000"
@@ -11561,6 +11735,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2025-07-10 01:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-10 01:27:01 +0000"
@@ -11570,6 +11756,18 @@
   "farmersdelight:recipes/food/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2025-07-10 01:30:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_raisins": {
+    "criteria": {
+      "has_grapes": "2025-07-10 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-10 01:33:22 +0000"
     },
     "done": true
   },
@@ -11594,6 +11792,12 @@
   "vampirism:recipes/misc/general/injection_0": {
     "criteria": {
       "has_glass": "2025-07-10 01:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 01:33:43 +0000"
     },
     "done": true
   },

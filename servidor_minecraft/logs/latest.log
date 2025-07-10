@@ -1560,3 +1560,14 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 01:32:48.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
 [10Jul2025 01:32:50.781] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
 [10Jul2025 01:32:50.787] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 01:36:51.521] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 01:36:51.525] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 01:36:58.904] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 01:37:01.023] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 01:37:01.028] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 01:37:06.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was shot by Skeleton, they gave up
+[10Jul2025 01:37:07.839] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 01:39:28.099] [Worker-Main-65/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/potionstudios/biomeswevegone/world/entity/oddion/Oddion$Variant
+[10Jul2025 01:43:11.764] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[10Jul2025 01:44:42.233] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Jul2025 01:44:42.234] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
