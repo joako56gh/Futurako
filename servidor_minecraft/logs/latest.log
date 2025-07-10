@@ -1524,3 +1524,39 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 01:16:07.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [10Jul2025 01:16:07.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaa<--[HERE]
 [10Jul2025 01:23:34.220] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=339, y=139, z=7467}
+[10Jul2025 01:25:37.126] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[10Jul2025 01:25:54.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 01:27:36.913] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 01:27:36.922] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 01:27:40.719] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 01:27:40.723] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 01:27:42.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Futuuuro was slain by JOA_KINGSITO7, they gave up
+[10Jul2025 01:27:42.122] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 01:27:43.445] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 01:28:20.020] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[10Jul2025 01:28:37.625] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[10Jul2025 01:28:37.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[10Jul2025 01:28:37.633] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[10Jul2025 01:28:58.410] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[10Jul2025 01:28:59.382] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-144, y=27, z=7273}
+[10Jul2025 01:29:34.082] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[10Jul2025 01:29:54.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Guns and Roses]
+[10Jul2025 01:30:50.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 01:31:03.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Guns and Roses]
+[10Jul2025 01:31:20.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 01:32:01.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 01:32:08.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 01:32:08.968] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=73, y=103, z=6821}
+[10Jul2025 01:32:09.019] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=73, y=103, z=6821}
+[10Jul2025 01:32:09.069] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=73, y=103, z=6821}
+[10Jul2025 01:32:13.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 01:32:31.538] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 01:32:31.542] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 01:32:37.238] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 01:32:38.712] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 01:32:38.722] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 01:32:44.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Futuuuro fell from a high place, they gave up
+[10Jul2025 01:32:46.027] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 01:32:48.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 01:32:50.781] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 01:32:50.787] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
