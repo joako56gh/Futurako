@@ -1601,3 +1601,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 02:26:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaaa<--[HERE]
 [10Jul2025 02:28:57.196] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=135, z=7480}
 [10Jul2025 02:31:11.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:33:18.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[10Jul2025 02:33:18.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[10Jul2025 02:33:19.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro

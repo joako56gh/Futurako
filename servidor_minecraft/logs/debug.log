@@ -10347,3 +10347,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 02:26:45.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Jul2025 02:28:57.196] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=135, z=7480}
 [10Jul2025 02:31:11.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:31:45.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:31:45.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:33:18.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[10Jul2025 02:33:18.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[10Jul2025 02:33:19.001] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Futuuuro
+[10Jul2025 02:33:19.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[10Jul2025 02:36:45.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:36:45.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
