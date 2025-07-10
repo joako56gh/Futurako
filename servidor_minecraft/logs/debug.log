@@ -9299,3 +9299,31 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 00:44:51.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
 [10Jul2025 00:44:51.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall
 [10Jul2025 00:44:51.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
+[10Jul2025 00:45:11.120] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[10Jul2025 00:45:36.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 00:45:36.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 00:47:20.817] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:cockroach
+[10Jul2025 00:47:21.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[10Jul2025 00:47:21.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[10Jul2025 00:47:21.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[10Jul2025 00:47:21.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[10Jul2025 00:47:21.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[10Jul2025 00:47:21.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[10Jul2025 00:47:21.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[10Jul2025 00:47:21.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[10Jul2025 00:47:21.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[10Jul2025 00:47:21.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[10Jul2025 00:47:21.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[10Jul2025 00:47:29.678] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=355, y=146, z=7452}
+[10Jul2025 00:47:31.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 00:48:12.581] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=141, z=7462}
+[10Jul2025 00:48:12.868] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=141, z=7463}
+[10Jul2025 00:48:13.191] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=140, z=7463}
+[10Jul2025 00:48:13.456] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=140, z=7463}
+[10Jul2025 00:49:40.016] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:blue_jay
+[10Jul2025 00:50:10.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[10Jul2025 00:50:11.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 00:50:36.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 00:50:36.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 00:52:15.619] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=346, y=141, z=7452}
+[10Jul2025 00:54:40.967] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=355, y=147, z=7452}
