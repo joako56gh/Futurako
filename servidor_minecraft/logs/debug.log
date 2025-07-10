@@ -10176,3 +10176,140 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 02:10:51.253] [Server thread/DEBUG] [tombstone/]: A new grave of the player Futuuuro was created at position [x:-1741, y:68, z:7145, dim:minecraft:overworld]
 [10Jul2025 02:10:52.549] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Futuuuro has new faction level vampirism:vampire 1
 [10Jul2025 02:10:52.550] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 02:11:11.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 02:11:31.002] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[10Jul2025 02:11:31.349] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[10Jul2025 02:11:31.457] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[10Jul2025 02:11:31.502] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.18 and blood value 15 for entity alexsmobs:emu
+[10Jul2025 02:11:33.697] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10Jul2025 02:11:33.950] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10Jul2025 02:11:33.951] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[10Jul2025 02:11:35.281] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_trunk3
+[10Jul2025 02:11:35.282] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_canopy3
+[10Jul2025 02:11:38.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 02:11:38.251] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-1525, y=72, z=7166}
+[10Jul2025 02:11:42.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:11:42.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:12:14.097] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-1450, y=77, z=7167}
+[10Jul2025 02:13:03.578] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_3
+[10Jul2025 02:13:03.581] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_1
+[10Jul2025 02:13:03.583] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_6
+[10Jul2025 02:13:03.586] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_4
+[10Jul2025 02:13:03.589] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_2
+[10Jul2025 02:13:03.591] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_0
+[10Jul2025 02:13:03.594] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_7
+[10Jul2025 02:13:03.597] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_small_5
+[10Jul2025 02:13:14.819] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[10Jul2025 02:13:14.820] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[10Jul2025 02:13:16.203] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/blockentity/AltarInfusionBlockEntity$Result
+[10Jul2025 02:13:16.203] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/blockentity/AltarInfusionBlockEntity$PHASE
+[10Jul2025 02:13:39.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[10Jul2025 02:13:39.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[10Jul2025 02:13:39.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[10Jul2025 02:13:39.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[10Jul2025 02:13:39.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[10Jul2025 02:13:39.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[10Jul2025 02:13:39.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[10Jul2025 02:13:39.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[10Jul2025 02:13:39.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[10Jul2025 02:13:39.900] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[10Jul2025 02:13:39.900] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[10Jul2025 02:13:39.900] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[10Jul2025 02:15:42.145] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[10Jul2025 02:15:42.196] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[10Jul2025 02:15:42.246] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[10Jul2025 02:15:42.246] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[10Jul2025 02:15:42.346] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[10Jul2025 02:16:02.151] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[10Jul2025 02:16:06.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jul2025 02:16:06.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaa<--[HERE]
+[10Jul2025 02:16:06.827] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[10Jul2025 02:16:06.830] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[10Jul2025 02:16:06.831] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[10Jul2025 02:16:06.831] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[10Jul2025 02:16:06.832] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[10Jul2025 02:16:06.832] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[10Jul2025 02:16:06.833] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[10Jul2025 02:16:06.833] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[10Jul2025 02:16:06.833] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[10Jul2025 02:16:06.833] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[10Jul2025 02:16:06.834] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[10Jul2025 02:16:06.834] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[10Jul2025 02:16:06.834] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_6
+[10Jul2025 02:16:06.835] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[10Jul2025 02:16:06.835] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[10Jul2025 02:16:06.836] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[10Jul2025 02:16:06.836] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_17
+[10Jul2025 02:16:06.836] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[10Jul2025 02:16:06.838] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[10Jul2025 02:16:06.838] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[10Jul2025 02:16:06.839] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[10Jul2025 02:16:06.840] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_1
+[10Jul2025 02:16:06.841] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[10Jul2025 02:16:06.842] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[10Jul2025 02:16:06.842] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[10Jul2025 02:16:06.843] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[10Jul2025 02:16:06.844] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[10Jul2025 02:16:06.845] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_4
+[10Jul2025 02:16:06.845] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_3
+[10Jul2025 02:16:06.846] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[10Jul2025 02:16:06.846] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[10Jul2025 02:16:06.846] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[10Jul2025 02:16:06.847] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[10Jul2025 02:16:06.848] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[10Jul2025 02:16:08.094] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[10Jul2025 02:16:42.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:16:42.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:16:57.848] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[10Jul2025 02:17:12.247] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
+[10Jul2025 02:17:42.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:18:29.971] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_trunk2
+[10Jul2025 02:18:29.973] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_canopy2
+[10Jul2025 02:18:31.251] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_trunk3
+[10Jul2025 02:18:31.255] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ancient/ancient_tree_canopy3
+[10Jul2025 02:18:31.265] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/woodlands/woodlands_tree_trunk1
+[10Jul2025 02:18:31.269] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/woodlands/woodlands_tree_canopy1
+[10Jul2025 02:18:44.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:19:43.486] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk3
+[10Jul2025 02:19:43.488] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy3
+[10Jul2025 02:19:43.511] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk6
+[10Jul2025 02:19:43.526] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy6
+[10Jul2025 02:19:43.572] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk7
+[10Jul2025 02:19:43.597] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy7
+[10Jul2025 02:19:43.660] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:19:43.670] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 02:19:45.731] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk4
+[10Jul2025 02:19:45.733] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy4
+[10Jul2025 02:19:45.734] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk5
+[10Jul2025 02:19:45.736] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy5
+[10Jul2025 02:19:49.903] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:19:51.068] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:19:51.074] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 02:19:51.686] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk1
+[10Jul2025 02:19:51.687] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy1
+[10Jul2025 02:19:51.733] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_trunk2
+[10Jul2025 02:19:51.735] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/sakura/sakura_canopy2
+[10Jul2025 02:19:52.207] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-99, y=0, z=7851}
+[10Jul2025 02:19:52.207] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-98, y=0, z=7851}
+[10Jul2025 02:19:56.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[10Jul2025 02:19:56.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[10Jul2025 02:19:56.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[10Jul2025 02:19:56.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[10Jul2025 02:19:56.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[10Jul2025 02:19:56.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[10Jul2025 02:19:56.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[10Jul2025 02:19:56.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[10Jul2025 02:19:56.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[10Jul2025 02:19:56.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[10Jul2025 02:19:56.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Fire Dragon, they gave up
+[10Jul2025 02:19:56.818] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:-680, y:61, z:7856, dim:minecraft:overworld]
+[10Jul2025 02:19:58.164] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
+[10Jul2025 02:19:58.165] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 02:20:01.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 02:20:10.001] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-627, y=-19, z=8074}
+[10Jul2025 02:21:02.909] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:21:02.913] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:21:05.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:21:08.247] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:21:09.655] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:21:09.659] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved

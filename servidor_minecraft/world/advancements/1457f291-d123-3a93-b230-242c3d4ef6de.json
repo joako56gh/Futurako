@@ -938,7 +938,9 @@
       "minecraft:cherry_grove": "2025-07-08 01:06:23 +0000",
       "minecraft:birch_forest": "2025-07-05 21:09:17 +0000",
       "minecraft:windswept_hills": "2025-07-05 18:29:35 +0000",
+      "minecraft:bamboo_jungle": "2025-07-10 02:09:03 +0000",
       "minecraft:beach": "2025-07-02 03:12:56 +0000",
+      "minecraft:dark_forest": "2025-07-10 02:07:54 +0000",
       "minecraft:mangrove_swamp": "2025-07-04 20:00:05 +0000",
       "minecraft:sparse_jungle": "2025-07-02 03:36:50 +0000",
       "minecraft:river": "2025-07-02 03:12:43 +0000",
@@ -974,6 +976,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-07-02 03:43:46 +0000",
+      "biomeswevegone:fragment_jungle": "2025-07-10 02:08:50 +0000",
       "biomeswevegone:sakura_grove": "2025-07-08 01:22:44 +0000",
       "biomeswevegone:enchanted_tangle": "2025-07-05 18:41:54 +0000",
       "biomeswevegone:temperate_grove": "2025-07-04 22:24:43 +0000",
@@ -12774,9 +12777,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-10 02:10:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_helmet": {
     "criteria": {
       "has_item": "2025-07-10 02:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-10 02:14:19 +0000"
     },
     "done": true
   },
@@ -12786,9 +12801,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-10 02:10:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
     "criteria": {
       "has_dragonscales_green": "2025-07-10 02:02:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood1": {
+    "criteria": {
+      "has_pure_blood": "2025-07-10 02:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-10 02:14:19 +0000"
     },
     "done": true
   },
@@ -12807,6 +12840,12 @@
   "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
       "has_item": "2025-07-10 02:02:12 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ore_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-07-10 02:14:19 +0000"
     },
     "done": true
   },
