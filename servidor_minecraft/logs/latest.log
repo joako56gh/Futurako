@@ -1627,3 +1627,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 03:50:45.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Dual-Wielding Grid
 [10Jul2025 03:50:47.025] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [10Jul2025 03:50:58.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 moved too quickly! 24.75767707627756,30.0,-59.07198414027789
+[10Jul2025 03:57:56.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 moved too quickly! -25.08749742210432,20.246800019478798,21.68364694858701
+[10Jul2025 03:59:39.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 moved too quickly! 11.2173864285553,29.125,-60.58033808858818
