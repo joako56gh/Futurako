@@ -1485,3 +1485,39 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 00:58:54.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaa<--[HERE]
 [10Jul2025 01:00:41.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [10Jul2025 01:00:41.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaa<--[HERE]
+[10Jul2025 01:05:42.032] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=356, y=141, z=7457}
+[10Jul2025 01:07:54.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[10Jul2025 01:07:54.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[10Jul2025 01:07:54.217] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[10Jul2025 01:07:54.219] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[10Jul2025 01:08:01.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:58759] logged in with entity id 7463 at (347.17295430409416, 136.0, 7448.992420408171)
+[10Jul2025 01:08:01.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[10Jul2025 01:08:01.431] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[10Jul2025 01:08:01.432] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[10Jul2025 01:08:01.440] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[10Jul2025 01:08:01.627] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[10Jul2025 01:08:01.627] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[10Jul2025 01:08:09.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[10Jul2025 01:08:10.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[10Jul2025 01:08:10.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[10Jul2025 01:08:40.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 01:08:45.320] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 01:08:45.324] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 01:08:47.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 01:08:58.970] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 01:08:58.975] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 01:09:03.220] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 01:09:03.224] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 01:09:09.168] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[10Jul2025 01:09:09.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was slain by Commander Sam
+[10Jul2025 01:09:09.176] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[10Jul2025 01:09:10.363] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[10Jul2025 01:09:10.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[10Jul2025 01:09:10.366] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 01:09:30.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was slain by Commander Sam
+[10Jul2025 01:09:31.523] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 01:09:36.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 01:10:25.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 01:13:13.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jul2025 01:13:13.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaa<--[HERE]
+[10Jul2025 01:14:58.367] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=340, y=141, z=7463}
