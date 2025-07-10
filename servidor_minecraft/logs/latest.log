@@ -1521,3 +1521,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 01:13:13.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [10Jul2025 01:13:13.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaa<--[HERE]
 [10Jul2025 01:14:58.367] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=340, y=141, z=7463}
+[10Jul2025 01:16:07.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jul2025 01:16:07.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaa<--[HERE]
+[10Jul2025 01:23:34.220] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=339, y=139, z=7467}
