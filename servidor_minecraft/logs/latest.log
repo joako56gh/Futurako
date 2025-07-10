@@ -1467,3 +1467,75 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 01:58:36.010] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
 [10Jul2025 01:59:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
 [10Jul2025 02:00:22.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Berrily Alive]
+[10Jul2025 02:01:00.855] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:01:00.885] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 02:01:07.530] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:01:08.723] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:01:08.727] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 02:01:14.659] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[10Jul2025 02:01:14.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[10Jul2025 02:01:14.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 burned to ashes, they gave up
+[10Jul2025 02:01:14.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[10Jul2025 02:01:16.075] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[10Jul2025 02:01:16.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[10Jul2025 02:01:16.089] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 02:01:17.798] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[10Jul2025 02:01:18.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[10Jul2025 02:01:25.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 02:01:46.054] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[10Jul2025 02:03:00.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 02:03:10.795] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/botania/api/mana/ManaCollisionGhost$Behaviour
+[10Jul2025 02:03:18.000] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:03:18.004] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:03:23.141] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:03:23.152] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:03:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Futuuuro was slain by JOA_KINGSITO7, they gave up
+[10Jul2025 02:03:24.413] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:03:25.670] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 02:03:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 02:03:45.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jul2025 02:03:45.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaaaa<--[HERE]
+[10Jul2025 02:04:11.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Ol' Betsy]
+[10Jul2025 02:04:21.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Take Aim]
+[10Jul2025 02:04:23.208] [Worker-Main-16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/potionstudios/biomeswevegone/world/entity/oddion/Oddion$Variant
+[10Jul2025 02:04:58.867] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3047, y=31, z=5649}
+[10Jul2025 02:04:58.867] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3046, y=31, z=5649}
+[10Jul2025 02:05:11.464] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[10Jul2025 02:05:22.356] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[10Jul2025 02:05:49.367] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Jul2025 02:05:49.367] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Jul2025 02:06:06.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[10Jul2025 02:06:09.078] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[10Jul2025 02:06:09.453] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:06:09.465] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 02:06:15.553] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:06:15.900] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[10Jul2025 02:06:16.833] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:06:16.838] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 02:06:30.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Cachalot Whale, they gave up
+[10Jul2025 02:06:31.920] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 02:06:41.281] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[10Jul2025 02:07:08.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:07:09.799] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[10Jul2025 02:07:09.800] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[10Jul2025 02:07:20.098] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[10Jul2025 02:07:20.099] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[10Jul2025 02:07:20.099] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[10Jul2025 02:07:50.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:07:50.405] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[10Jul2025 02:08:05.477] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[10Jul2025 02:08:10.745] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[10Jul2025 02:08:21.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:08:28.437] [Worker-Main-16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[10Jul2025 02:08:49.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:09:29.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:09:43.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved too quickly! 8.114848106429008,-1.5910585594942006,6.243623231834135
+[10Jul2025 02:09:48.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:10:24.347] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:10:24.354] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 02:10:24.401] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:10:24.408] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:10:30.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was struck with lightning by a dragon
+[10Jul2025 02:10:31.713] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 02:10:51.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was struck with lightning by a dragon
+[10Jul2025 02:10:52.550] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

@@ -9787,3 +9787,392 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [10Jul2025 02:00:15.898] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
 [10Jul2025 02:00:15.922] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
 [10Jul2025 02:00:22.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Berrily Alive]
+[10Jul2025 02:00:27.965] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[10Jul2025 02:00:28.060] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[10Jul2025 02:00:28.102] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[10Jul2025 02:00:28.328] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[10Jul2025 02:00:28.353] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[10Jul2025 02:00:28.440] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[10Jul2025 02:00:28.466] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[10Jul2025 02:00:28.553] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[10Jul2025 02:00:28.556] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[10Jul2025 02:00:28.571] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[10Jul2025 02:00:28.571] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[10Jul2025 02:00:28.572] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[10Jul2025 02:00:51.689] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[10Jul2025 02:00:51.690] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[10Jul2025 02:00:51.690] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[10Jul2025 02:00:51.691] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[10Jul2025 02:00:51.700] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[10Jul2025 02:00:51.701] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[10Jul2025 02:00:51.706] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[10Jul2025 02:00:51.707] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[10Jul2025 02:00:51.723] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[10Jul2025 02:01:00.855] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:01:00.885] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 02:01:07.530] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:01:08.723] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:01:08.727] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 02:01:14.659] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[10Jul2025 02:01:14.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[10Jul2025 02:01:14.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 burned to ashes, they gave up
+[10Jul2025 02:01:14.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[10Jul2025 02:01:14.671] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:-3233, y:68, z:5898, dim:minecraft:overworld]
+[10Jul2025 02:01:16.065] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
+[10Jul2025 02:01:16.075] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[10Jul2025 02:01:16.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[10Jul2025 02:01:16.089] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 02:01:17.798] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[10Jul2025 02:01:18.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[10Jul2025 02:01:19.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/taiga/houses/hunter_trainer
+[10Jul2025 02:01:19.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:kakariko_village_goddess_statue
+[10Jul2025 02:01:19.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:taiga_village_horned_statue
+[10Jul2025 02:01:19.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[10Jul2025 02:01:19.330] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vampirism:village/taiga/houses/taiga_temple_1
+[10Jul2025 02:01:19.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house_taiga
+[10Jul2025 02:01:19.984] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
+[10Jul2025 02:01:25.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 02:01:42.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:01:42.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:01:46.054] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[10Jul2025 02:02:54.243] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy2
+[10Jul2025 02:03:00.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 02:03:10.795] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/botania/api/mana/ManaCollisionGhost$Behaviour
+[10Jul2025 02:03:18.000] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:03:18.004] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:03:23.141] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:03:23.152] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:03:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Futuuuro was slain by JOA_KINGSITO7, they gave up
+[10Jul2025 02:03:24.410] [Server thread/DEBUG] [tombstone/]: A new grave of the player Futuuuro was created at position [x:-3337, y:66, z:5804, dim:minecraft:overworld]
+[10Jul2025 02:03:24.413] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:03:25.670] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Futuuuro has new faction level vampirism:vampire 1
+[10Jul2025 02:03:25.670] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 02:03:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[10Jul2025 02:03:34.297] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.47 and blood value 15 for entity alexsmobs:crocodile
+[10Jul2025 02:03:45.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Jul2025 02:03:45.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaaaa<--[HERE]
+[10Jul2025 02:03:54.412] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk1
+[10Jul2025 02:03:54.417] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk3
+[10Jul2025 02:03:56.522] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk2
+[10Jul2025 02:04:11.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Ol' Betsy]
+[10Jul2025 02:04:21.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has made the advancement [Take Aim]
+[10Jul2025 02:04:23.208] [Worker-Main-16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/potionstudios/biomeswevegone/world/entity/oddion/Oddion$Variant
+[10Jul2025 02:04:28.171] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_trunk1
+[10Jul2025 02:04:28.173] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy1
+[10Jul2025 02:04:58.867] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3047, y=31, z=5649}
+[10Jul2025 02:04:58.867] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3046, y=31, z=5649}
+[10Jul2025 02:05:00.607] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:ice_dragon
+[10Jul2025 02:05:06.289] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy1
+[10Jul2025 02:05:11.464] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[10Jul2025 02:05:12.140] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy4
+[10Jul2025 02:05:22.356] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[10Jul2025 02:05:49.367] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Jul2025 02:05:49.367] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[10Jul2025 02:05:55.330] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_1
+[10Jul2025 02:05:55.331] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_1
+[10Jul2025 02:05:55.338] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_5
+[10Jul2025 02:05:55.340] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_5
+[10Jul2025 02:05:55.383] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_2
+[10Jul2025 02:05:55.384] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_2
+[10Jul2025 02:05:55.388] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_3
+[10Jul2025 02:05:55.390] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_3
+[10Jul2025 02:05:59.512] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 7.477s
+[10Jul2025 02:06:06.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[10Jul2025 02:06:09.078] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[10Jul2025 02:06:09.453] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:06:09.465] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 02:06:15.553] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:06:15.900] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[10Jul2025 02:06:16.833] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:06:16.838] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 02:06:30.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Cachalot Whale, they gave up
+[10Jul2025 02:06:30.763] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:-3168, y:64, z:5548, dim:minecraft:overworld]
+[10Jul2025 02:06:31.919] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
+[10Jul2025 02:06:31.920] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 02:06:41.281] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[10Jul2025 02:06:42.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:06:42.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:07:02.805] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jul2025 02:07:08.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:07:09.799] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[10Jul2025 02:07:09.800] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[10Jul2025 02:07:16.194] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity alexsmobs:sugar_glider
+[10Jul2025 02:07:20.098] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[10Jul2025 02:07:20.099] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[10Jul2025 02:07:20.099] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[10Jul2025 02:07:25.963] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2571, y=58, z=6903}
+[10Jul2025 02:07:25.966] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2594, y=51, z=6874}
+[10Jul2025 02:07:26.162] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2571, y=58, z=6903}
+[10Jul2025 02:07:26.164] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2594, y=51, z=6874}
+[10Jul2025 02:07:26.170] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2571, y=58, z=6903}
+[10Jul2025 02:07:29.836] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2608, y=70, z=6880}
+[10Jul2025 02:07:29.838] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2576, y=65, z=6883}
+[10Jul2025 02:07:29.838] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2571, y=58, z=6903}
+[10Jul2025 02:07:29.895] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2608, y=70, z=6880}
+[10Jul2025 02:07:29.903] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2576, y=65, z=6883}
+[10Jul2025 02:07:29.903] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2571, y=58, z=6903}
+[10Jul2025 02:07:29.906] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2588, y=51, z=6894}
+[10Jul2025 02:07:29.906] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2588, y=51, z=6881}
+[10Jul2025 02:07:29.906] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2594, y=51, z=6874}
+[10Jul2025 02:07:29.906] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2581, y=51, z=6881}
+[10Jul2025 02:07:29.917] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2608, y=70, z=6880}
+[10Jul2025 02:07:29.919] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2571, y=58, z=6903}
+[10Jul2025 02:07:29.920] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2588, y=51, z=6894}
+[10Jul2025 02:07:29.920] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2588, y=51, z=6881}
+[10Jul2025 02:07:29.920] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2601, y=51, z=6887}
+[10Jul2025 02:07:29.921] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2594, y=51, z=6874}
+[10Jul2025 02:07:31.470] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2608, y=70, z=6880}
+[10Jul2025 02:07:31.472] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2571, y=58, z=6903}
+[10Jul2025 02:07:32.083] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2608, y=70, z=6880}
+[10Jul2025 02:07:32.085] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2571, y=58, z=6903}
+[10Jul2025 02:07:32.156] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2608, y=70, z=6880}
+[10Jul2025 02:07:32.159] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2571, y=58, z=6903}
+[10Jul2025 02:07:33.995] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity alexsmobs:potoo
+[10Jul2025 02:07:47.478] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_trunk_4
+[10Jul2025 02:07:47.478] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/witch-hazel/witch-hazel_canopy_4
+[10Jul2025 02:07:50.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:07:50.405] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[10Jul2025 02:07:56.430] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/villagers/baby
+[10Jul2025 02:07:56.434] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/villagers/unemployed
+[10Jul2025 02:07:56.460] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_toolsmith_1
+[10Jul2025 02:07:56.465] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_cartographer_house_1
+[10Jul2025 02:07:56.468] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_medium_house_2
+[10Jul2025 02:07:56.470] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_weaponsmith_1
+[10Jul2025 02:07:56.473] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_armorsmith_1
+[10Jul2025 02:07:56.475] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_butcher_shop_1
+[10Jul2025 02:07:56.477] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_medium_house_1
+[10Jul2025 02:07:56.513] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_small_house_2
+[10Jul2025 02:07:56.516] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_forager_1
+[10Jul2025 02:07:56.519] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_small_house_3
+[10Jul2025 02:07:56.521] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_medium_house_3
+[10Jul2025 02:07:56.533] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_large_farm_1
+[10Jul2025 02:07:56.538] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_tannery_1
+[10Jul2025 02:07:56.541] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_shepherd_house_1
+[10Jul2025 02:07:56.542] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_fisher_1
+[10Jul2025 02:07:56.547] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_medium_house_4
+[10Jul2025 02:07:56.631] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_small_farm_2
+[10Jul2025 02:07:56.633] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_mason_1
+[10Jul2025 02:07:56.669] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_fletcher_house_1
+[10Jul2025 02:07:56.755] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_animal_pen_1
+[10Jul2025 02:07:56.844] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/salem/houses/salem_small_farm_1
+[10Jul2025 02:08:01.257] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ebony/ebony_trunk1
+[10Jul2025 02:08:01.261] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ebony/ebony_canopy1
+[10Jul2025 02:08:01.263] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/tropical_shrub_canopy1
+[10Jul2025 02:08:01.264] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_trunk1
+[10Jul2025 02:08:01.266] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy1
+[10Jul2025 02:08:03.548] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/rainbow-eucalyptus/rainbow_eucalyptus_tree_canopy1
+[10Jul2025 02:08:03.554] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy3
+[10Jul2025 02:08:03.555] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_trunk4
+[10Jul2025 02:08:03.563] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy4
+[10Jul2025 02:08:04.042] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/mahogany/mahogany_tree_canopy2
+[10Jul2025 02:08:05.218] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_trunk2
+[10Jul2025 02:08:05.219] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/oak_canopy2
+[10Jul2025 02:08:05.223] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/rainbow-eucalyptus/rainbow_eucalyptus_tree_large_trunk1
+[10Jul2025 02:08:05.225] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/rainbow-eucalyptus/rainbow_eucalyptus_tree_large_canopy1
+[10Jul2025 02:08:05.477] [Worker-Main-5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[10Jul2025 02:08:10.745] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[10Jul2025 02:08:10.752] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[10Jul2025 02:08:12.674] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ebony/ebony_bush_trunk
+[10Jul2025 02:08:12.677] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ebony/ebony_canopy2
+[10Jul2025 02:08:14.551] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[10Jul2025 02:08:14.575] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[10Jul2025 02:08:14.595] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_3
+[10Jul2025 02:08:14.605] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[10Jul2025 02:08:14.715] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[10Jul2025 02:08:14.752] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[10Jul2025 02:08:18.963] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ebony/ebony_trunk2
+[10Jul2025 02:08:21.426] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_trunk_2
+[10Jul2025 02:08:21.428] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_canopy_2
+[10Jul2025 02:08:21.429] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_trunk_1
+[10Jul2025 02:08:21.432] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_canopy_1
+[10Jul2025 02:08:21.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:08:23.436] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_trunk_3
+[10Jul2025 02:08:23.443] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/enchanted/enchanted_canopy_3
+[10Jul2025 02:08:28.437] [Worker-Main-16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[10Jul2025 02:08:28.956] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=25, z=7134}
+[10Jul2025 02:08:28.964] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=25, z=7134}
+[10Jul2025 02:08:28.976] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=25, z=7134}
+[10Jul2025 02:08:31.890] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=25, z=7134}
+[10Jul2025 02:08:32.269] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2102, y=25, z=7137}
+[10Jul2025 02:08:32.270] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=25, z=7134}
+[10Jul2025 02:08:32.271] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2103, y=25, z=7146}
+[10Jul2025 02:08:32.281] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2126, y=12, z=7152}
+[10Jul2025 02:08:32.282] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2128, y=12, z=7146}
+[10Jul2025 02:08:32.289] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=25, z=7134}
+[10Jul2025 02:08:34.853] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2146, y=12, z=7159}
+[10Jul2025 02:08:34.853] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2146, y=12, z=7154}
+[10Jul2025 02:08:34.853] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2136, y=12, z=7160}
+[10Jul2025 02:08:34.858] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2131, y=25, z=7166}
+[10Jul2025 02:08:34.859] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2146, y=12, z=7159}
+[10Jul2025 02:08:34.859] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2146, y=12, z=7154}
+[10Jul2025 02:08:34.859] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2136, y=12, z=7160}
+[10Jul2025 02:08:34.922] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2126, y=25, z=7171}
+[10Jul2025 02:08:34.922] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2113, y=12, z=7167}
+[10Jul2025 02:08:34.923] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2131, y=25, z=7166}
+[10Jul2025 02:08:34.923] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2114, y=12, z=7153}
+[10Jul2025 02:08:34.924] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2115, y=12, z=7162}
+[10Jul2025 02:08:34.925] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2126, y=12, z=7152}
+[10Jul2025 02:08:34.936] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2102, y=25, z=7155}
+[10Jul2025 02:08:34.937] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2103, y=25, z=7172}
+[10Jul2025 02:08:34.937] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2102, y=25, z=7137}
+[10Jul2025 02:08:34.937] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2126, y=25, z=7171}
+[10Jul2025 02:08:34.938] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2113, y=12, z=7167}
+[10Jul2025 02:08:34.938] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=12, z=7167}
+[10Jul2025 02:08:34.939] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2131, y=25, z=7166}
+[10Jul2025 02:08:35.352] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=12, z=7167}
+[10Jul2025 02:08:36.774] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=25, z=7170}
+[10Jul2025 02:08:36.775] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2082, y=-2, z=7183}
+[10Jul2025 02:08:36.782] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=25, z=7170}
+[10Jul2025 02:08:36.783] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2087, y=12, z=7175}
+[10Jul2025 02:08:36.783] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2082, y=12, z=7168}
+[10Jul2025 02:08:36.784] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2082, y=-2, z=7183}
+[10Jul2025 02:08:36.784] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2088, y=12, z=7192}
+[10Jul2025 02:08:36.792] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2098, y=25, z=7190}
+[10Jul2025 02:08:36.793] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2105, y=12, z=7190}
+[10Jul2025 02:08:36.794] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2102, y=25, z=7155}
+[10Jul2025 02:08:36.794] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2103, y=25, z=7183}
+[10Jul2025 02:08:36.794] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=25, z=7170}
+[10Jul2025 02:08:36.795] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2104, y=19, z=7180}
+[10Jul2025 02:08:36.795] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2103, y=25, z=7172}
+[10Jul2025 02:08:36.795] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2082, y=12, z=7168}
+[10Jul2025 02:08:36.795] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2126, y=25, z=7171}
+[10Jul2025 02:08:37.232] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2105, y=12, z=7190}
+[10Jul2025 02:08:37.233] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2126, y=25, z=7171}
+[10Jul2025 02:08:37.233] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2118, y=23, z=7172}
+[10Jul2025 02:08:37.234] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2115, y=12, z=7162}
+[10Jul2025 02:08:37.247] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2118, y=23, z=7172}
+[10Jul2025 02:08:42.083] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2118, y=23, z=7172}
+[10Jul2025 02:08:42.217] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=12, z=7191}
+[10Jul2025 02:08:42.217] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2105, y=12, z=7190}
+[10Jul2025 02:08:42.270] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2118, y=23, z=7172}
+[10Jul2025 02:08:42.288] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=25, z=7191}
+[10Jul2025 02:08:42.288] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=12, z=7191}
+[10Jul2025 02:08:42.289] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2098, y=25, z=7190}
+[10Jul2025 02:08:42.289] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2105, y=12, z=7190}
+[10Jul2025 02:08:42.290] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=25, z=7170}
+[10Jul2025 02:08:42.290] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2104, y=19, z=7180}
+[10Jul2025 02:08:42.290] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2099, y=12, z=7186}
+[10Jul2025 02:08:42.290] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2100, y=12, z=7196}
+[10Jul2025 02:08:42.304] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=25, z=7191}
+[10Jul2025 02:08:42.304] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2089, y=12, z=7193}
+[10Jul2025 02:08:42.305] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=25, z=7170}
+[10Jul2025 02:08:42.306] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2087, y=12, z=7175}
+[10Jul2025 02:08:42.306] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2090, y=12, z=7205}
+[10Jul2025 02:08:42.306] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2082, y=-2, z=7183}
+[10Jul2025 02:08:42.307] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2088, y=12, z=7192}
+[10Jul2025 02:08:42.307] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2099, y=12, z=7186}
+[10Jul2025 02:08:42.507] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2097, y=25, z=7170}
+[10Jul2025 02:08:42.507] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2080, y=12, z=7196}
+[10Jul2025 02:08:42.508] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2082, y=-2, z=7183}
+[10Jul2025 02:08:49.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:08:50.749] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[10Jul2025 02:08:51.268] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:08:51.280] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:08:51.286] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=25, z=7191}
+[10Jul2025 02:08:51.286] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=12, z=7191}
+[10Jul2025 02:08:51.295] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:08:51.300] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=12, z=7191}
+[10Jul2025 02:08:51.308] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:08:51.567] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2080, y=12, z=7196}
+[10Jul2025 02:08:51.573] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:08:51.576] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=25, z=7191}
+[10Jul2025 02:08:51.576] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2095, y=12, z=7208}
+[10Jul2025 02:08:51.577] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2089, y=12, z=7193}
+[10Jul2025 02:08:51.577] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2090, y=12, z=7205}
+[10Jul2025 02:08:56.797] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:08:56.798] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:08:56.798] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:08:56.798] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:08:57.455] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:08:57.579] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:08:57.602] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:08:57.618] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:08:57.924] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:08:57.927] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2095, y=12, z=7208}
+[10Jul2025 02:09:00.895] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:09:00.895] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:09:04.678] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:09:04.686] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:09:04.689] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2125, y=12, z=7264}
+[10Jul2025 02:09:05.128] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:09:05.136] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:09:05.140] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2124, y=12, z=7233}
+[10Jul2025 02:09:05.146] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2096, y=12, z=7232}
+[10Jul2025 02:09:05.149] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2124, y=12, z=7233}
+[10Jul2025 02:09:05.150] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2125, y=12, z=7264}
+[10Jul2025 02:09:08.296] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:09:08.296] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:09:08.297] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:09:08.297] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:09:09.745] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:09:09.745] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:09:09.746] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:09:09.746] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[10Jul2025 02:09:11.541] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2111, y=10, z=7263}
+[10Jul2025 02:09:11.678] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2124, y=12, z=7233}
+[10Jul2025 02:09:11.678] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=12, z=7271}
+[10Jul2025 02:09:11.678] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2111, y=10, z=7263}
+[10Jul2025 02:09:11.684] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2124, y=12, z=7233}
+[10Jul2025 02:09:11.684] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2125, y=12, z=7264}
+[10Jul2025 02:09:11.685] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=12, z=7271}
+[10Jul2025 02:09:11.685] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2117, y=12, z=7272}
+[10Jul2025 02:09:11.690] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2125, y=12, z=7264}
+[10Jul2025 02:09:11.691] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2132, y=12, z=7282}
+[10Jul2025 02:09:12.018] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_trunk_3
+[10Jul2025 02:09:12.019] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_canopy_3
+[10Jul2025 02:09:13.355] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:lightning_dragon
+[10Jul2025 02:09:14.542] [Worker-Main-16/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2111, y=10, z=7263}
+[10Jul2025 02:09:14.925] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=12, z=7271}
+[10Jul2025 02:09:14.925] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2111, y=10, z=7263}
+[10Jul2025 02:09:14.931] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2125, y=12, z=7264}
+[10Jul2025 02:09:14.932] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2112, y=12, z=7271}
+[10Jul2025 02:09:14.932] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2117, y=12, z=7272}
+[10Jul2025 02:09:14.933] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2131, y=12, z=7267}
+[10Jul2025 02:09:14.933] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2125, y=12, z=7265}
+[10Jul2025 02:09:14.940] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2125, y=12, z=7264}
+[10Jul2025 02:09:14.940] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2132, y=12, z=7282}
+[10Jul2025 02:09:14.941] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2131, y=12, z=7267}
+[10Jul2025 02:09:14.941] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2145, y=12, z=7276}
+[10Jul2025 02:09:15.004] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2145, y=12, z=7276}
+[10Jul2025 02:09:19.011] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2111, y=10, z=7263}
+[10Jul2025 02:09:19.023] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2111, y=10, z=7263}
+[10Jul2025 02:09:19.035] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2132, y=12, z=7282}
+[10Jul2025 02:09:19.035] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2145, y=12, z=7276}
+[10Jul2025 02:09:19.375] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2145, y=12, z=7276}
+[10Jul2025 02:09:19.376] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2151, y=12, z=7294}
+[10Jul2025 02:09:19.376] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2146, y=12, z=7291}
+[10Jul2025 02:09:19.377] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2152, y=12, z=7303}
+[10Jul2025 02:09:19.777] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_trunk_2
+[10Jul2025 02:09:19.777] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_canopy_2
+[10Jul2025 02:09:25.653] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:toucan
+[10Jul2025 02:09:28.267] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_trunk4
+[10Jul2025 02:09:28.269] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_canopy4
+[10Jul2025 02:09:29.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:09:37.706] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[10Jul2025 02:09:37.796] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[10Jul2025 02:09:38.044] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[10Jul2025 02:09:42.811] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_trunk_4
+[10Jul2025 02:09:42.812] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_canopy_4
+[10Jul2025 02:09:43.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved too quickly! 8.114848106429008,-1.5910585594942006,6.243623231834135
+[10Jul2025 02:09:46.082] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_trunk1
+[10Jul2025 02:09:46.082] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_canopy1
+[10Jul2025 02:09:46.124] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_trunk2
+[10Jul2025 02:09:46.126] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/ironwood/ironwood_canopy2
+[10Jul2025 02:09:46.547] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.81 and blood value 15 for entity iceandfire:amphithere
+[10Jul2025 02:09:48.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[10Jul2025 02:10:06.795] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.81 and blood value 15 for entity iceandfire:amphithere
+[10Jul2025 02:10:06.795] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 7.81 and blood value 15 for entity iceandfire:amphithere
+[10Jul2025 02:10:06.855] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_trunk_1
+[10Jul2025 02:10:06.856] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/jacaranda/jacaranda_canopy_1
+[10Jul2025 02:10:24.347] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[10Jul2025 02:10:24.354] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[10Jul2025 02:10:24.401] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[10Jul2025 02:10:24.408] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[10Jul2025 02:10:30.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 was struck with lightning by a dragon
+[10Jul2025 02:10:30.519] [Server thread/DEBUG] [tombstone/]: A new grave of the player JOA_KINGSITO7 was created at position [x:-1745, y:72, z:7128, dim:minecraft:overworld]
+[10Jul2025 02:10:31.713] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: JOA_KINGSITO7 has new faction level vampirism:vampire 1
+[10Jul2025 02:10:31.713] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 02:10:51.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro was struck with lightning by a dragon
+[10Jul2025 02:10:51.253] [Server thread/DEBUG] [tombstone/]: A new grave of the player Futuuuro was created at position [x:-1741, y:68, z:7145, dim:minecraft:overworld]
+[10Jul2025 02:10:52.549] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Futuuuro has new faction level vampirism:vampire 1
+[10Jul2025 02:10:52.550] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
