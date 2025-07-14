@@ -1570,3 +1570,67 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [14Jul2025 03:17:48.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Gave 64 [Connecting Glass] to JOA_KINGSITO7]
 [14Jul2025 03:18:20.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Gave 64 [Connecting Glass] to JOA_KINGSITO7]
 [14Jul2025 03:18:49.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Gave 64 [Connecting Glass] to JOA_KINGSITO7]
+[14Jul2025 03:19:40.966] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[14Jul2025 03:19:40.970] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[14Jul2025 03:19:40.974] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[14Jul2025 03:19:48.206] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[14Jul2025 03:19:49.655] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[14Jul2025 03:19:49.660] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[14Jul2025 03:19:55.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[14Jul2025 03:19:55.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Futuuuro was doomed to fall by JOA_KINGSITO7, they gave up
+[14Jul2025 03:19:55.363] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[14Jul2025 03:19:56.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[14Jul2025 03:19:56.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[14Jul2025 03:19:56.656] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jul2025 03:20:01.798] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[14Jul2025 03:21:07.805] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[14Jul2025 03:21:07.809] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[14Jul2025 03:21:11.406] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[14Jul2025 03:21:11.411] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[14Jul2025 03:21:12.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Futuuuro, they gave up
+[14Jul2025 03:21:12.587] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[14Jul2025 03:21:13.713] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jul2025 03:21:18.388] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[14Jul2025 03:21:32.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 has reached the goal [Die Classy]
+[14Jul2025 03:21:44.020] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[14Jul2025 03:21:44.024] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[14Jul2025 03:21:47.491] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[14Jul2025 03:21:47.495] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[14Jul2025 03:21:48.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Futuuuro, they gave up
+[14Jul2025 03:21:48.765] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[14Jul2025 03:21:49.922] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Jul2025 03:22:01.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: Disconnected
+[14Jul2025 03:22:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[14Jul2025 03:22:01.403] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[14Jul2025 03:22:07.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 lost connection: Disconnected
+[14Jul2025 03:22:07.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 left the game
+[14Jul2025 03:22:07.702] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO7
+[14Jul2025 03:22:12.051] [pool-13-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Stopping PendingImageUpdateThread
+[14Jul2025 03:22:12.053] [pool-5-thread-1/ERROR] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Interrupted during recomputeThreadpool wait
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method) ~[?:?]
+	at com.dairymoose.modernlife.core.ModernLifeCommon$2.run(ModernLifeCommon.java:695) ~[modernlife-1.20.1-1.75.jar%23326!/:1.20.1-1.75]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Jul2025 03:22:12.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Jul2025 03:22:12.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Jul2025 03:22:12.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Jul2025 03:22:12.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Jul2025 03:22:12.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[14Jul2025 03:22:12.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Jul2025 03:22:12.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[14Jul2025 03:22:12.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[14Jul2025 03:22:12.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Jul2025 03:22:12.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Jul2025 03:22:12.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[14Jul2025 03:22:12.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Jul2025 03:22:12.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[14Jul2025 03:22:12.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[14Jul2025 03:22:12.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Jul2025 03:22:12.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Jul2025 03:22:13.290] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14Jul2025 03:22:13.291] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[14Jul2025 03:22:13.293] [Server thread/INFO] [Framework/]: Finished unloading server configs
