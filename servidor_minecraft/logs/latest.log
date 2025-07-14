@@ -1493,3 +1493,54 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [14Jul2025 02:48:27.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [14Jul2025 02:48:27.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaaaaaaaaa<--[HERE]
 [14Jul2025 02:48:54.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1457f291-d123-3a93-b230-242c3d4ef6de
+[14Jul2025 02:48:55.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1457f291-d123-3a93-b230-242c3d4ef6de
+[14Jul2025 02:48:55.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat
+[14Jul2025 02:49:14.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[14Jul2025 02:49:54.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 539afb35-e210-35da-b6bb-7a8f5d937c65 timed out
+[14Jul2025 02:49:54.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Futuuuro
+[14Jul2025 02:49:54.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[14Jul2025 02:49:56.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[14Jul2025 02:49:57.404] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[14Jul2025 02:49:57.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[14Jul2025 02:49:57.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[14Jul2025 02:50:15.105] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[14Jul2025 02:50:15.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved too quickly! 10.226977506471712,-0.41999998688697815,1.0051398086252448
+[14Jul2025 02:50:40.105] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
+[14Jul2025 02:50:45.903] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/botania/api/mana/ManaCollisionGhost$Behaviour
+[14Jul2025 02:51:23.655] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=358, y=135, z=7451}
+[14Jul2025 02:51:52.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[14Jul2025 02:52:20.403] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[14Jul2025 02:52:20.404] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[14Jul2025 02:53:29.756] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=339, y=141, z=7472}
+[14Jul2025 02:53:36.966] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 539afb35-e210-35da-b6bb-7a8f5d937c65 timed out
+[14Jul2025 02:53:36.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Futuuuro
+[14Jul2025 02:53:36.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[14Jul2025 02:53:36.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1457f291-d123-3a93-b230-242c3d4ef6de timed out
+[14Jul2025 02:53:36.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JOA_KINGSITO7
+[14Jul2025 02:53:36.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7
+[14Jul2025 02:53:37.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1457f291-d123-3a93-b230-242c3d4ef6de
+[14Jul2025 02:53:37.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[14Jul2025 02:53:38.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1457f291-d123-3a93-b230-242c3d4ef6de
+[14Jul2025 02:53:38.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat
+[14Jul2025 02:53:38.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[14Jul2025 02:53:38.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[14Jul2025 02:55:03.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
+[14Jul2025 02:55:38.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/api/entity/player/vampire/IVampirePlayer$BITE_TYPE
+[14Jul2025 02:55:53.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 539afb35-e210-35da-b6bb-7a8f5d937c65 timed out
+[14Jul2025 02:55:53.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Futuuuro
+[14Jul2025 02:55:53.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[14Jul2025 02:55:55.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro lost connection: You logged in from another location
+[14Jul2025 02:55:55.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro left the game
+[14Jul2025 02:55:55.554] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Futuuuro
+[14Jul2025 02:55:55.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:38365] logged in with entity id 5731 at (340.0173553335907, 137.0, 7494.78584742262)
+[14Jul2025 02:55:55.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[14Jul2025 02:55:55.713] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[14Jul2025 02:55:55.713] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[14Jul2025 02:55:55.720] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[14Jul2025 02:55:55.905] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[14Jul2025 02:55:55.906] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[14Jul2025 02:56:11.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[14Jul2025 02:56:12.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[14Jul2025 02:56:12.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[14Jul2025 02:56:44.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved too quickly! -0.9651134458426895,-1.0244240882136637,-9.9747141245889
+[14Jul2025 02:57:22.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported JOA_KINGSITO7 to Futuuuro]
