@@ -1431,3 +1431,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [15Jul2025 22:43:45.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Successfully filled 664 block(s)]
 [15Jul2025 22:44:40.194] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [15Jul2025 22:52:47.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Successfully filled 342 block(s)]
+[15Jul2025 23:02:45.328] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
