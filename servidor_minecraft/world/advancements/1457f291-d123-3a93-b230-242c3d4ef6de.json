@@ -12951,18 +12951,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/scratched_glass_orange2": {
-    "criteria": {
-      "recipe_condition1": "2025-07-14 03:16:41 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_black2": {
-    "criteria": {
-      "recipe_condition1": "2025-07-14 03:16:41 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/scratched_glass1": {
     "criteria": {
       "recipe_condition": "2025-07-14 03:15:59 +0000"
@@ -12972,18 +12960,6 @@
   "connectedglass:recipes/misc/clear_glass_black2": {
     "criteria": {
       "recipe_condition1": "2025-07-14 03:15:59 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_green2": {
-    "criteria": {
-      "recipe_condition1": "2025-07-14 03:16:41 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_gray2": {
-    "criteria": {
-      "recipe_condition1": "2025-07-14 03:16:41 +0000"
     },
     "done": true
   },
@@ -12999,63 +12975,15 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/scratched_glass_brown2": {
-    "criteria": {
-      "recipe_condition1": "2025-07-14 03:16:41 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_lime2": {
-    "criteria": {
-      "recipe_condition1": "2025-07-14 03:16:41 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_pane3": {
-    "criteria": {
-      "recipe_condition": "2025-07-14 03:16:41 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/clear_glass_white2": {
     "criteria": {
       "recipe_condition1": "2025-07-14 03:15:59 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/scratched_glass_purple2": {
-    "criteria": {
-      "recipe_condition1": "2025-07-14 03:16:41 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/clear_glass_green2": {
     "criteria": {
       "recipe_condition1": "2025-07-14 03:15:59 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_white2": {
-    "criteria": {
-      "recipe_condition1": "2025-07-14 03:16:41 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_yellow2": {
-    "criteria": {
-      "recipe_condition1": "2025-07-14 03:16:41 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_cyan2": {
-    "criteria": {
-      "recipe_condition1": "2025-07-14 03:16:41 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/vanilla_glass": {
-    "criteria": {
-      "recipe_condition": "2025-07-14 03:16:41 +0000"
     },
     "done": true
   },
@@ -13089,15 +13017,105 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/scratched_glass_light_gray2": {
+  "connectedglass:recipes/misc/clear_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:15:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:15:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:15:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_purple2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:15:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_orange2": {
     "criteria": {
       "recipe_condition1": "2025-07-14 03:16:41 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_yellow2": {
+  "connectedglass:recipes/misc/scratched_glass_black2": {
     "criteria": {
-      "recipe_condition1": "2025-07-14 03:15:59 +0000"
+      "recipe_condition1": "2025-07-14 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-07-14 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_purple2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_white2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/vanilla_glass": {
+    "criteria": {
+      "recipe_condition": "2025-07-14 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-14 03:16:41 +0000"
     },
     "done": true
   },
@@ -13113,33 +13131,15 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_magenta2": {
-    "criteria": {
-      "recipe_condition1": "2025-07-14 03:15:59 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_grave_type": {
-    "criteria": {
-      "coded_trigger": "2025-07-14 03:21:32 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/scratched_glass_red2": {
     "criteria": {
       "recipe_condition1": "2025-07-14 03:16:41 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_light_blue2": {
+  "tombstone:adventure/choose_grave_type": {
     "criteria": {
-      "recipe_condition1": "2025-07-14 03:15:59 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_purple2": {
-    "criteria": {
-      "recipe_condition1": "2025-07-14 03:15:59 +0000"
+      "coded_trigger": "2025-07-14 03:21:32 +0000"
     },
     "done": true
   },
