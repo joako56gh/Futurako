@@ -1598,3 +1598,75 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [16Jul2025 02:13:42.250] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
 [16Jul2025 02:13:48.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 burned to ashes, they gave up
 [16Jul2025 02:13:49.322] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Jul2025 02:16:15.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:60775] logged in with entity id 22279 at (137.47416289340637, 36.0, 107.05191996641865)
+[16Jul2025 02:16:15.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[16Jul2025 02:16:15.164] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[16Jul2025 02:16:15.164] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[16Jul2025 02:16:15.172] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[16Jul2025 02:16:15.386] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[16Jul2025 02:16:15.387] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[16Jul2025 02:16:23.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[16Jul2025 02:16:25.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[16Jul2025 02:16:25.415] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[16Jul2025 02:19:09.715] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:19:09.719] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[16Jul2025 02:19:15.763] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:19:17.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[16Jul2025 02:19:18.652] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:19:18.663] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[16Jul2025 02:19:24.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Futuuuro fell from a high place, they gave up
+[16Jul2025 02:19:25.463] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Jul2025 02:19:28.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[16Jul2025 02:20:29.262] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:20:29.267] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[16Jul2025 02:20:35.963] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[16Jul2025 02:20:35.970] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[16Jul2025 02:20:39.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[16Jul2025 02:20:52.572] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[16Jul2025 02:20:53.768] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[16Jul2025 02:20:53.771] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[16Jul2025 02:21:29.212] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:21:35.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JOA_KINGSITO7> aaaaaa
+[16Jul2025 02:21:38.769] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:21:38.773] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[16Jul2025 02:21:40.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Netherite Monstrosity, they gave up
+[16Jul2025 02:21:42.316] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Jul2025 02:21:44.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Futuuuro was slain by Netherite Monstrosity, they gave up
+[16Jul2025 02:21:45.742] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Jul2025 02:22:18.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[16Jul2025 02:22:43.315] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=127, y=40, z=81}
+[16Jul2025 02:22:48.266] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=127, y=41, z=83}
+[16Jul2025 02:22:49.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro has made the advancement [Take Aim]
+[16Jul2025 02:23:16.962] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:23:16.969] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[16Jul2025 02:23:41.255] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:23:42.638] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:23:42.642] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[16Jul2025 02:23:48.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Futuuuro was slain by Netherite Monstrosity, they gave up
+[16Jul2025 02:23:49.559] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Jul2025 02:23:50.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[16Jul2025 02:23:58.263] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[16Jul2025 02:23:58.269] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[16Jul2025 02:24:04.153] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[16Jul2025 02:24:07.906] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[16Jul2025 02:24:07.914] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[16Jul2025 02:24:13.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Netherite Monstrosity, they gave up
+[16Jul2025 02:24:14.901] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Jul2025 02:24:35.963] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:24:35.968] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[16Jul2025 02:24:40.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[16Jul2025 02:24:58.514] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:24:58.518] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[16Jul2025 02:25:04.204] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:25:05.440] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:25:05.445] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[16Jul2025 02:25:10.362] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[16Jul2025 02:25:10.367] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[16Jul2025 02:25:10.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Futuuuro hit the ground too hard whilst trying to escape Netherite Monstrosity, they gave up
+[16Jul2025 02:25:12.139] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Jul2025 02:25:16.541] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[16Jul2025 02:25:36.636] [Server thread/WARN] [tombstone/]: The death event of the player JOA_KINGSITO7 was canceled by another mod
+[16Jul2025 02:25:36.640] [Server thread/INFO] [tombstone/]: The player JOA_KINGSITO7 has successfully been saved
+[16Jul2025 02:25:42.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After JOA_KINGSITO7 was slain by Netherite Monstrosity, they gave up
+[16Jul2025 02:25:45.380] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Jul2025 02:25:54.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
