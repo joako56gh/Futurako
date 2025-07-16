@@ -703,12 +703,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-07-16 01:24:34 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/end": {
     "criteria": {
       "has_end_brick": "2025-07-16 01:24:33 +0000"
@@ -908,12 +902,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:windswept_savanna": "2025-07-16 01:24:34 +0000"
-    },
-    "done": false
-  },
   "mcwfencesbyg:recipes/brown_birch_hedge": {
     "criteria": {
       "has_birch": "2025-07-16 01:24:33 +0000"
@@ -936,6 +924,242 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2025-07-16 01:24:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-07-16 01:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-07-16 01:39:30 +0000",
+      "minecraft:windswept_savanna": "2025-07-16 01:24:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/transportation/cursed_spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:allium_shrubland": "2025-07-16 01:40:19 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:basalt_barrera": "2025-07-16 01:40:20 +0000",
+      "biomeswevegone:allium_shrubland": "2025-07-16 01:40:19 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/florus_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/transportation/dark_spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_boat": {
+    "criteria": {
+      "in_water": "2025-07-16 01:38:44 +0000"
     },
     "done": true
   },
