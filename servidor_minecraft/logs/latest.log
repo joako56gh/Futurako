@@ -1417,3 +1417,52 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [16Jul2025 01:49:16.411] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [16Jul2025 01:49:55.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [16Jul2025 01:50:24.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[16Jul2025 01:56:43.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Futuuuro[/127.149.17.62:54021] logged in with entity id 3167 at (344.10750623369904, 136.0, 7465.2806244252815)
+[16Jul2025 01:56:43.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Futuuuro joined the game
+[16Jul2025 01:56:43.150] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Futuuuro'
+[16Jul2025 01:56:43.151] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Futuuuro'
+[16Jul2025 01:56:43.161] [Server thread/INFO] [Jade/]: Syncing config to Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65)
+[16Jul2025 01:56:44.588] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Futuuuro (18)
+[16Jul2025 01:56:44.589] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Futuuuro
+[16Jul2025 01:56:45.475] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[16Jul2025 01:56:45.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/common/IBellConnection$Type
+[16Jul2025 01:56:46.685] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipState
+[16Jul2025 01:56:46.695] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[16Jul2025 01:56:48.344] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[16Jul2025 01:56:48.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[16Jul2025 01:56:56.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[16Jul2025 01:56:58.025] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 539afb35-e210-35da-b6bb-7a8f5d937c65
+[16Jul2025 01:56:58.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Futuuuro (539afb35-e210-35da-b6bb-7a8f5d937c65) successfully connected to voice chat
+[16Jul2025 01:57:09.902] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[16Jul2025 01:57:30.518] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[16Jul2025 01:57:30.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Futuuuro> 345 7464
+[16Jul2025 01:57:32.314] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$HatType
+[16Jul2025 01:57:32.315] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/teamlapen/vampirism/entity/hunter/HunterBaseEntity$EquipmentType
+[16Jul2025 01:57:46.767] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/item/BaseBlockItem$InteractionFeedback
+[16Jul2025 01:58:11.767] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[16Jul2025 01:59:06.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[16Jul2025 01:59:06.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[16Jul2025 02:00:54.166] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[16Jul2025 02:00:59.261] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[16Jul2025 02:00:59.262] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[16Jul2025 02:02:07.116] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[16Jul2025 02:02:49.828] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:02:49.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[16Jul2025 02:02:49.852] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[16Jul2025 02:02:55.568] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:02:56.942] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:02:56.955] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[16Jul2025 02:03:02.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[16Jul2025 02:03:02.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Futuuuro fell from a high place, they gave up
+[16Jul2025 02:03:02.719] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[16Jul2025 02:03:03.917] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[16Jul2025 02:03:03.918] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[16Jul2025 02:03:03.921] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Jul2025 02:03:05.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
+[16Jul2025 02:03:06.003] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=327, y=136, z=7457}
+[16Jul2025 02:03:12.611] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[16Jul2025 02:04:08.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Futuuuro moved too quickly! -2.3146297465497128,-2.6661092609382138,-9.391362170760516
+[16Jul2025 02:04:09.345] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=163, y=43, z=89}
+[16Jul2025 02:04:18.566] [Server thread/WARN] [tombstone/]: The death event of the player Futuuuro was canceled by another mod
+[16Jul2025 02:04:18.573] [Server thread/INFO] [tombstone/]: The player Futuuuro has successfully been saved
+[16Jul2025 02:04:19.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Teleported Futuuuro to JOA_KINGSITO7]
