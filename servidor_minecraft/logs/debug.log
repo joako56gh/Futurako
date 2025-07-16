@@ -8963,3 +8963,24 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [16Jul2025 00:04:51.931] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@7d3e62fa for service interface com.blamejared.clumps.platform.IPlatformHelper
 [16Jul2025 00:08:21.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jul2025 00:08:21.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 00:13:21.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 00:13:21.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 00:15:42.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Set own game mode to Survival Mode]
+[16Jul2025 00:15:47.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jul2025 00:15:47.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaaaaa<--[HERE]
+[16Jul2025 00:16:19.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[16Jul2025 00:18:21.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 00:18:21.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 00:20:52.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1457f291-d123-3a93-b230-242c3d4ef6de timed out
+[16Jul2025 00:20:52.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JOA_KINGSITO7
+[16Jul2025 00:20:52.544] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to JOA_KINGSITO7
+[16Jul2025 00:20:52.544] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with JOA_KINGSITO7
+[16Jul2025 00:20:52.544] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with JOA_KINGSITO7
+[16Jul2025 00:20:52.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JOA_KINGSITO7
+[16Jul2025 00:20:52.544] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 1457f291-d123-3a93-b230-242c3d4ef6de to disconnected: {disabled=true, disconnected=true, uuid=1457f291-d123-3a93-b230-242c3d4ef6de, name=JOA_KINGSITO7, group=null}
+[16Jul2025 00:21:07.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JOA_KINGSITO7 lost connection: Disconnected
+[16Jul2025 00:21:07.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JOA_KINGSITO7 left the game
+[16Jul2025 00:21:07.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[16Jul2025 00:21:07.233] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of JOA_KINGSITO7
+[16Jul2025 00:21:07.234] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JOA_KINGSITO7
+[16Jul2025 00:21:07.276] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
