@@ -1434,3 +1434,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [15Jul2025 23:48:24.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Successfully filled 94 block(s)]
 [15Jul2025 23:50:12.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Successfully filled 295 block(s)]
 [15Jul2025 23:50:38.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Successfully filled 895 block(s)]
+[15Jul2025 23:53:53.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JOA_KINGSITO7: Successfully filled 500 block(s)]
+[15Jul2025 23:57:09.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jul2025 23:57:09.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaaa<--[HERE]
