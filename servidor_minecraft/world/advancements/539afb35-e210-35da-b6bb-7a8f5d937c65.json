@@ -12703,5 +12703,173 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-16 02:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-16 02:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-16 02:04:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-07-16 02:04:41 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-07-16 02:05:49 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-07-16 02:05:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_magenta_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_orange_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_brown_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_blue_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_lime_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray_pane2": {
+    "criteria": {
+      "recipe_condition1": "2025-07-16 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-07-16 02:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-07-16 02:09:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-07-16 02:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-07-16 02:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-16 02:09:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 02:10:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
