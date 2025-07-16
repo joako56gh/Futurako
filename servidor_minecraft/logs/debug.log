@@ -9321,3 +9321,14 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [16Jul2025 00:38:21.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jul2025 00:38:55.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [16Jul2025 00:38:55.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaaaaaaaaaaaaa<--[HERE]
+[16Jul2025 00:43:21.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 00:43:21.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 00:48:21.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jul2025 00:48:21.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jul2025 00:49:01.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jul2025 00:49:01.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaa<--[HERE]
+[16Jul2025 00:49:38.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[16Jul2025 00:49:45.532] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.31 and blood value 2 for entity tombstone:spectral_wolf
+[16Jul2025 00:49:53.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[16Jul2025 00:52:39.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jul2025 00:52:39.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaa<--[HERE]

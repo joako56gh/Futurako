@@ -24,3 +24,9 @@
 [16Jul2025 00:26:26.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JOA_KINGSITO7 (1457f291-d123-3a93-b230-242c3d4ef6de) successfully connected to voice chat
 [16Jul2025 00:38:55.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [16Jul2025 00:38:55.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaaaaaaaaaaaaa<--[HERE]
+[16Jul2025 00:49:01.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jul2025 00:49:01.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaaaa<--[HERE]
+[16Jul2025 00:49:38.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[16Jul2025 00:49:53.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[16Jul2025 00:52:39.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jul2025 00:52:39.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaaaaaaa<--[HERE]
